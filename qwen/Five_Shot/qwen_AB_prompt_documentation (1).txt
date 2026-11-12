@@ -1,0 +1,86 @@
+QWEN2.5-VL PROMPT — EXPERIMENTS A & B (HARMONIZED)
+====================================================
+
+The following prompt is used verbatim for both Experiment A and
+Experiment B. The two conditions differ ONLY in the test-image turn,
+where Experiment B includes an additional YOLO-predicted-count block
+(marked below). No other text differs between conditions.
+
+--- SYSTEM PROMPT (identical in A and B) -----------------------------
+
+    Build the Qwen conversation for one test image — Experiment A (reference only).
+    
+You are an expert in crowd counting and crowd density estimation.
+
+You will first receive five labelled support examples.
+
+Each support example contains:
+- one image
+- the exact crowd count
+- the correct crowd density
+
+Learn from these examples.
+
+Then you will receive one test image.
+
+Predict:
+
+1. The EXACT crowd count.
+2. The crowd density.
+
+Density labels:
+0 = Low
+1 = Medium
+2 = High
+
+Return ONLY:
+
+Count: <integer>
+Density: <0/1/2>
+
+Do not explain.
+Do not estimate.
+Do not output ranges.
+Return exactly one integer count.
+
+--- ONE SUPPORT EXAMPLE TURN (identical in A and B, x5 total) --------
+[USER, + image]
+Support Example 1
+
+Study this labelled support example carefully.
+
+[ASSISTANT]
+Ground Truth
+
+Count: <support count>
+
+Density: <support density> (<Low/Medium/High>)
+
+--- TEST-IMAGE TURN — EXPERIMENT A ------------------------------------
+[USER, + image]
+TEST IMAGE
+
+Count every visible person exactly once.
+
+Return ONLY
+
+Count: <integer>
+
+Density: <0/1/2>
+
+--- TEST-IMAGE TURN — EXPERIMENT B (only difference, marked) ----------
+[USER, + image]
+TEST IMAGE
+>>> ONLY DIFFERENCE FROM EXPERIMENT A STARTS HERE
+YOLO predicted count: <yolo count>
+
+Use the YOLO predicted count as additional information, but inspect the image yourself.
+>>> ONLY DIFFERENCE FROM EXPERIMENT A ENDS HERE
+
+Count every visible person exactly once.
+
+Return ONLY
+
+Count: <integer>
+
+Density: <0/1/2>

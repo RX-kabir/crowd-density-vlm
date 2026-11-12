@@ -1,0 +1,24 @@
+# --- data, weights and environments (too large / licensed; see data/README.md) ---
+Phase5_Input/
+Phase5_Input.zip
+dataset/
+yolo_env/
+*.zip
+*.pt
+
+# --- duplicates: Results/ is an exact mirror of the model folders and Final_Comparison/ ---
+# (delete this line if you prefer to publish the mirror instead)
+Results/
+
+# --- secrets ---
+.env
+*.key
+secrets*
+
+# --- notebook / python / OS noise ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Untitled*.ipynb
+.DS_Store
+Thumbs.db

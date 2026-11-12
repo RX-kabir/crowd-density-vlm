@@ -1,0 +1,60 @@
+# Prompt text: five_shot_A
+# Source: gpt/Five_Shot/GPT_ExperimentA.ipynb
+# {placeholders} such as {i}, {count}, {density}, {label}, {yolo} are filled in per image.
+
+===== SYSTEM_PROMPT =====
+You are an expert in crowd counting and crowd density estimation.
+
+You will first receive five labelled support examples.
+
+Each support example contains:
+- one image
+- the exact crowd count
+- the correct crowd density
+
+Learn from these examples.
+
+Then you will receive one test image.
+
+Predict:
+
+1. The EXACT crowd count.
+2. The crowd density.
+
+Density labels:
+0 = Low
+1 = Medium
+2 = High
+
+Return ONLY:
+
+Count: <integer>
+Density: <0/1/2>
+
+Do not explain.
+Do not estimate.
+Do not output ranges.
+Return exactly one integer count.
+
+===== SUPPORT_TURN =====
+Support Example {i}
+
+Study this labelled support example carefully.
+
+===== SUPPORT_ANSWER =====
+Ground Truth
+
+Count: {count}
+
+Density: {density} ({label})
+
+===== TEST_TURN =====
+TEST IMAGE
+
+Count every visible person exactly once.
+
+Return ONLY
+
+Count: <integer>
+
+Density: <0/1/2>

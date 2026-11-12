@@ -1,0 +1,4734 @@
+test_filename,yolo_predicted_count,predicted_count,predicted_density,raw_response
+2,32,32.0,1,"Count: 32
+
+Density: 1 (Medium) - 2 (High)"
+4,25,25.0,1,"Count: 25
+
+Density: 1 (Medium) - 2 (High)"
+5,1,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+6,41,41.0,0,"Count: 41
+
+Density: 0 (Low) (1/100)"
+16,58,58.0,2,"Count: 58
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or stadium. The density of the crowd is high, with many people"
+20,20,20.0,2,"Count: 20
+
+Density: 2 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+24,9,15.0,2,"Count: 15
+
+Density: 2 (High) (15/100)"
+28,15,15.0,0,"Count: 15
+
+Density: 0 (Low) - The image shows a crowd of people in a public space, but the density is not high enough to be considered a ""high density"
+33,17,17.0,0,"Count: 17
+Density: 0.1 (Low) (High)"
+41,21,21.0,2,"Count: 21
+
+Density: 2 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+43,60,60.0,0,"Count: 60
+
+Density: 0.00000000000000000000000000000"
+45,136,136.0,1,"Count: 136
+
+Density: 1 (Medium) - 2 (High)"
+47,29,29.0,0,"Count: 29
+
+Density: 0.00000000000000000000000000000"
+60,182,182.0,2,"Count: 182
+
+Density: 2 (High) - 182 people"
+59,112,112.0,1,"Count: 112
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the count is not provided. The density is not high enough to"
+65,258,258.0,1,"Count: 258
+
+Density: 1 (Medium) - 258 people"
+71,129,129.0,1,"Count: 129
+
+Density: 1 (Medium) - 2 (High)"
+79,91,100.0,1,"Count: 100
+
+Density: 1 (Low) - 100 (High)"
+80,3,300.0,0,"Count: 300
+
+Density: 0.0000000000000000000000000000"
+86,205,205.0,2,"Count: 205
+
+Density: 2 (High) - The image shows a crowd of people in a room with a large number of people. The density is high, indicating a large"
+87,2,1000.0,2,"Count: 1000
+
+Density: 2 (Low) - 3 (High)"
+90,50,100.0,2,"Count: 100
+
+Density: 2 (Low) (100/100)"
+91,29,295.0,1,"Count: 295
+
+Density: 1 (Medium) - 2 (High)"
+93,31,31.0,1,"Count: 31
+
+Density: 1 (Low) (1/3 of the crowd)"
+94,23,23.0,0,"Count: 23
+
+Density: 0 (Low) (1/3)"
+96,38,38.0,2,"Count: 38
+
+Density: 2 (Low) (1/3 of the crowd)"
+98,36,1023.0,1,"Count: 1023
+
+Density: 1 (Medium) - 2 (High)"
+104,0,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+110,180,180.0,1,"Count: 180
+
+Density: 1 (Low) - 2 (High)"
+115,38,38.0,2,"Count: 38
+
+Density: 2 (High) - 1 (Low)"
+117,32,329.0,2,"Count: 329
+
+Density: 2 (High) (1) (Low)"
+119,283,283.0,2,"Count: 283
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a high density of individuals. The count is 283"
+120,31,314.0,2,"Count: 314
+
+Density: 2 (High) - The image shows a crowd of people gathered around a train station. The density of the crowd is high, with many individuals visible"
+121,51,517.0,2,"Count: 517
+
+Density: 2 (High) - 1 (Medium)"
+123,10,10.0,0,"Count: 10
+
+Density: 0 (Low) - 1 (High)"
+124,47,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a crowd of people in a busy public space, likely a train station or a similar transportation hub. The density"
+129,185,185.0,0,"Count: 185
+
+Density: 0.111111111"
+130,137,137.0,1,"Count: 137
+
+Density: 1 (Low) - 137 (High)"
+131,10,10.0,1,"Count: 10
+
+Density: 1 (Low) (10/1000)"
+132,219,219.0,2,"Count: 219
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large group. The density of the crowd is high, with many individuals visible"
+140,71,1520.0,2,"Count: 1520
+Density: 2 (High) (1520 / 1520 = 100.00000000"
+152,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+153,132,132.0,0,"Count: 132
+
+Density: 0 (Low) (132/132)"
+154,69,69.0,1,"Count: 69
+
+Density: 1 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a ""high"" density."
+157,0,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the density is low, indicating that the crowd is sparse."
+159,13,13.0,1,"Count: 13
+
+Density: 1 (Low) - The image shows a crowd of people, but the count is not provided."
+160,49,49.0,1,"Count: 49
+
+Density: 1 (Medium) - 2 (High)"
+176,300,300.0,2,"Count: 300
+
+Density: 2 (High) (YOLO predicted count)"
+178,300,158.0,2,"Count: 158
+
+Density: 2 (High) (Please note that this count is based on the image and does not include the crowd density as it is not a real number)"
+186,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+195,80,80.0,2,"Count: 80
+
+Density: 2 (High) (1/100)"
+202,3,113.0,2,"Count: 113
+
+Density: 2 (High) - 1 (Low)"
+211,300,101.0,2,"Count: 101
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large group, with some individuals standing out due to their density. The density"
+212,1,152.0,2,"Count: 152
+
+Density: 2 (High) (152 people)"
+216,35,105.0,1,"Count: 105
+
+Density: 1 (Medium) - 2 (High)"
+218,280,24.0,1,"Count: 24
+
+Density: 1 (Medium) (1/2)"
+222,17,17.0,2,"Count: 17
+
+Density: 2 (High) - 17 (Low)"
+223,20,20.0,1,"Count: 20
+
+Density: 1 (Medium) - 2 (High)"
+226,11,11.0,0,"Count: 11
+
+Density: 0.111111111"
+227,135,135.0,2,"Count: 135
+
+Density: 2 (High) - The image shows a crowd of people at a stadium or event. The density is high, indicating a large gathering of people."
+229,296,296.0,0,"Count: 296
+
+Density: 0.2 (Low) (High)"
+234,13,13.0,0,"Count: 13
+
+Density: 0 (Low) (13/100)"
+236,2,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (High)"
+237,9,1000.0,0,"Count: 1000
+
+Density: 0 (Low) (1000 people)"
+238,46,46.0,1,"Count: 46
+
+Density: 1 (Medium) (1/100)"
+240,1,1000.0,0,"Count: 1000
+
+Density: 0 (Low) (1000 is too high, it's not accurate)"
+242,18,18.0,0,"Count: 18
+
+Density: 0 (Low) (1/100)"
+244,15,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+245,58,58.0,2,"Count: 58
+
+Density: 2 (High) (YOLO predicted count)"
+252,50,50.0,2,"Count: 50
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall with a large number of people. The density of the crowd is high"
+253,248,248.0,0,"Count: 248
+
+Density: 0.2 (Low) (248/248)"
+254,58,150.0,1,"Count: 150
+
+Density: 1 (Medium) - 2 (High)"
+256,26,120.0,2,"Count: 120
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall, with a large number of individuals visible. The density of the"
+257,15,15.0,2,"Count: 15
+
+Density: 2 (Low) (15/100)"
+258,24,24.0,2,"Count: 24
+
+Density: 2 (Low) - The image shows a crowd of people gathered in a large group, but the density is low, indicating that the image is not very"
+259,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+262,26,26.0,2,"Count: 26
+Density: 2 (High) (YOLO predicted count)"
+263,20,207.0,2,"Count: 207
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium or arena. The density of the crowd is high, with many individuals"
+264,31,31.0,0,"Count: 31
+
+Density: 0 (Low) - 1 (Medium)"
+265,53,53.0,1,"Count: 53
+
+Density: 1 (Medium) - 2 (High)"
+269,176,176.0,1,"Count: 176
+
+Density: 1 (Medium) - 2 (High)"
+273,300,132.0,2,"Count: 132
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, likely a stadium or a large event space. The crowd is"
+275,161,161.0,1,"Count: 161
+
+Density: 1 (Medium) - 2 (High)"
+279,39,39.0,2,"Count: 39
+
+Density: 2 (High) (YOLO predicted count)"
+281,12,12.0,1,"Count: 12
+
+Density: 1 (Medium) - 2 (High)"
+286,53,53.0,1,"Count: 53
+
+Density: 1 (Medium) - 2 (High)"
+288,70,1209.0,2,"Count: 1209
+
+Density: 2 (High) (1209 people)"
+291,37,37.0,0,"Count: 37
+
+Density: 0 (Low) (1/3)"
+293,245,245.0,2,"Count: 245
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a concert or festival venue. The density of the"
+294,32,32.0,1,"Count: 32
+
+Density: 1 (Medium) - 2 (High)"
+297,53,534.0,2,"Count: 534
+
+Density: 2 (High) (197)"
+299,25,2578.0,2,"Count: 2578
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, with a significant number of individuals visible. The density of"
+301,72,108.0,2,"Count: 108
+
+Density: 2 (High) - 108 people"
+303,9,105.0,1,"Count: 105
+
+Density: 1 (Medium) - 2 (High)"
+306,9,2230.0,1,"Count: 2230
+
+Density: 1 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high,"
+307,13,13.0,1,"Count: 13
+
+Density: 1 (Medium) - 2 (High)"
+308,31,100.0,1,"Count: 100
+
+Density: 1 (Medium) - 2 (High)"
+309,17,17.0,1,"Count: 17
+Density: 1 (High) (17/100)"
+311,23,23.0,1,"Count: 23
+
+Density: 1 (Medium) - 2 (High)"
+312,3,110.0,1,"Count: 110
+
+Density: 1 (Medium) - 2 (High)"
+316,64,64.0,2,"Count: 64
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large group, with some individuals standing and others seated. The density of the crowd"
+319,208,208.0,1,"Count: 208
+
+Density: 1 (Medium) - 2 (High)"
+325,20,20.0,1,"Count: 20
+
+Density: 1 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"""
+327,175,175.0,1,"Count: 175
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the density is low, indicating that the image is likely taken from"
+331,29,29.0,0,"Count: 29
+
+Density: 0 (Low) (1/2)"
+332,7,146.0,2,"Count: 146
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density is high, with many individuals present"
+347,143,143.0,0,"Count: 143
+
+Density: 0 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+350,12,12.0,2,"Count: 12
+Density: 2 (High) (YOLO predicted count)"
+351,16,16.0,0,"Count: 16
+Density: 0.166666667"
+353,59,59.0,1,"Count: 59
+
+Density: 1 (Low) - 2 (Medium)"
+354,13,13.0,1,"Count: 13
+
+Density: 1 (Low) - The image shows a group of people gathered together, but the count is not provided. The density is also not provided."
+356,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/3 of the crowd)"
+361,166,166.0,0,"Count: 166
+
+Density: 0 (Low) (1/100)"
+362,212,212.0,2,"Count: 212
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a high density of individuals. The count is 21"
+372,218,218.0,2,"Count: 218
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a concert or festival. The density of the crowd"
+374,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - 1 (High)"
+379,103,103.0,1,"Count: 103
+
+Density: 1 (Medium) - 2 (High)"
+381,76,100.0,1,"Count: 100
+
+Density: 1 (Low) - 100 (High)"
+384,13,13.0,1,"Count: 13
+
+Density: 1 (Medium) - 2 (High)"
+392,8,2023.0,2,"Count: 2023
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a park or a plaza. The density of the"
+396,63,1203.0,2,"Count: 1203
+
+Density: 2 (High) (1203 / 1203)"
+398,95,95.0,0,"Count: 95
+
+Density: 0 (Low) (1/100)"
+400,25,25.0,2,"Count: 25
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or stadium. The density of the crowd is high, with many individuals"
+401,83,189.0,2,"Count: 189
+
+Density: 2 (High) (1/3)"
+402,141,141.0,1,"Count: 141
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+403,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3 of the crowd)"
+409,131,131.0,1,"Count: 131
+
+Density: 1 (Low) - 2 (High)"
+410,34,34.0,2,"Count: 34
+
+Density: 2 (Low) (1/3 of the crowd)"
+412,24,24.0,0,"Count: 24
+
+Density: 0 (Low) (1/100)"
+416,18,18.0,1,"Count: 18
+
+Density: 1 (Medium) - 2 (High)"
+417,11,11.0,1,"Count: 11
+
+Density: 1 (Low) - 11 people"
+419,45,113.0,2,"Count: 113
+
+Density: 2 (High) - The exact count is not provided in the image."
+420,28,28.0,2,"Count: 28
+
+Density: 2 (High) - The image shows a crowd of people gathered in a room with a high density of individuals. The count is 28, and"
+421,0,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a convention center or a similar venue. The density"
+426,11,11.0,1,"Count: 11
+
+Density: 1 (Low) (11/100)"
+427,91,103.0,1,"Count: 103
+
+Density: 1 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density is high, indicating a large gathering"
+431,14,14.0,1,"Count: 14
+
+Density: 1 (Medium) - 2 (High)"
+433,12,12.0,0,"Count: 12
+
+Density: 0.1 (Low) - 1 (High)"
+434,103,103.0,1,"Count: 103
+
+Density: 1 (Medium) - 2 (High)"
+435,41,100.0,2,"Count: 100
+
+Density: 2 (Low) - The image shows a crowd of people in a crowded area with a large number of vehicles, including cars, buses, and motorcycles"
+438,7,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+441,77,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+443,41,418.0,2,"Count: 418
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a park or a public event space. The density"
+447,3,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+449,13,13.0,2,"Count: 13
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a street or a park. The density of the crowd is"
+453,81,81.0,2,"Count: 81
+
+Density: 2 (High) - 1 (Low)"
+455,22,22.0,2,"Count: 22
+Density: 2 (High) (1/3)"
+458,44,111.0,2,"Count: 111
+
+Density: 2 (High) - 1 (Low)"
+459,14,14.0,1,"Count: 14
+
+Density: 1 (Low) - The image shows a large crowd of people, but the density is not high enough to be considered a ""high density"" image."
+463,142,142.0,1,"Count: 142
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a stadium, but the count is not provided. The density is not high enough"
+464,155,155.0,0,"Count: 155
+
+Density: 0 (Low) (155/155)"
+466,35,123.0,2,"Count: 123
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, likely a concert or event. The density of the crowd is"
+469,57,57.0,2,"Count: 57
+
+Density: 2 (Low) - 3 (Medium)"
+470,105,105.0,1,"Count: 105
+
+Density: 1 (Medium) - 2 (High)"
+471,32,32.0,0,"Count: 32
+Density: 0.00000000000000000000000000000"
+473,91,40.0,2,"Count: 40
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, with a significant number of individuals present. The density of the crowd"
+479,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - 1 (High)"
+483,29,29.0,1,"Count: 29
+
+Density: 1 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+492,122,122.0,2,"Count: 122
+
+Density: 2 (High) - The image shows a group of people gathered together, but the exact number of individuals is not provided. The density is also not"
+493,224,224.0,1,"Count: 224
+
+Density: 1 (Medium) - 2 (High)"
+494,34,249.0,2,"Count: 249
+
+Density: 2 (High) - The image shows a crowd of people gathered in a busy area, with a clear focus on the crowd density. The count is"
+495,51,51.0,1,"Count: 51
+
+Density: 1 (Medium) - 2 (High)"
+503,23,23.0,1,"Count: 23
+
+Density: 1 (Medium) - 23 people"
+504,152,152.0,1,"Count: 152
+
+Density: 1 (Medium) - 2 (High)"
+505,13,134.0,1,"Count: 134
+
+Density: 1 (Medium) - 2 (High)"
+510,82,82.0,2,"Count: 82
+
+Density: 2 (High) - 100%"
+511,11,11.0,0,"Count: 11
+Density: 0.00000000000000000000000000000"
+515,3,111.0,2,"Count: 111
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The density of"
+516,5,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (Medium)"
+519,61,61.0,0,"Count: 61
+
+Density: 0 (Low) (1/100)"
+520,66,119.0,2,"Count: 119
+
+Density: 2 (High) (119/119)"
+527,136,136.0,1,"Count: 136
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large venue, but the count is not provided. The density is low,"
+529,37,170.0,2,"Count: 170
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The crowd is"
+533,19,19.0,0,"Count: 19
+
+Density: 0 (Low) (19/100)"
+535,2,10.0,0,"Count: 10
+
+Density: 0 (Low) (10/100)"
+538,21,152.0,2,"Count: 152
+
+Density: 2 (High) - The count is accurate and the density is high."
+540,17,17.0,1,"Count: 17
+
+Density: 1 (Low) - 2 (Medium)"
+542,41,113.0,2,"Count: 113
+
+Density: 2 (High) (113/113)"
+544,27,151.0,2,"Count: 151
+
+Density: 2 (High) - The image shows a crowd of people in a crowded space, possibly a street or a public area. The density is high,"
+547,9,142.0,2,"Count: 142
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a mall or a shopping center. The crowd is"
+549,28,28.0,2,"Count: 28
+
+Density: 2 (Low) (1/3 of the crowd)"
+550,49,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (Medium)"
+552,66,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+555,12,125.0,2,"Count: 125
+
+Density: 2 (Low) (125/1000)"
+561,57,57.0,2,"Count: 57
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with many"
+563,7,158.0,2,"Count: 158
+
+Density: 2 (High) - 1 (Low)"
+565,153,153.0,1,"Count: 153
+
+Density: 1 (Low) - 2 (High)"
+567,15,15.0,1,"Count: 15
+
+Density: 1 (Low) - 2 (High)"
+568,0,302.0,2,"Count: 302
+
+Density: 2 (High) - The count of visible people is 302, and the density is 2 (high)."
+569,94,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+571,300,100.0,2,"Count: 100
+
+Density: 2 (Low) (100/100)"
+574,11,11.0,1,"Count: 11
+Density: 1 (Low) - The image shows a crowd of people, but the count is not provided. The density is also not provided."
+576,23,23.0,1,"Count: 23
+
+Density: 1 (Medium) - 2 (High)"
+577,9,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a crowd density"
+581,14,142.0,2,"Count: 142
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a high density of individuals. The count is 1"
+582,16,160.0,2,"Count: 160
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a stadium or a large public area. The density"
+584,15,15.0,1,"Count: 15
+
+Density: 1 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a crowd density."
+586,44,44.0,1,"Count: 44
+
+Density: 1 (Low) - 2 (Medium)"
+587,123,123.0,2,"Count: 123
+
+Density: 2 (Low) (123/123)"
+588,300,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (High)"
+589,161,161.0,0,"Count: 161
+
+Density: 0 (Low) - 1 (High)"
+590,27,27.0,0,"Count: 27
+Density: 0.25/1000"
+591,300,155.0,2,"Count: 155
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"
+592,54,18.0,1,"Count: 18
+
+Density: 1 (Medium) - 2 (High)"
+593,52,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1/1000)"
+595,9,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+597,5,103.0,1,"Count: 103
+
+Density: 1 (Medium) - 2 (High)"
+600,122,122.0,1,"Count: 122
+
+Density: 1 (Medium) - 2 (High)"
+601,32,32.0,1,"Count: 32
+
+Density: 1 (Medium) - 2 (High)"
+602,257,257.0,0,"Count: 257
+
+Density: 0 (Low) (1/2)"
+603,171,171.0,1,"Count: 171
+
+Density: 1 (Low) - The image shows a group of people in a crowd, but the count is not provided. The density is also not provided."
+604,108,108.0,2,"Count: 108
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals wearing red and white. The density of"
+605,73,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a park or similar outdoor setting. The density is low, with only a few"
+608,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large open space, possibly a festival or event. The density of the crowd"
+609,79,162.0,2,"Count: 162
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a park or a public event. The density of"
+614,46,46.0,2,"Count: 46
+
+Density: 2 (High) - 1 (Low)"
+615,7,100.0,2,"Count: 100
+
+Density: 2 (High) - 1 (Low)"
+617,106,106.0,0,"Count: 106
+
+Density: 0 (Low) - 1 (Medium)"
+618,26,26.0,1,"Count: 26
+
+Density: 1 (Medium) - 2 (High)"
+619,37,1000.0,0,"Count: 1000
+
+Density: 0 (Low) - 1 (High)"
+622,15,637.0,2,"Count: 637
+
+Density: 2 (High) - The image shows a crowd of people in a public space, likely a city or town square. The density is high, indicating"
+626,94,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+627,7,124.0,2,"Count: 124
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium, with a large crowd of people standing and walking around. The density"
+641,178,178.0,2,"Count: 178
+
+Density: 2 (High) - The image shows a large crowd of people gathered in an indoor setting, possibly a conference or event hall. The density of the"
+642,29,29.0,0,"Count: 29
+
+Density: 0 (Low) (1/2)"
+644,11,112.0,2,"Count: 112
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals visible. The density of the"
+645,28,28.0,1,"Count: 28
+
+Density: 1 (High) - The image shows a crowd of people in a busy urban area. The density of the crowd is high, with many individuals visible in"
+646,18,18.0,0,"Count: 18
+Density: 0.111111111"
+648,296,296.0,0,"Count: 296
+
+Density: 0 (Low) (1/100)"
+650,76,102.0,2,"Count: 102
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The crowd is"
+651,41,122.0,2,"Count: 122
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density is high, with many people present"
+654,52,52.0,2,"Count: 52
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium or arena. The density of the crowd is high, with many individuals visible"
+657,150,150.0,2,"Count: 150
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+658,300,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 people)"
+660,300,100.0,0,"Count: 100
+
+Density: 0 (Low) - The image shows a large crowd of people, but the density is not high enough to be considered accurate."
+666,2,282.0,2,"Count: 282
+
+Density: 2 (High) - The image shows a crowd of people in a busy area, with a high density of people. The density is high, indicating"
+669,23,23.0,2,"Count: 23
+Density: 2 (High) (1/3 of the crowd)"
+673,39,122.0,2,"Count: 122
+
+Density: 2 (High) - The image shows a large crowd of people in a room with a white screen in the background. The crowd is densely packed,"
+674,0,100.0,2,"Count: 100
+
+Density: 2 (Low) - 3 (Medium)"
+676,41,41.0,2,"Count: 41
+
+Density: 2 (High) - 1 (Low)"
+678,44,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, with a large number of individuals present. The density of the"
+679,32,32.0,2,"Count: 32
+Density: 2 (High) (YOLO predicted count)"
+686,138,134.0,1,"Count: 134
+
+Density: 1 (Medium) - 2 (High)"
+687,33,33.0,1,"Count: 33
+
+Density: 1 (Low) - The image shows a crowd of people at an airport, but the density is low, indicating that the image is likely taken from a"
+689,82,82.0,1,"Count: 82
+
+Density: 1 (Medium) - 2 (High)"
+690,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+693,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+696,23,161.0,2,"Count: 161
+
+Density: 2 (High) - The image shows a large crowd of people, but the density is not high enough to be considered a ""high density"" image"
+699,27,27.0,0,"Count: 27
+
+Density: 0 (Low) (1/2)"
+700,175,175.0,0,"Count: 175
+
+Density: 0 (Low) - 1 (Medium)"
+701,52,52.0,1,"Count: 52
+
+Density: 1 (Medium) - 2 (High)"
+704,42,42.0,2,"Count: 42
+
+Density: 2 (High) - 1 (Low)"
+705,295,295.0,1,"Count: 295
+
+Density: 1 (Medium) - 2 (High)"
+707,200,200.0,0,"Count: 200
+
+Density: 0 (Low) - 1 (High)"
+709,140,140.0,2,"Count: 140
+
+Density: 2 (High) - The image shows a large crowd of people, but the exact count is not provided. The density is also not provided."
+712,102,102.0,1,"Count: 102
+
+Density: 1 (Medium) - 2 (High)"
+713,5,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (Medium)"
+718,62,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+720,157,152.0,2,"Count: 152
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a high density of individuals. The count is 1"
+722,0,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+723,201,123.0,2,"Count: 123
+
+Density: 2 (High) - The image shows a large crowd of people in a hall with a large audience. The density of the crowd is high, with"
+727,54,54.0,1,"Count: 54
+
+Density: 1 (Medium) - 2 (High)"
+728,99,1486.0,2,"Count: 1486
+
+Density: 2 (High) (1486 / 1000)"
+731,51,51.0,0,"Count: 51
+
+Density: 0 (Low) (1/100)"
+733,10,100.0,1,"Count: 100
+
+Density: 1 (Low) - 100 (High)"
+736,39,39.0,2,"Count: 39
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a city square or a public event. The density of the"
+741,15,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+743,35,35.0,1,"Count: 35
+
+Density: 1 (Low) (1/3)"
+749,24,246.0,2,"Count: 246
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a park or a street. The density of the crowd"
+753,18,18.0,2,"Count: 18
+Density: 2 (High) (YOLO predicted count)"
+754,0,106.0,2,"Count: 106
+
+Density: 2 (High) - The image shows a large crowd of people gathered in an outdoor setting, possibly a city square or a similar public space. The"
+755,72,72.0,2,"Count: 72
+
+Density: 2 (High) - 1 (Low)"
+758,15,15.0,1,"Count: 15
+
+Density: 1 (Low) - The image shows a crowd of people gathered on a train track. The density is low, with only a few individuals visible."
+759,300,17.0,1,"Count: 17
+Density: 1 (Medium) (Based on the image provided)"
+760,204,204.0,2,"Count: 204
+
+Density: 2 (High) - The image shows a crowd of people in a busy shopping mall. The density of the crowd is high, with many people wearing"
+762,6,1198.0,2,"Count: 1198
+
+Density: 2 (High) (1198 / 1198 = 100.000)"
+768,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+770,11,11.0,0,"Count: 11
+
+Density: 0 (Low) (11/100)"
+773,29,29.0,2,"Count: 29
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a significant number of individuals wearing hats and holding signs. The"
+774,37,37.0,0,"Count: 37
+
+Density: 0 (Low) (1/3)"
+775,25,25.0,0,"Count: 25
+
+Density: 0.00000000000000000000000000000"
+777,82,82.0,1,"Count: 82
+
+Density: 1 (Medium) - 2 (High)"
+779,49,490.0,2,"Count: 490
+
+Density: 2 (High) - 1 (Medium)"
+782,108,108.0,1,"Count: 108
+
+Density: 1 (Medium) - 2 (High)"
+785,61,61.0,2,"Count: 61
+
+Density: 2 (High) - 1 (Low)"
+786,23,23.0,1,"Count: 23
+
+Density: 1 (Medium) - 2 (High)"
+792,115,115.0,1,"Count: 115
+
+Density: 1 (Medium) - 2 (High)"
+797,18,18.0,1,"Count: 18
+
+Density: 1 (Medium) - 2 (High)"
+798,243,243.0,0,"Count: 243
+
+Density: 0.0000000000000000000000000000"
+800,29,29.0,2,"Count: 29
+
+Density: 2 (High) - The image shows a crowd of people in a busy urban area. The density is high, with many people visible in the image."
+803,19,19.0,1,"Count: 19
+
+Density: 1 (Low) - 2 (Medium)"
+805,26,26.0,0,"Count: 26
+
+Density: 0 (Low) (1/2)"
+806,16,16.0,2,"Count: 16
+
+Density: 2 (High) - The image shows a crowd of people, but the count is not provided. The density is not specified."
+813,117,117.0,2,"Count: 117
+
+Density: 2 (High) - The image shows a crowd of people in a busy urban setting. The density is high, with many individuals visible in the image"
+814,6,279.0,1,"Count: 279
+
+Density: 1 (Medium) - 2 (High)"
+817,128,128.0,2,"Count: 128
+
+Density: 2 (Low) (128 / 128 = 100)"
+819,58,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large hall, with a crowd density of 1000 people"
+821,22,220.0,2,"Count: 220
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The count of visible individuals is 22"
+822,7,100.0,2,"Count: 100
+
+Density: 2 (Low) - 3 (Medium)"
+823,30,145.0,2,"Count: 145
+
+Density: 2 (High) - The count is accurate and the density is high."
+825,7,114.0,2,"Count: 114
+
+Density: 2 (High) - The image shows a crowd of people gathered in a city street during a protest. The density of the crowd is high, with"
+826,10,10.0,2,"Count: 10
+
+Density: 2 (Low) (10/100)"
+829,82,82.0,1,"Count: 82
+
+Density: 1 (Medium) - 2 (High)"
+830,9,113.0,2,"Count: 113
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a significant number of individuals present. The density is high"
+832,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3 of the crowd)"
+833,9,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+835,22,22.0,2,"Count: 22
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with some individuals standing and others walking. The density of the crowd"
+837,300,300.0,0,"Count: 300
+
+Density: 0.0000000000000000000000000000"
+839,20,20.0,1,"Count: 20
+
+Density: 1 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+844,12,12.0,2,"Count: 12
+
+Density: 2 (Low) - The image shows a crowd of people gathered in a large open area, with some individuals standing and others sitting. The density of the"
+849,211,211.0,1,"Count: 211
+
+Density: 1 (Medium) - 211 people"
+850,15,15.0,1,"Count: 15
+
+Density: 1 (Low) - 2 (Medium)"
+852,71,71.0,1,"Count: 71
+
+Density: 1 (Medium) - 2 (High)"
+855,7,17.0,1,"Count: 17
+
+Density: 1 (Medium) - 2 (High)"
+857,287,287.0,2,"Count: 287
+
+Density: 2 (High) - The image shows a large crowd of people gathered in a large open space, possibly a park or a stadium. The density of"
+859,61,61.0,1,"Count: 61
+
+Density: 1 (Medium) - 2 (High)"
+867,8,8.0,0,"Count: 8
+
+Density: 0.000000000000000000000000000000"
+868,4,1176.0,2,"Count: 1176
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of people visible. The density is"
+871,4,135.0,2,"Count: 135
+
+Density: 2 (High) (135/135)"
+872,7,14.0,2,"Count: 14
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+873,11,11.0,0,"Count: 11
+
+Density: 0 (Low) (11/100)"
+875,52,52.0,2,"Count: 52
+
+Density: 2 (High) - 1 (Low)"
+878,9,95.0,0,"Count: 95
+
+Density: 0 (Low) - This image shows a crowd of people gathered in a public space, likely a park or a similar outdoor area. The density of the"
+879,7,108.0,2,"Count: 108
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a high density of individuals. The count is 10"
+880,6,10.0,0,"Count: 10
+
+Density: 0 (Low) (10/100)"
+881,40,100.0,2,"Count: 100
+
+Density: 2 (Low) (100/100)"
+882,274,274.0,2,"Count: 274
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+884,234,234.0,1,"Count: 234
+
+Density: 1 (Medium) - 2 (High)"
+887,21,21.0,2,"Count: 21
+Density: 2 (Low) (Based on the image provided)"
+889,1,128.0,1,"Count: 128
+
+Density: 1 (Medium) (128 / 128 = 1)"
+890,9,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+891,224,224.0,1,"Count: 224
+
+Density: 1 (Medium) - 2 (High)"
+895,57,57.0,2,"Count: 57
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is high"
+897,38,38.0,0,"Count: 38
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a public space, but the count is not provided. The density is not specified."
+900,100,100.0,2,"Count: 100
+
+Density: 2 (High) - The image shows a crowd of people in a large hall or auditorium. The density is high, with many people visible in"
+906,2,200.0,1,"Count: 200
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a park or similar outdoor setting. The density of the crowd is moderate, with"
+907,4,150.0,1,"Count: 150
+
+Density: 1 (Medium) - 2 (High)"
+911,50,50.0,0,"Count: 50
+
+Density: 0 (Low) (1/100)"
+915,81,81.0,0,"Count: 81
+
+Density: 0 (Low) - 1 (High)"
+916,64,141.0,2,"Count: 141
+
+Density: 2 (High) (141 people)"
+919,106,106.0,2,"Count: 106
+
+Density: 2 (Low) (Based on the image provided)"
+925,11,1188.0,2,"Count: 1188
+
+Density: 2 (High) (1188 / 11 = 100)"
+926,17,17.0,2,"Count: 17
+
+Density: 2 (High) - 17 people"
+927,64,64.0,0,"Count: 64
+
+Density: 0 (Low) - 1 (Medium)"
+928,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (Based on the image provided)"
+931,80,137.0,2,"Count: 137
+
+Density: 2 (High) - The image shows a crowd of people gathered in a park or similar outdoor setting. The density of the crowd is high, with"
+934,21,21.0,0,"Count: 21
+
+Density: 0 (Low) (YOLO predicted count)"
+935,122,122.0,2,"Count: 122
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, with a clear sky and a clear horizon line. The"
+936,169,169.0,1,"Count: 169
+
+Density: 1 (Low) - 2 (Medium)"
+940,196,196.0,0,"Count: 196
+
+Density: 0 (Low) (196/196)"
+941,50,1814.0,2,"Count: 1814
+
+Density: 2 (High) (1814 / 50 = 36.2)"
+944,129,129.0,2,"Count: 129
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open area, possibly a stadium or a public space. The density of"
+946,16,16.0,0,"Count: 16
+Density: 0.166666667"
+949,176,176.0,2,"Count: 176
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a high density of individuals. The count is 1"
+952,300,302.0,2,"Count: 302
+
+Density: 2 (High) - The count is accurate and the density is high."
+957,105,105.0,2,"Count: 105
+
+Density: 2 (Low) - 105 (High)"
+958,26,26.0,0,"Count: 26
+Density: 0.25/1000"
+965,144,144.0,2,"Count: 144
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+968,143,143.0,2,"Count: 143
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+970,78,106.0,2,"Count: 106
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large stadium, with a large American flag waving in the background. The crowd"
+975,50,50.0,2,"Count: 50
+
+Density: 2 (High) (YOLO predicted count)"
+978,105,105.0,0,"Count: 105
+
+Density: 0 (Low) (105/105)"
+985,37,37.0,0,"Count: 37
+
+Density: 0 (Low) (1/3 of the crowd)"
+990,40,100.0,2,"Count: 100
+
+Density: 2 (Low) (100/100)"
+991,300,15.0,2,"Count: 15
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals visible. The density of the crowd"
+992,102,102.0,2,"Count: 102
+
+Density: 2 (Low) (102 / 102 = 102)"
+993,98,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+997,50,50.0,1,"Count: 50
+
+Density: 1 (Medium) - 2 (High)"
+999,17,17.0,1,"Count: 17
+
+Density: 1 (Medium) - 2 (High)"
+1007,125,125.0,2,"Count: 125
+
+Density: 2 (High) - 125 (Low)"
+1009,12,1250.0,2,"Count: 1250
+
+Density: 2 (Low) (1250 people)"
+1013,300,163.0,1,"Count: 163
+
+Density: 1 (Medium) - 2 (High)"
+1016,22,220.0,2,"Count: 220
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+1019,15,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+1022,11,11.0,1,"Count: 11
+Density: 1 (Low) (1/1000)"
+1025,29,29.0,0,"Count: 29
+
+Density: 0.2 (Low) (1/2)"
+1026,15,1500.0,1,"Count: 1500
+
+Density: 1 (Low) - 2 (Medium)"
+1027,178,178.0,1,"Count: 178
+
+Density: 1 (Medium) - 2 (High)"
+1029,28,28.0,2,"Count: 28
+
+Density: 2 (Low) - 3 (High)"
+1033,30,30.0,0,"Count: 30
+
+Density: 0 (Low) (10/100)"
+1034,45,45.0,0,"Count: 45
+
+Density: 0 (Low) - 1 (Medium)"
+1036,24,24.0,0,"Count: 24
+
+Density: 0 (Low) (1/2)"
+1043,40,40.0,2,"Count: 40
+
+Density: 2 (High) - 100%"
+1044,174,174.0,2,"Count: 174
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a ""high density"" image."
+1045,96,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+1047,49,47.0,1,"Count: 47
+
+Density: 1 (Medium) - 2 (High)"
+1049,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3 of the crowd)"
+1051,8,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+1052,284,284.0,0,"Count: 284
+
+Density: 0 (Low) - 1 (High)"
+1056,110,110.0,1,"Count: 110
+
+Density: 1 (Medium) - 2 (High)"
+1058,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3)"
+1062,125,125.0,2,"Count: 125
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area with a high density of individuals. The count is 125"
+1065,83,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals present. The density of the"
+1066,28,28.0,1,"Count: 28
+
+Density: 1 (Medium) - 2 (High)"
+1068,300,100.0,2,"Count: 100
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large city, with a significant number of individuals holding signs. The density of"
+1075,24,24.0,0,"Count: 24
+
+Density: 0 (Low) (1/100)"
+1077,300,300.0,1,"Count: 300
+
+Density: 1 (Low) (1/100)"
+1080,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+1083,1,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - The image shows a crowd of people in a busy urban area. The density is low, indicating that the crowd is dense"
+1086,4,476.0,1,"Count: 476
+
+Density: 1 (Medium) - The count is accurate and the density is 1, which is the highest among the five provided examples."
+1088,76,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large hall with a large archway in the background. The crowd is dense"
+1089,77,77.0,1,"Count: 77
+
+Density: 1 (Medium) - 2 (High)"
+1090,56,56.0,0,"Count: 56
+
+Density: 0 (Low) (1/2)"
+1094,12,125.0,1,"Count: 125
+
+Density: 1 (Medium) - 2 (High)"
+1101,47,47.0,2,"Count: 47
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a street or a park. The crowd is dense, with"
+1102,138,138.0,1,"Count: 138
+
+Density: 1 (Low) - 2 (Medium)"
+1104,42,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (High)"
+1106,238,238.0,1,"Count: 238
+
+Density: 1 (Medium) - 2 (High)"
+1109,197,197.0,1,"Count: 197
+
+Density: 1 (Low) - 2 (Medium)"
+1112,300,154.0,2,"Count: 154
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+1118,228,228.0,2,"Count: 228
+
+Density: 2 (High) - 1 (Low)"
+1122,81,81.0,1,"Count: 81
+
+Density: 1 (Medium) - 2 (High)"
+1123,7,13.0,2,"Count: 13
+
+Density: 2 (High) - 13 people"
+1130,135,135.0,1,"Count: 135
+
+Density: 1 (Medium) - 2 (High)"
+1131,225,225.0,2,"Count: 225
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+1133,213,213.0,0,"Count: 213
+
+Density: 0 (Low) - 1 (High)"
+1136,206,206.0,1,"Count: 206
+
+Density: 1 (High) - The image shows a crowd of people, but the density is not high enough to be considered a ""high density"" image."
+1141,36,36.0,1,"Count: 36
+
+Density: 1 (Medium) - 2 (High)"
+1149,24,24.0,2,"Count: 24
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, with a clear sky and a few clouds. The density of"
+1150,23,23.0,2,"Count: 23
+
+Density: 2 (High) - The image shows a crowd of people gathered in a snow-covered area, with a large number of individuals visible. The density of the"
+1152,56,56.0,0,"Count: 56
+
+Density: 0.2 (Low) (High)"
+1155,68,68.0,2,"Count: 68
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a ""high density"" image."
+1162,68,68.0,2,"Count: 68
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a significant number of individuals visible. The density of the crowd"
+1163,9,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+1165,2,20.0,0,"Count: 20
+
+Density: 0 (Low) (1/100)"
+1172,7,100.0,2,"Count: 100
+
+Density: 2 (Low) (100/100)"
+1185,36,36.0,1,"Count: 36
+
+Density: 1 (Low) - The image shows a crowd of people in a room with a large number of individuals. The density is low, indicating that the image"
+1191,32,32.0,2,"Count: 32
+
+Density: 2 (High) - 1 (Low)"
+1195,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - 2 (Medium)"
+1196,153,153.0,2,"Count: 153
+
+Density: 2 (High) - The image shows a crowd of people in a large hall, with a high density of individuals. The count is 15"
+1198,11,11.0,1,"Count: 11
+
+Density: 1 (Medium) - 2 (High)"
+1199,31,31.0,2,"Count: 31
+
+Density: 2 (High) - 1 (Low)"
+1200,12,12.0,0,"Count: 12
+
+Density: 0 (Low) - The image shows a crowd of people walking down a street, but the density is not high enough to be considered a crowd."
+1203,25,25.0,2,"Count: 25
+
+Density: 2 (High) - 1 (Medium)"
+1210,252,252.0,0,"Count: 252
+
+Density: 0 (Low) (1/2)"
+1211,72,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the density is low, indicating that the crowd is not densely packed"
+1216,117,117.0,2,"Count: 117
+
+Density: 2 (Low) - 3 (Medium)"
+1218,54,54.0,1,"Count: 54
+
+Density: 1 (Medium) - 2 (High)"
+1222,7,166.0,1,"Count: 166
+
+Density: 1 (Medium) - 2 (High)"
+1224,18,18.0,0,"Count: 18
+
+Density: 0.25/1000"
+1231,43,438.0,2,"Count: 438
+
+Density: 2 (High) - 1 (Low)"
+1237,71,11.0,0,"Count: 11
+
+Density: 0 (Low) (11/100)"
+1239,133,133.0,1,"Count: 133
+
+Density: 1 (Low) - The image shows a crowd of people in a large indoor arena with a large number of balloons. The balloons are in the shape"
+1245,31,1669.0,2,"Count: 1669
+
+Density: 2 (High) (1669 / 100000 = 0.00016666"
+1246,40,148.0,1,"Count: 148
+
+Density: 1 (Medium) - 2 (High)"
+1250,135,135.0,1,"Count: 135
+
+Density: 1 (Medium) - 2 (High)"
+1251,45,45.0,0,"Count: 45
+
+Density: 0 (Low) (1/2)"
+1252,57,52.0,2,"Count: 52
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a convention center or a similar venue. The crowd is"
+1254,123,123.0,1,"Count: 123
+
+Density: 1 (High) - The image shows a crowd of people gathered in a public space, with a large number of individuals present. The density of the"
+1258,159,159.0,1,"Count: 159
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the count is not provided. The density is not specified."
+1259,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - The image shows a crowd of people in a large stadium, but the count is not provided. The density is not high enough"
+1265,131,131.0,0,"Count: 131
+
+Density: 0 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"
+1266,2,1522.0,2,"Count: 1522
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium, with a large number of individuals present. The density of the"
+1269,13,130.0,2,"Count: 130
+
+Density: 2 (High) - 1 (Low)"
+1271,77,114.0,1,"Count: 114
+
+Density: 1 (Medium) - The count is accurate and the density is 1, which is the highest among the five provided."
+1272,166,166.0,2,"Count: 166
+
+Density: 2 (High) - The image shows a crowd of people, but the count is not provided. The density is not specified."
+1273,79,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+1277,16,1644.0,2,"Count: 1644
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large stadium. The density is high, with many individuals present. The"
+1284,300,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+1286,26,26.0,1,"Count: 26
+
+Density: 1 (Medium) - 2 (High)"
+1291,10,,0,"Count: 1000000000
+Density: 0"
+1293,55,160.0,2,"Count: 160
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The density of"
+1295,56,156.0,2,"Count: 156
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a park or a festival. The density of the crowd"
+1297,46,19.0,1,"Count: 19
+
+Density: 1 (Medium) - 2 (High)"
+1301,20,20.0,0,"Count: 20
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is low, with only"
+1309,44,44.0,2,"Count: 44
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high density"
+1314,2,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large open area, possibly a park or a festival. The density is low"
+1317,204,204.0,1,"Count: 204
+
+Density: 1 (Medium) - 2 (High)"
+1322,165,165.0,2,"Count: 165
+
+Density: 2 (High) (YOLO predicted count)"
+1327,21,21.0,0,"Count: 21
+Density: 0.25/1000"
+1329,26,26.0,2,"Count: 26
+
+Density: 2 (High) - 1 (Low)"
+1330,15,15.0,0,"Count: 15
+
+Density: 0 (Low) (15/1000)"
+1332,212,212.0,1,"Count: 212
+
+Density: 1 (Medium) - 2 (High)"
+1335,39,39.0,2,"Count: 39
+
+Density: 2 (High) (YOLO predicted count)"
+1336,17,17.0,1,"Count: 17
+
+Density: 1 (Medium) - 2 (High)"
+1337,11,1199.0,2,"Count: 1199
+
+Density: 2 (High) (1199 people)"
+1338,4,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+1340,69,1456.0,2,"Count: 1456
+
+Density: 2 (High) (1456 / 3802 = 4.25)"
+1343,26,26.0,0,"Count: 26
+
+Density: 0 (Low) - 1 (Medium)"
+1346,8,8.0,0,"Count: 8
+
+Density: 0 (Low) (1/8) (1/8)"
+1347,60,60.0,2,"Count: 60
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with many"
+1351,61,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+1354,19,19.0,0,"Count: 19
+
+Density: 0 (Low) (19/100)"
+1358,15,30.0,2,"Count: 30
+
+Density: 2 (High) - The image shows a crowd of people gathered in a room with a large screen displaying a colorful image. The density of the crowd is"
+1359,113,113.0,1,"Count: 113
+
+Density: 1 (Low) - 113 (High)"
+1361,10,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 people)"
+1365,53,53.0,2,"Count: 53
+
+Density: 2 (High) (YOLO predicted count)"
+1366,118,118.0,2,"Count: 118
+
+Density: 2 (Low) - 3 (Medium)"
+1371,30,30.0,0,"Count: 30
+
+Density: 0 (Low) - 1 (Medium)"
+1373,35,35.0,2,"Count: 35
+
+Density: 2 (High) (1/3)"
+1379,38,38.0,1,"Count: 38
+
+Density: 1 (Medium) - 2 (High)"
+1382,87,87.0,1,"Count: 87
+
+Density: 1 (Medium) - 2 (High)"
+1383,10,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 1000 (High)"
+1389,55,102.0,2,"Count: 102
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a city square or a similar public area. The density"
+1390,239,239.0,2,"Count: 239
+
+Density: 2 (High) - The image shows a large crowd of people gathered in a public space, with a significant number of individuals visible. The density of"
+1393,18,18.0,0,"Count: 18
+
+Density: 0.00000000000000000000000000000"
+1394,98,165.0,2,"Count: 165
+
+Density: 2 (High) - The image shows a crowd of people in a large hall, and the density is high, indicating a significant gathering."
+1395,6,623.0,2,"Count: 623
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a stadium or a large event venue. The density"
+1399,119,119.0,0,"Count: 119
+
+Density: 0 (Low) (119/119)"
+1400,103,103.0,1,"Count: 103
+
+Density: 1 (Medium) - 2 (High)"
+1402,15,15.0,0,"Count: 15
+
+Density: 0 (Low) - 1 (Medium)"
+1411,26,26.0,1,"Count: 26
+
+Density: 1 (Low) (1/2)"
+1415,256,256.0,2,"Count: 256
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or stadium. The density of the crowd is high, with many"
+1417,19,19.0,1,"Count: 19
+
+Density: 1 (Medium) - 2 (High)"
+1418,7,152.0,1,"Count: 152
+
+Density: 1 (Medium) - 2 (High)"
+1419,55,55.0,0,"Count: 55
+
+Density: 0.00000000000000000000000000000"
+1421,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - The image shows a large crowd of people gathered in a public space, but the count is not provided. The density is not"
+1422,2,20.0,1,"Count: 20
+
+Density: 1 (Low) (1/100)"
+1428,27,27.0,2,"Count: 27
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a significant number of individuals visible. The density of the crowd"
+1432,46,1199.0,2,"Count: 1199
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a stadium or a public event. The density"
+1438,57,57.0,1,"Count: 57
+
+Density: 1 (Low) - 57 (High)"
+1439,78,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+1442,25,25.0,0,"Count: 25
+
+Density: 0.2 (Low) (High)"
+1444,147,147.0,1,"Count: 147
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a busy urban area. The density of the crowd is relatively high, with many"
+1446,136,132.0,2,"Count: 132
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+1450,8,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+1451,53,53.0,2,"Count: 53
+
+Density: 2 (High) - The image shows a crowd of people in a large hall with a large screen in the background. The density of the crowd is high"
+1455,28,28.0,2,"Count: 28
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a city square or a similar urban area. The density of"
+1456,33,33.0,1,"Count: 33
+
+Density: 1 (Low) - 2 (High)"
+1458,97,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+1465,83,83.0,2,"Count: 83
+
+Density: 2 (High) - 1 (Low)"
+1466,4,117.0,2,"Count: 117
+
+Density: 2 (High) (Answer: 2)"
+1470,50,209.0,1,"Count: 209
+
+Density: 1 (Medium) - 209 people are present in the image."
+1474,241,241.0,1,"Count: 241
+
+Density: 1 (High) - The image shows a crowd of people gathered around a train station. The density of the crowd is high, with many individuals standing"
+1476,144,144.0,2,"Count: 144
+
+Density: 2 (High) (YOLO predicted count)"
+1479,50,50.0,0,"Count: 50
+
+Density: 0 (Low) (1/2)"
+1480,13,130.0,2,"Count: 130
+
+Density: 2 (Low) (130/130)"
+1481,127,127.0,0,"Count: 127
+
+Density: 0.0000000000000000000000000000"
+1483,30,14.0,2,"Count: 14
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with many"
+1484,1,10.0,0,"Count: 10
+
+Density: 0 (Low) - The image shows a group of people gathered in a snowy environment, with some individuals holding umbrellas. The density of the crowd is"
+1485,2,20.0,0,"Count: 20
+
+Density: 0 (Low) (20/100)"
+1486,97,117.0,1,"Count: 117
+
+Density: 1 (Medium) (Answer: 1)"
+1488,22,22.0,1,"Count: 22
+
+Density: 1 (Medium) - 2 (High)"
+1489,292,292.0,2,"Count: 292
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large stadium or arena. The density of the crowd is high, with many"
+1490,56,56.0,0,"Count: 56
+
+Density: 0.25 (Low) - 0.5 (Medium)"
+1492,10,10.0,0,"Count: 10
+
+Density: 0 (Low) - 1 (High)"
+1493,26,26.0,0,"Count: 26
+
+Density: 0.25 (Low) (1/2)"
+1494,5,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+1496,4,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+1499,35,35.0,1,"Count: 35
+
+Density: 1 (Medium) - 2 (High)"
+1502,0,116.0,1,"Count: 116
+
+Density: 1 (Medium) - 2 (High)"
+1506,100,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large indoor arena, with a large crowd of people standing and walking around."
+1507,300,206.0,1,"Count: 206
+
+Density: 1 (Medium) - 2 (High)"
+1510,41,41.0,1,"Count: 41
+
+Density: 1 (Low) (1/100)"
+1512,36,160.0,2,"Count: 160
+
+Density: 2 (High) - 1 (Low)"
+1515,250,250.0,0,"Count: 250
+
+Density: 0 (Low) - The image shows a crowd of people in a crowded indoor setting, possibly a mall or a public space. The density is low"
+1517,36,207.0,2,"Count: 207
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open area, possibly a stadium or a large public space. The density"
+1518,8,100.0,0,"Count: 100
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a large open space, possibly a park or a festival. The crowd is dense"
+1519,5,520.0,2,"Count: 520
+
+Density: 2 (High) - 1 (Low)"
+1522,80,80.0,1,"Count: 80
+
+Density: 1 (Medium) - 2 (High)"
+1523,84,10.0,0,"Count: 10
+
+Density: 0 (Low) (10/100)"
+1527,9,10.0,0,"Count: 10
+
+Density: 0 (Low) (10/100)"
+1529,16,16.0,1,"Count: 16
+
+Density: 1 (Medium) - 2 (High)"
+1531,286,286.0,1,"Count: 286
+
+Density: 1 (Medium) - 2 (High)"
+1534,176,176.0,0,"Count: 176
+
+Density: 0 (Low) - 1 (Medium)"
+1536,285,285.0,2,"Count: 285
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, likely a city square or a similar urban setting. The density"
+1537,102,102.0,2,"Count: 102
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals present. The density of the"
+1545,44,44.0,2,"Count: 44
+
+Density: 2 (High) - 1 (Low)"
+1547,6,1000.0,2,"Count: 1000
+
+Density: 2 (Low) (1000 people)"
+1548,74,74.0,0,"Count: 74
+
+Density: 0 (Low) (1/2)"
+1550,7,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+1556,129,129.0,2,"Count: 129
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+1558,46,122.0,1,"Count: 122
+
+Density: 1 (Medium) - 2 (High)"
+1559,300,203.0,2,"Count: 203
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"
+1563,8,120.0,2,"Count: 120
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a park or a festival area. The density of"
+1565,300,111.0,2,"Count: 111
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a ""high density"" image."
+1567,59,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+1568,26,26.0,0,"Count: 26
+
+Density: 0.25 (Low) (2/3)"
+1572,169,169.0,2,"Count: 169
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The density of"
+1575,9,1370.0,1,"Count: 1370
+
+Density: 1 (Medium) - 2 (High)"
+1577,239,239.0,0,"Count: 239
+
+Density: 0 (Low) (1/3)"
+1580,51,129.0,1,"Count: 129
+
+Density: 1 (Medium) - 2 (High)"
+1583,45,45.0,1,"Count: 45
+
+Density: 1 (Medium) - 2 (High)"
+1586,82,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+1589,5,105.0,1,"Count: 105
+
+Density: 1 (Medium) - 2 (High)"
+1590,76,76.0,0,"Count: 76
+
+Density: 0 (Low) - The image shows a crowd of people in a shopping mall, but the density is low, indicating that the image is not very accurate"
+1591,102,102.0,2,"Count: 102
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+1592,90,100.0,2,"Count: 100
+
+Density: 2 (Low) - 3 (High)"
+1594,13,13.0,0,"Count: 13
+
+Density: 0 (Low) (13/100)"
+1595,4,41.0,1,"Count: 41
+
+Density: 1 (Low) (1/100)"
+1600,63,20.0,0,"Count: 20
+
+Density: 0 (Low) (1/2)"
+1602,9,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+1605,49,49.0,1,"Count: 49
+
+Density: 1 (High) - The image shows a large crowd of people gathered in an indoor setting, possibly a conference or event. The crowd is dense, with"
+1606,4,41.0,0,"Count: 41
+
+Density: 0 (Low) (1) (Medium) (2) (High)"
+1615,44,1969.0,2,"Count: 1969
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium, with a large crowd of spectators. The density of the crowd"
+1619,52,52.0,0,"Count: 52
+
+Density: 0 (Low) - The image shows a crowd of people, but the density is not high enough to be considered accurate."
+1621,8,100.0,1,"Count: 100
+
+Density: 1 (Low) (100/100)"
+1624,21,21.0,0,"Count: 21
+Density: 0 (Low) (YOLO predicted count)"
+1625,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people, but the exact count is not provided. The density is also not provided."
+1635,92,100.0,0,"Count: 100
+
+Density: 0.01 (Low) - 1 (High)"
+1638,57,57.0,2,"Count: 57
+
+Density: 2 (Low) (1/3 of the crowd)"
+1644,26,26.0,1,"Count: 26
+
+Density: 1 (Medium) - 2 (High)"
+1648,4,206.0,2,"Count: 206
+
+Density: 2 (High) - 1 (Low)"
+1650,52,524.0,2,"Count: 524
+
+Density: 2 (High) (198)"
+1651,139,139.0,1,"Count: 139
+
+Density: 1 (Medium) - 2 (High)"
+1652,37,141.0,2,"Count: 141
+
+Density: 2 (High) - The image shows a crowd of people in a large indoor setting, possibly a mall or a convention center. The crowd is densely"
+1656,271,271.0,2,"Count: 271
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large outdoor area, possibly a stadium or fairground. The crowd is dense"
+1660,24,246.0,1,"Count: 246
+
+Density: 1 (Medium) - 2 (High)"
+1661,0,139.0,2,"Count: 139
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large area filled with trash. The density of the crowd is high, with"
+1663,48,119.0,2,"Count: 119
+
+Density: 2 (High) (119 people)"
+1666,108,108.0,0,"Count: 108
+
+Density: 0 (Low) (108 / 108 = 108)"
+1667,52,52.0,1,"Count: 52
+
+Density: 1 (Medium) - 2 (High)"
+1670,197,197.0,1,"Count: 197
+
+Density: 1 (Medium) - 2 (High)"
+1671,31,31.0,2,"Count: 31
+
+Density: 2 (High) (YOLO predicted count)"
+1674,0,141.0,2,"Count: 141
+
+Density: 2 (High) (141 people)"
+1679,151,151.0,2,"Count: 151
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+1680,62,14.0,1,"Count: 14
+
+Density: 1 (Medium) - 2 (High)"
+1681,14,145.0,1,"Count: 145
+
+Density: 1 (Low) - 2 (High)"
+1684,21,21.0,2,"Count: 21
+Density: 2 (High) (1/2)"
+1689,12,12.0,2,"Count: 12
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a street or a park. The density of the crowd is"
+1690,150,154.0,2,"Count: 154
+
+Density: 2 (High) - The count is accurate and the density is high."
+1695,25,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The density of"
+1696,36,36.0,0,"Count: 36
+
+Density: 0 (Low) - 1 (Medium)"
+1705,76,1176.0,2,"Count: 1176
+
+Density: 2 (High) (1176 / 1000)"
+1706,63,25.0,2,"Count: 25
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, with a significant number of individuals present. The density of the crowd"
+1712,46,46.0,2,"Count: 46
+
+Density: 2 (Low) (1/3 of the crowd)"
+1714,12,12.0,0,"Count: 12
+
+Density: 0 (Low) (12/100)"
+1715,36,361.0,2,"Count: 361
+
+Density: 2 (Low) (1/3 of the crowd)"
+1716,294,243.0,1,"Count: 243
+
+Density: 1 (Medium) - 2 (High)"
+1719,36,36.0,1,"Count: 36
+
+Density: 1 (Medium) - 2 (High)"
+1720,300,152.0,2,"Count: 152
+
+Density: 2 (High) (152 / 1000)"
+1722,9,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (Medium)"
+1725,28,28.0,1,"Count: 28
+
+Density: 1 (Low) - 2 (Medium)"
+1728,126,126.0,1,"Count: 126
+
+Density: 1 (Medium) - 2 (High)"
+1730,1,10.0,0,"Count: 10
+
+Density: 0 (Low) - The image shows a group of people gathered in a crowd, but the density is not high enough to be considered a crowd."
+1731,97,97.0,2,"Count: 97
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a significant number of individuals visible. The density of the crowd is"
+1733,8,1576.0,2,"Count: 1576
+
+Density: 2 (High) - The image shows a crowd of people walking in a crowded area with a significant amount of people. The density is high,"
+1737,88,88.0,0,"Count: 88
+
+Density: 0.00000000000000000000000000000"
+1738,37,37.0,1,"Count: 37
+
+Density: 1 (Medium) - 2 (High)"
+1740,51,51.0,0,"Count: 51
+
+Density: 0.5 (Low) - 1 (High)"
+1742,4,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a public space, possibly a street or a park. The density is low,"
+1744,15,15.0,2,"Count: 15
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+1746,66,100.0,2,"Count: 100
+
+Density: 2 (High) - 100"
+1758,119,119.0,1,"Count: 119
+
+Density: 1 (Low) - 119 (High)"
+1762,33,33.0,2,"Count: 33
+
+Density: 2 (High) (YOLO predicted count)"
+1765,5,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+1769,10,1000.0,0,"Count: 1000
+
+Density: 0.001 (Low)"
+1770,233,233.0,2,"Count: 233
+
+Density: 2 (High) - 1 (Low)"
+1771,2,200.0,1,"Count: 200
+
+Density: 1 (Low) - 2 (Medium)"
+1773,50,50.0,0,"Count: 50
+
+Density: 0.2 (Low) (The image is too blurry to count accurately)"
+1775,1,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+1779,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large venue, with a significant number of individuals present. The density of the"
+1780,20,20.0,2,"Count: 20
+
+Density: 2 (High) - 1 (Low)"
+1783,139,139.0,1,"Count: 139
+
+Density: 1 (Medium) - 2 (High)"
+1784,41,41.0,2,"Count: 41
+
+Density: 2 (Low) (1/3 of the crowd)"
+1794,4,1983.0,2,"Count: 1983
+
+Density: 2 (High) - The image is too blurry to count people accurately."
+1795,300,1684.0,2,"Count: 1684
+
+Density: 2 (High) (1684 / 1684)"
+1796,38,38.0,1,"Count: 38
+Density: 1 (Medium) (1/3 of the crowd)"
+1801,60,60.0,0,"Count: 60
+
+Density: 0 (Low) - 1 (Medium)"
+1802,9,20.0,1,"Count: 20
+
+Density: 1 (Low) - The image shows a crowd of people in a snowy environment, with some individuals standing and others walking around. The density of the crowd"
+1810,82,82.0,1,"Count: 82
+
+Density: 1 (Low) - 1 (Medium)"
+1811,38,38.0,1,"Count: 38
+
+Density: 1 (Medium) - 2 (High)"
+1814,10,,0,"Count: 1000000000
+Density: 0"
+1815,12,12.0,2,"Count: 12
+
+Density: 2 (High) (12/100)"
+1818,300,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, with a large crowd of people in the foreground and a smaller crowd in"
+1819,25,25.0,1,"Count: 25
+
+Density: 1 (Medium) - 2 (High)"
+1826,116,116.0,2,"Count: 116
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+1827,82,100.0,0,"Count: 100
+
+Density: 0 (Low) (Please note that this count is based on the image and does not include the crowd density. It is a simple count of the"
+1828,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+1830,246,246.0,1,"Count: 246
+
+Density: 1 (Medium) - 2 (High)"
+1831,8,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+1834,12,124.0,1,"Count: 124
+
+Density: 1 (Medium) - 2 (High)"
+1835,30,30.0,2,"Count: 30
+
+Density: 2 (High) (100% of people)"
+1838,7,139.0,2,"Count: 139
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, but the density is not high enough to be considered a crowd density."
+1841,11,113.0,2,"Count: 113
+
+Density: 2 (High) (113/113)"
+1851,25,25.0,0,"Count: 25
+
+Density: 0 (Low) (1/2)"
+1852,45,206.0,1,"Count: 206
+
+Density: 1 (Medium) - 2 (High)"
+1853,24,24.0,2,"Count: 24
+
+Density: 2 (Low) (1/3 of the crowd)"
+1856,57,57.0,0,"Count: 57
+
+Density: 0 (Low) (1/1000)"
+1859,31,31.0,2,"Count: 31
+
+Density: 2 (High) - The image shows a crowd of people gathered in a room with a large number of individuals. The density of the crowd is high,"
+1861,27,27.0,2,"Count: 27
+
+Density: 2 (High) - The image shows a crowd of people, but the count is not provided. The density is not specified."
+1862,40,24.0,1,"Count: 24
+
+Density: 1 (Medium) - 2 (High)"
+1867,148,148.0,1,"Count: 148
+
+Density: 1 (Medium) - 2 (High)"
+1868,35,35.0,2,"Count: 35
+
+Density: 2 (High) - The image shows a crowd of people gathered around a red and white inflatable archway. The crowd is predominantly composed of individuals wearing Santa"
+1869,16,16.0,1,"Count: 16
+
+Density: 1 (Medium) - 2 (High)"
+1870,3,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+1872,19,19.0,1,"Count: 19
+
+Density: 1 (Low) - 2 (Medium)"
+1873,33,33.0,0,"Count: 33
+
+Density: 0 (Low) (1/3)"
+1882,28,28.0,1,"Count: 28
+
+Density: 1 (Medium) - 2 (High)"
+1884,149,149.0,2,"Count: 149
+
+Density: 2 (High) (149/149)"
+1892,42,42.0,2,"Count: 42
+
+Density: 2 (Low) (1/3 of the crowd)"
+1895,29,29.0,2,"Count: 29
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of people present. The density of the crowd"
+1897,35,35.0,0,"Count: 35
+
+Density: 0 (Low) (1/2)"
+1901,44,44.0,1,"Count: 44
+
+Density: 1 (Medium) - 2 (High)"
+1903,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people in a stadium with a large number of individuals. The density is high, indicating a large"
+1904,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+1906,109,104.0,1,"Count: 104
+
+Density: 1 (Medium) - 2 (High)"
+1907,300,144.0,2,"Count: 144
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+1911,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3)"
+1912,5,110.0,2,"Count: 110
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a concert or event venue. The crowd density is"
+1914,300,300.0,1,"Count: 300
+
+Density: 1 (Low) (1/100)"
+1915,3,329.0,1,"Count: 329
+
+Density: 1 (Medium) - 2 (Low)"
+1922,142,142.0,2,"Count: 142
+
+Density: 2 (High) - The image shows a crowd of people, but the exact count is not provided. The density is also not provided."
+1923,300,300.0,0,"Count: 300
+
+Density: 0.0000000000000000000000000000"
+1926,21,215.0,2,"Count: 215
+
+Density: 2 (High) - The image shows a crowd of people gathered in a park during the daytime. The density of the crowd is high, with many"
+1927,300,100.0,0,"Count: 100
+
+Density: 0.1 (Low) (100/100)"
+1930,3,132.0,2,"Count: 132
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or arena. The density of the crowd"
+1932,121,121.0,1,"Count: 121
+
+Density: 1 (Medium) - 2 (High)"
+1937,61,1023.0,1,"Count: 1023
+
+Density: 1 (Medium) - 2 (High)"
+1942,46,46.0,2,"Count: 46
+
+Density: 2 (High) (YOLO predicted count)"
+1943,0,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a stadium, with a large banner that reads ""MUSLIM DAY at"
+1944,32,32.0,1,"Count: 32
+
+Density: 1 (Medium) - 2 (High)"
+1945,92,2578.0,2,"Count: 2578
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+1946,18,183.0,1,"Count: 183
+
+Density: 1 (High) - 183 people"
+1949,16,16.0,0,"Count: 16
+
+Density: 0 (Low) - 1 (Medium)"
+1952,300,300.0,1,"Count: 300
+
+Density: 1 (Low) (1/100)"
+1960,56,56.0,1,"Count: 56
+
+Density: 1 (Medium) - 2 (High)"
+1962,201,201.0,2,"Count: 201
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium. The density of the crowd is high, with many individuals visible in"
+1965,41,109.0,2,"Count: 109
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals present. The density of the"
+1967,44,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+1973,118,118.0,0,"Count: 118
+
+Density: 0 (Low) - 1 (Medium)"
+1974,33,33.0,1,"Count: 33
+
+Density: 1 (Low) (1/3)"
+1979,62,62.0,2,"Count: 62
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium, with a large number of individuals visible. The density of the crowd is"
+1981,23,23.0,1,"Count: 23
+
+Density: 1 (Medium) - 2 (High)"
+1982,86,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+1984,25,25.0,0,"Count: 25
+
+Density: 0 (Low) (1/2)"
+1985,46,46.0,2,"Count: 46
+
+Density: 2 (High) (YOLO predicted count)"
+1986,84,84.0,2,"Count: 84
+
+Density: 2 (Low) (Based on the image provided)"
+1990,0,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large open area, possibly a park or a public square. The density"
+1994,53,53.0,1,"Count: 53
+
+Density: 1 (Medium) - 2 (High)"
+1996,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - 1 (High)"
+2002,96,141.0,2,"Count: 141
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+2010,51,51.0,0,"Count: 51
+
+Density: 0 (Low) - The image shows a crowd of people, but the density is not high enough to be considered accurate."
+2011,85,85.0,1,"Count: 85
+
+Density: 1 (Medium) - 2 (High)"
+2013,31,31.0,0,"Count: 31
+
+Density: 0 (Low) (1/2)"
+2014,100,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2015,79,162.0,2,"Count: 162
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall with a crowd of people. The density of the crowd is high"
+2016,5,1087.0,2,"Count: 1087
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a high density of people. The count is 1"
+2018,3,362.0,2,"Count: 362
+
+Density: 2 (High) (1/3)"
+2019,71,100.0,1,"Count: 100
+
+Density: 1 (Low) - 100 (High)"
+2021,26,26.0,0,"Count: 26
+Density: 0.25 (Low) (Based on the image provided)"
+2025,162,162.0,2,"Count: 162
+
+Density: 2 (High) - 1 (Low)"
+2032,300,120.0,1,"Count: 120
+
+Density: 1 (Medium) - 2 (High)"
+2042,55,1514.0,2,"Count: 1514
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a hall or auditorium. The density is"
+2047,54,54.0,1,"Count: 54
+
+Density: 1 (Medium) - 2 (High)"
+2050,24,247.0,2,"Count: 247
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a large number of individuals visible. The density of the crowd"
+2052,65,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people in a crowded shopping area. The density is low, with many people in close proximity to"
+2054,158,158.0,1,"Count: 158
+
+Density: 1 (Medium) - 2 (High)"
+2056,300,300.0,0,"Count: 300
+
+Density: 0.0000000000000000000000000000"
+2061,66,117.0,2,"Count: 117
+
+Density: 2 (High) (Please note that this is an estimation based on the count and density provided in the examples provided, and it may not be accurate"
+2069,54,54.0,1,"Count: 54
+
+Density: 1 (Medium) - 2 (High)"
+2070,9,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large hall or auditorium. The density is low, indicating that the crowd"
+2071,56,56.0,2,"Count: 56
+
+Density: 2 (High) - The image shows a crowd of people in a church or cathedral, with a large number of individuals present. The density of the crowd"
+2076,23,23.0,2,"Count: 23
+Density: 2 (High) (YOLO predicted count)"
+2077,230,180.0,2,"Count: 180
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+2079,30,1120.0,2,"Count: 1120
+
+Density: 2 (High) - The image shows a crowd of people in a crowded indoor setting, possibly a mall or a convention center. The density is"
+2082,6,103.0,2,"Count: 103
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+2083,6,165.0,2,"Count: 165
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium, with a large crowd of individuals standing and sitting. The density of"
+2084,8,100.0,1,"Count: 100
+
+Density: 1 (Medium) - 2 (High)"
+2087,19,19.0,2,"Count: 19
+Density: 2 (High) (199 people)"
+2089,8,111.0,1,"Count: 111
+
+Density: 1 (Low) - 2 (High)"
+2090,280,280.0,0,"Count: 280
+
+Density: 0 (Low) - The image shows a crowd of people in a city square, but the density is low, indicating that the crowd is sparse."
+2091,136,136.0,2,"Count: 136
+
+Density: 2 (High) - 136 (Low)"
+2099,12,12.0,0,"Count: 12
+
+Density: 0 (Low) - 1 (Medium)"
+2100,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a high density of individuals. The count is 300"
+2102,66,66.0,1,"Count: 66
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large open space, possibly a stadium or a large public area. The crowd is"
+2103,53,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a group of people gathered in a large group, but the count is not provided. The density is also not"
+2104,5,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 people)"
+2105,47,2519.0,2,"Count: 2519
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the exact count is not provided. The density is also"
+2116,118,118.0,1,"Count: 118
+
+Density: 1 (Medium) - 2 (High)"
+2117,7,1000.0,1,"Count: 1000
+
+Density: 1/1000"
+2118,27,1389.0,2,"Count: 1389
+
+Density: 2 (High) (1389 / 1389 = 100)"
+2125,111,111.0,1,"Count: 111
+
+Density: 1 (Low) - 111 (High)"
+2134,14,14.0,2,"Count: 14
+
+Density: 2 (High) (YOLO predicted count)"
+2138,145,143.0,1,"Count: 143
+
+Density: 1 (Medium) - 2 (High)"
+2143,192,192.0,1,"Count: 192
+
+Density: 1 (Medium) - 2 (High)"
+2145,29,29.0,1,"Count: 29
+
+Density: 1 (Medium) - 2 (High)"
+2150,27,27.0,2,"Count: 27
+
+Density: 2 (Low) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is quite high, with"
+2152,39,39.0,1,"Count: 39
+
+Density: 1 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a ""high"" density."
+2153,23,23.0,1,"Count: 23
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large open area, possibly a beach or a park. The density of the crowd"
+2154,300,300.0,2,"Count: 300
+
+Density: 2 (High) (1/3)"
+2156,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+2159,111,111.0,1,"Count: 111
+
+Density: 1 (Medium) - 2 (High)"
+2160,142,142.0,2,"Count: 142
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a shopping mall or a similar venue. The crowd"
+2162,56,56.0,0,"Count: 56
+
+Density: 0 (Low) (1/2)"
+2166,183,183.0,1,"Count: 183
+
+Density: 1 (Medium) - 2 (High)"
+2167,55,55.0,2,"Count: 55
+
+Density: 2 (High) (YOLO predicted count)"
+2168,23,23.0,2,"Count: 23
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a park or a public event. The density of the crowd"
+2171,13,13.0,2,"Count: 13
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large room with a red curtain in the background. The density of the crowd is"
+2173,18,18.0,2,"Count: 18
+Density: 2 (High) (YOLO predicted count)"
+2174,40,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2176,212,212.0,1,"Count: 212
+
+Density: 1 (Medium) - 212 people"
+2180,16,16.0,1,"Count: 16
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a stadium, but the density is low, indicating that the crowd is not densely packed"
+2182,14,14.0,1,"Count: 14
+
+Density: 1 (Medium) - 2 (High)"
+2187,5,5.0,0,"Count: 5
+
+Density: 0 (Low) - 1 (Medium)"
+2194,156,156.0,2,"Count: 156
+
+Density: 2 (High) - 156 people"
+2196,6,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2199,72,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (Medium)"
+2203,201,201.0,0,"Count: 201
+
+Density: 0.001 (Low)"
+2204,47,111.0,2,"Count: 111
+
+Density: 2 (High) (111/111)"
+2205,3,37.0,2,"Count: 37
+
+Density: 2 (High) (1) (Medium)"
+2206,25,25.0,0,"Count: 25
+
+Density: 0 (Low) (25/100)"
+2208,72,145.0,2,"Count: 145
+
+Density: 2 (High) - 1 (Medium)"
+2209,14,14.0,0,"Count: 14
+
+Density: 0.1 (Low) - 1 (High)"
+2211,18,18.0,1,"Count: 18
+
+Density: 1 (Low) - 2 (Medium)"
+2213,35,206.0,2,"Count: 206
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, likely a city square or a similar public area. The density"
+2217,54,54.0,1,"Count: 54
+
+Density: 1 (Medium) - 2 (High)"
+2220,7,102.0,2,"Count: 102
+
+Density: 2 (High) - The count is accurate and the density is high."
+2223,223,223.0,0,"Count: 223
+
+Density: 0 (Low) (1/2)"
+2226,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+2227,0,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The crowd"
+2230,27,27.0,1,"Count: 27
+
+Density: 1 (Medium) - 2 (High)"
+2231,99,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+2236,300,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+2246,14,14.0,2,"Count: 14
+
+Density: 2 (Low) (14/100)"
+2248,42,42.0,2,"Count: 42
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a large number of individuals present. The density of the crowd"
+2249,31,1111.0,2,"Count: 1111
+
+Density: 2 (High) (1111 / 2 = 505)"
+2254,48,48.0,2,"Count: 48
+
+Density: 2 (High) (YOLO predicted count)"
+2255,139,139.0,0,"Count: 139
+
+Density: 0 (Low) - The image shows a crowd of people in a busy urban area, but the density is not high enough to be considered a """
+2258,43,43.0,1,"Count: 43
+
+Density: 1 (Medium) - 2 (High)"
+2260,92,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+2265,74,124.0,1,"Count: 124
+
+Density: 1 (Medium) - 2 (High)"
+2269,1,146.0,2,"Count: 146
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density is high, with many people present"
+2270,4,100.0,2,"Count: 100
+
+Density: 2 (Low) (100/100)"
+2272,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+2273,22,22.0,2,"Count: 22
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+2285,35,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+2289,4,120.0,2,"Count: 120
+
+Density: 2 (High) (120 / 120 = 10)"
+2298,37,17.0,0,"Count: 17
+
+Density: 0 (Low) (17/100)"
+2301,12,12.0,0,"Count: 12
+
+Density: 0 (Low) - 1 (Medium)"
+2302,38,38.0,0,"Count: 38
+
+Density: 0 (Low) - The image shows a large crowd of people walking down a street, but the density is not high enough to be considered accurate."
+2303,196,196.0,1,"Count: 196
+
+Density: 1 (Low) - 2 (Medium)"
+2304,65,65.0,2,"Count: 65
+
+Density: 2 (Low) (1/100)"
+2309,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - The image shows a large crowd of people gathered in a public space, possibly a street or a park. The density of the"
+2312,6,6.0,1,"Count: 6
+
+Density: 1 (Low) - The image shows a group of people in a forested area, with a few individuals standing and others walking. The density is low,"
+2315,210,210.0,2,"Count: 210
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large group, with some individuals standing and others walking. The density of the"
+2317,6,679.0,2,"Count: 679
+
+Density: 2 (High) - 1 (Low)"
+2318,124,124.0,1,"Count: 124
+
+Density: 1 (Medium) - 2 (High)"
+2322,300,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+2326,66,66.0,0,"Count: 66
+
+Density: 0 (Low) - 1 (Medium)"
+2329,300,182.0,2,"Count: 182
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+2331,37,37.0,2,"Count: 37
+
+Density: 2 (High) (YOLO predicted count)"
+2332,68,183.0,2,"Count: 183
+
+Density: 2 (High) - The count is accurate and the density is high."
+2333,29,29.0,2,"Count: 29
+
+Density: 2 (Low) - The image shows a crowd of people in a large indoor space, possibly a conference or exhibition hall. The density of the crowd is"
+2338,160,160.0,0,"Count: 160
+
+Density: 0 (Low) (1/100)"
+2340,300,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people in a crowded area, but the count is not provided. The density is not high enough"
+2345,9,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+2351,62,62.0,1,"Count: 62
+
+Density: 1 (Medium) - 2 (High)"
+2353,75,1000.0,2,"Count: 1000
+
+Density: 2 (Low) (1000 people)"
+2354,0,117.0,2,"Count: 117
+
+Density: 2 (High) - 117 people"
+2355,299,299.0,1,"Count: 299
+
+Density: 1 (Medium) - 2 (High)"
+2356,0,145.0,2,"Count: 145
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+2358,300,132.0,2,"Count: 132
+
+Density: 2 (High) - The image shows a crowd of people in a room with a lot of people. The density is high, indicating a large gathering"
+2359,11,11.0,1,"Count: 11
+
+Density: 1 (Medium) - 2 (High)"
+2360,274,274.0,2,"Count: 274
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, with a clear sky and a clear horizon line. The crowd"
+2363,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the count is not provided. The density is not high enough to"
+2365,17,175.0,2,"Count: 175
+
+Density: 2 (High) (175/175)"
+2366,135,135.0,1,"Count: 135
+
+Density: 1 (Low) - 135 (High)"
+2367,234,234.0,2,"Count: 234
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+2368,8,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (Medium)"
+2372,5,100.0,1,"Count: 100
+
+Density: 1 (Low) - 100 (High)"
+2373,50,50.0,0,"Count: 50
+
+Density: 0 (Low) - The image shows a crowd of people in a large hall with a large number of people. The density is low, indicating that the"
+2374,10,100.0,1,"Count: 100
+
+Density: 1 (Low) - 100 (High)"
+2379,90,132.0,2,"Count: 132
+
+Density: 2 (High) - 1 (Medium)"
+2389,75,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2392,1,1557.0,2,"Count: 1557
+
+Density: 2 (High) - 1 (Low)"
+2395,70,100.0,1,"Count: 100
+
+Density: 1 (Low) (100/100)"
+2396,125,125.0,1,"Count: 125
+
+Density: 1 (High) - The image shows a large crowd of people, but the density is not high enough to be considered a ""high density"" image"
+2399,23,23.0,1,"Count: 23
+
+Density: 1 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a crowd density."
+2400,36,36.0,0,"Count: 36
+
+Density: 0 (Low) (1/2)"
+2401,46,46.0,1,"Count: 46
+
+Density: 1 (Medium) - 2 (High)"
+2402,9,112.0,2,"Count: 112
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall with a high density of individuals. The crowd is diverse, with"
+2404,179,179.0,1,"Count: 179
+
+Density: 1 (Low) - 2 (Medium)"
+2406,6,122.0,2,"Count: 122
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large outdoor area, possibly a park or a festival. The density of the"
+2408,216,216.0,1,"Count: 216
+
+Density: 1 (Medium) - 216 people"
+2409,88,88.0,1,"Count: 88
+
+Density: 1 (Low) - 2 (High)"
+2413,202,202.0,0,"Count: 202
+
+Density: 0 (Low) (1/2)"
+2417,12,120.0,2,"Count: 120
+
+Density: 2 (Low) (120 / 120 = 10)"
+2420,127,127.0,2,"Count: 127
+
+Density: 2 (High) - The image shows a large crowd of people running, and the density is high, indicating a large number of people."
+2421,252,252.0,1,"Count: 252
+
+Density: 1 (Medium) - 2 (High)"
+2423,6,201.0,2,"Count: 201
+
+Density: 2 (High) - The image shows a crowd of people in a crowded urban setting. The density is high, with many individuals visible in the image"
+2426,7,7.0,1,"Count: 7
+Density: 1 (Medium) (1/100)"
+2429,36,36.0,2,"Count: 36
+Density: 2 (High) (YOLO predicted count)"
+2430,8,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2431,97,138.0,2,"Count: 138
+
+Density: 2 (High) - The image shows a crowd of people in a stadium or concert venue. The density is high, with many people visible in the"
+2442,10,1000.0,1,"Count: 1000
+
+Density: 1 (High) (1000 people)"
+2447,19,19.0,0,"Count: 19
+
+Density: 0 (Low) - 1 (Medium)"
+2460,16,16.0,2,"Count: 16
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large room with a crowd of people. The density of the crowd is high,"
+2461,191,191.0,0,"Count: 191
+
+Density: 0 (Low) (191/191)"
+2469,186,186.0,2,"Count: 186
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+2470,147,147.0,0,"Count: 147
+
+Density: 0 (Low) (1/100)"
+2471,55,55.0,1,"Count: 55
+
+Density: 1 (Low) - 1 (High)"
+2475,51,182.0,2,"Count: 182
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a convention center or a sports arena. The crowd"
+2477,153,153.0,2,"Count: 153
+
+Density: 2 (High) - The image shows a crowd of people in a large hall or auditorium. The density of the crowd is high, with many"
+2478,1,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2483,2,20.0,1,"Count: 20
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a stadium, with a large crowd of people in the foreground and a few individuals in"
+2488,14,14.0,1,"Count: 14
+Density: 1 (Low) (14/100)"
+2490,32,32.0,0,"Count: 32
+
+Density: 0 (Low) (2/3)"
+2493,157,157.0,2,"Count: 157
+
+Density: 2 (High) - 157 people"
+2496,75,117.0,2,"Count: 117
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+2497,240,240.0,0,"Count: 240
+
+Density: 0.2 (Low) - 0.5 (Medium)"
+2501,19,19.0,1,"Count: 19
+
+Density: 1 (Medium) - 2 (High)"
+2502,7,120.0,1,"Count: 120
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large outdoor area, possibly a park or a festival. The density of the"
+2503,223,223.0,1,"Count: 223
+
+Density: 1 (Medium) - 2 (High)"
+2510,259,259.0,1,"Count: 259
+
+Density: 1 (Medium) - 2 (High)"
+2511,43,166.0,2,"Count: 166
+
+Density: 2 (High) - 1 (Low)"
+2513,70,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2514,225,225.0,2,"Count: 225
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a ""high density"" image."
+2516,122,122.0,0,"Count: 122
+
+Density: 0 (Low) (1/2)"
+2517,96,96.0,0,"Count: 96
+
+Density: 0 (Low) - 1 (Medium)"
+2518,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+2520,115,115.0,0,"Count: 115
+
+Density: 0.0000000000000000000000000000"
+2521,53,53.0,1,"Count: 53
+
+Density: 1 (Medium) - 2 (High)"
+2523,66,66.0,1,"Count: 66
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the count is not provided. The density is also not provided."
+2527,215,215.0,1,"Count: 215
+
+Density: 1 (Medium) - 2 (High)"
+2529,20,20.0,1,"Count: 20
+
+Density: 1 (Medium) - 2 (High)"
+2533,34,114.0,2,"Count: 114
+
+Density: 2 (High) - The image shows a crowd of people in a crowded urban area. The density is high, with many people visible in the image"
+2540,33,33.0,0,"Count: 33
+
+Density: 0 (Low) (1/3)"
+2542,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+2543,12,12.0,1,"Count: 12
+
+Density: 1 (Medium) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals present. The density of the crowd"
+2544,31,31.0,2,"Count: 31
+
+Density: 2 (Low) (1/3 of the crowd)"
+2546,3,111.0,2,"Count: 111
+
+Density: 2 (High) - The image shows a group of people in a crowd, but the count is not provided. The density is not specified."
+2547,36,36.0,1,"Count: 36
+
+Density: 1 (Medium) - 2 (High)"
+2549,11,11.0,1,"Count: 11
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large indoor space, possibly a concert or event venue. The crowd is densely packed"
+2553,34,34.0,2,"Count: 34
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+2554,7,7.0,2,"Count: 7
+
+Density: 2 (High) - The image shows a crowd of people in a stadium or concert venue. The density is high, with many people in the crowd. The"
+2558,43,26.0,2,"Count: 26
+
+Density: 2 (High) (1) (0)"
+2560,156,156.0,1,"Count: 156
+
+Density: 1 (Medium) - 2 (High)"
+2561,19,19.0,1,"Count: 19
+
+Density: 1 (Low) - 2 (High)"
+2562,71,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a group of people in a crowd, but the count is not provided. The density is also not provided."
+2563,28,28.0,1,"Count: 28
+
+Density: 1 (Medium) - 2 (High)"
+2564,5,154.0,0,"Count: 154
+
+Density: 0 (Low) (154 people)"
+2565,125,125.0,1,"Count: 125
+
+Density: 1 (Medium) - 2 (High)"
+2566,163,163.0,1,"Count: 163
+
+Density: 1 (High) - The image shows a crowd of people in a stadium, with a large number of individuals wearing yellow and green. The density of"
+2567,29,101.0,1,"Count: 101
+
+Density: 1 (Medium) - 2 (High)"
+2578,76,100.0,1,"Count: 100
+
+Density: 1 (Medium) - 2 (High)"
+2579,141,141.0,1,"Count: 141
+
+Density: 1 (Medium) - 2 (High)"
+2580,72,139.0,1,"Count: 139
+
+Density: 1 (Medium) - 2 (High)"
+2584,29,29.0,2,"Count: 29
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a large number of individuals present. The density of the crowd"
+2585,28,28.0,2,"Count: 28
+
+Density: 2 (High) - The image shows a crowd of people walking down a street, with some individuals carrying backpacks and handbags. The density of the"
+2586,15,15.0,0,"Count: 15
+
+Density: 0 (Low) - 1 (High)"
+2587,20,207.0,2,"Count: 207
+
+Density: 2 (High) - The image shows a crowd of people in a large indoor setting, possibly a conference or event. The density of the crowd is"
+2590,108,108.0,0,"Count: 108
+
+Density: 0.111111111"
+2592,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large open area, possibly a street or a park. The density of the"
+2593,10,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 people)"
+2594,86,86.0,0,"Count: 86
+
+Density: 0.00000000000000000000000000000"
+2602,139,139.0,1,"Count: 139
+
+Density: 1 (Medium) - 2 (High)"
+2603,86,1000.0,2,"Count: 1000
+
+Density: 2 (Low) (1000 people)"
+2604,3,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (Medium)"
+2608,205,205.0,2,"Count: 205
+
+Density: 2 (High) - 1 (Low)"
+2611,56,122.0,2,"Count: 122
+
+Density: 2 (High) - 1 (Low)"
+2619,34,34.0,1,"Count: 34
+
+Density: 1 (Medium) - 2 (High)"
+2621,26,26.0,1,"Count: 26
+
+Density: 1 (Medium) - 2 (High)"
+2624,3,179.0,2,"Count: 179
+
+Density: 2 (High) (179/179)"
+2628,18,18.0,0,"Count: 18
+
+Density: 0 (Low) (1/2)"
+2634,24,24.0,2,"Count: 24
+
+Density: 2 (Low) (1/3)"
+2636,57,206.0,1,"Count: 206
+
+Density: 1 (Medium) - 2 (High)"
+2638,29,29.0,1,"Count: 29
+
+Density: 1 (Medium) - 2 (High)"
+2639,102,102.0,0,"Count: 102
+
+Density: 0 (Low) (102/102)"
+2641,43,43.0,0,"Count: 43
+
+Density: 0 (Low) (1/3)"
+2642,44,1030.0,2,"Count: 1030
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor area, possibly a public space such as a park or a"
+2643,94,101.0,1,"Count: 101
+
+Density: 1 (Medium) - 2 (High)"
+2644,172,172.0,1,"Count: 172
+
+Density: 1 (Low) - 2 (Medium)"
+2647,54,54.0,2,"Count: 54
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall, with a significant number of individuals present. The density of the crowd"
+2648,96,233.0,2,"Count: 233
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large room. The density is high, with many people visible in the image"
+2654,24,24.0,1,"Count: 24
+
+Density: 1 (Medium) - 2 (High)"
+2658,21,21.0,1,"Count: 21
+
+Density: 1 (Low) (21/100)"
+2659,83,83.0,0,"Count: 83
+
+Density: 0 (Low) (1/3 of the crowd)"
+2666,0,264.0,2,"Count: 264
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a high density of individuals. The count is 26"
+2676,0,185.0,1,"Count: 185
+
+Density: 1 (Medium) - 2 (High)"
+2684,26,26.0,0,"Count: 26
+
+Density: 0 (Low) (1/2)"
+2685,34,34.0,2,"Count: 34
+
+Density: 2 (High) - The image shows a crowd of people at an airport, with a high density of individuals. The count is 34, and"
+2692,87,87.0,0,"Count: 87
+
+Density: 0.00000000000000000000000000000"
+2693,39,39.0,0,"Count: 39
+
+Density: 0 (Low) (YOLO predicted count)"
+2695,44,44.0,0,"Count: 44
+
+Density: 0 (Low) - 1 (Medium)"
+2698,17,17.0,0,"Count: 17
+
+Density: 0 (Low) (17/100)"
+2703,5,1358.0,2,"Count: 1358
+
+Density: 2 (High) (1358 / 5 = 272)"
+2706,22,155.0,1,"Count: 155
+
+Density: 1 (Medium) - 2 (High)"
+2707,2,200.0,2,"Count: 200
+
+Density: 2 (Low) (1/3 of the crowd)"
+2708,74,1198.0,2,"Count: 1198
+
+Density: 2 (High) (1198 / 356 = 3.5)"
+2710,9,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2711,11,11.0,1,"Count: 11
+
+Density: 1 (Medium) - 2 (High)"
+2714,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3 of the crowd)"
+2722,300,300.0,2,"Count: 300
+
+Density: 2 (High) (100/100)"
+2723,115,115.0,2,"Count: 115
+
+Density: 2 (Low) - 3 (Medium)"
+2724,23,23.0,2,"Count: 23
+
+Density: 2 (Low) - The image shows a crowd of people gathered in a large crowd, with some individuals standing and others sitting. The density of the crowd"
+2725,43,2598.0,2,"Count: 2598
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a mall or a convention center. The density"
+2728,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+2731,100,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, with a large number of individuals wearing hats and holding up flags. The"
+2736,285,285.0,2,"Count: 285
+
+Density: 2 (High) - 1 (Low)"
+2739,139,139.0,2,"Count: 139
+
+Density: 2 (High) - The image shows a large crowd of people gathered in a crowded area, with many individuals holding signs and signs of different colors."
+2740,49,124.0,2,"Count: 124
+
+Density: 2 (High) - The image shows a crowd of people in a large venue, but the density is not high enough to be considered a ""high"
+2742,8,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+2743,28,28.0,2,"Count: 28
+Density: 2 (High) (YOLO predicted count)"
+2746,116,116.0,1,"Count: 116
+
+Density: 1 (Medium) - 2 (High)"
+2749,41,10.0,2,"Count: 10
+
+Density: 2 (Low) (Answer: 2)"
+2753,117,117.0,0,"Count: 117
+
+Density: 0 (Low) (117/1000)"
+2758,117,117.0,1,"Count: 117
+
+Density: 1 (Medium) - 2 (High)"
+2761,45,112.0,2,"Count: 112
+
+Density: 2 (High) - The image shows a crowd of people in a large indoor space, possibly a public event or gathering. The crowd is dense,"
+2763,29,29.0,1,"Count: 29
+
+Density: 1 (Medium) - 2 (High)"
+2764,27,27.0,1,"Count: 27
+
+Density: 1 (Medium) - 2 (High)"
+2768,31,1133.0,2,"Count: 1133
+
+Density: 2 (High) (1133 / 1133)"
+2772,99,1120.0,2,"Count: 1120
+
+Density: 2 (High) (1120 / 100000 = 0.0021)"
+2774,100,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+2779,300,300.0,1,"Count: 300
+
+Density: 1 (High) - The image shows a large crowd of people gathered in an indoor setting, possibly a stadium or a large hall. The crowd is"
+2784,6,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+2788,21,21.0,2,"Count: 21
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a focus on a man standing in the center. The density of"
+2790,300,1867.0,2,"Count: 1867
+
+Density: 2 (High) (Answer: 1867)"
+2792,19,19.0,1,"Count: 19
+
+Density: 1 (Low) - 2 (Medium)"
+2793,17,17.0,1,"Count: 17
+
+Density: 1 (Low) - 2 (Medium)"
+2794,36,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (Medium)"
+2795,1,100.0,2,"Count: 100
+
+Density: 2 (Low) (100/100)"
+2797,37,273.0,2,"Count: 273
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a high density of individuals. The count is 27"
+2802,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, but the exact count is not provided. The density is not high enough"
+2803,31,31.0,0,"Count: 31
+
+Density: 0 (Low) (1/2)"
+2804,9,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+2812,31,168.0,2,"Count: 168
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+2817,23,23.0,0,"Count: 23
+
+Density: 0 (Low) - 1 (Medium)"
+2819,7,1321.0,2,"Count: 1321
+
+Density: 2 (High) (1321 / 1321)"
+2821,114,114.0,1,"Count: 114
+
+Density: 1 (Medium) - 2 (High)"
+2822,23,23.0,0,"Count: 23
+
+Density: 0 (Low) (1/3)"
+2825,3,100.0,2,"Count: 100
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, but the density is not specified."
+2828,1,10.0,0,"Count: 10
+
+Density: 0.01 (Low) (1/1000)"
+2831,44,100.0,2,"Count: 100
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, possibly a concert or festival. The density of the crowd is"
+2833,33,33.0,2,"Count: 33
+
+Density: 2 (High) (130)"
+2842,15,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+2847,4,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a snowy environment. The density is low, indicating that the crowd is sparse and"
+2853,36,36.0,0,"Count: 36
+
+Density: 0 (Low) (1/2)"
+2856,34,34.0,1,"Count: 34
+
+Density: 1 (Medium) - 2 (High)"
+2860,145,145.0,1,"Count: 145
+
+Density: 1 (Low) - The image shows a crowd of people in a large hall with a high density of individuals. The count is 145"
+2862,119,119.0,2,"Count: 119
+
+Density: 2 (High) - 119 people"
+2864,67,2409.0,2,"Count: 2409
+
+Density: 2 (High) - 1 (Low)"
+2866,5,52.0,2,"Count: 52
+
+Density: 2 (High) - The image shows a crowd of people in a busy urban setting. The density is high, indicating a large gathering of people. The"
+2870,70,100.0,1,"Count: 100
+
+Density: 1 (Medium) - 2 (High)"
+2873,261,261.0,2,"Count: 261
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, but the exact count is not provided. The density is not high enough"
+2877,2,2143.0,2,"Count: 2143
+
+Density: 2 (High) - The image shows a crowd of people in a busy public space, likely a train station or a similar transportation hub. The"
+2879,4,164.0,2,"Count: 164
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a park or a street. The density of the crowd"
+2885,101,101.0,0,"Count: 101
+
+Density: 0.111111111"
+2888,7,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+2889,136,136.0,0,"Count: 136
+
+Density: 0 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"
+2890,32,277.0,2,"Count: 277
+
+Density: 2 (High) (1/3)"
+2892,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a crowded area, but the density is not high enough to be considered a """
+2893,48,4813.0,2,"Count: 4813
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open area, possibly a park or a street. The density of"
+2898,54,54.0,2,"Count: 54
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded space, possibly a stadium or a public event. The density of the crowd"
+2904,33,33.0,1,"Count: 33
+
+Density: 1 (Medium) - 2 (High)"
+2909,12,12.0,1,"Count: 12
+
+Density: 1 (Medium) - 2 (High)"
+2910,44,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image is too blurry to count people accurately."
+2911,37,1023.0,1,"Count: 1023
+
+Density: 1 (Medium) - The count is accurate and the density is 1, which is the highest among the five examples."
+2913,18,18.0,1,"Count: 18
+
+Density: 1 (Medium) - 2 (High)"
+2919,24,24.0,1,"Count: 24
+
+Density: 1 (Medium) - 2 (High)"
+2921,300,302.0,2,"Count: 302
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"
+2923,78,138.0,2,"Count: 138
+
+Density: 2 (High) (138 / 138 = 100)"
+2924,36,1030.0,2,"Count: 1030
+
+Density: 2 (High) - 1030"
+2925,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a high density of individuals. The count is 30"
+2927,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+2931,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"
+2935,54,54.0,1,"Count: 54
+
+Density: 1 (Medium) - 2 (High)"
+2936,94,12.0,1,"Count: 12
+
+Density: 1 (Medium) - 2 (High)"
+2939,36,14.0,2,"Count: 14
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+2944,198,198.0,1,"Count: 198
+
+Density: 1 (Low) - 2 (Medium)"
+2945,12,123.0,2,"Count: 123
+
+Density: 2 (High) - The image shows a crowd of people, but the count is not provided."
+2946,222,222.0,2,"Count: 222
+
+Density: 2 (High) - The image shows a large crowd of people, but the exact count is not provided. The density is also not provided."
+2947,48,48.0,0,"Count: 48
+
+Density: 0 (Low) - 1 (Medium)"
+2948,61,164.0,2,"Count: 164
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large outdoor area, possibly a festival or a public event. The density of"
+2953,91,157.0,2,"Count: 157
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall, with a large American flag waving in the background. The density"
+2954,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large group, but the count is not provided. The density is low,"
+2959,298,298.0,2,"Count: 298
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open area, possibly a stadium or a public square. The density of"
+2961,151,151.0,1,"Count: 151
+
+Density: 1 (Low) - 2 (High)"
+2962,63,63.0,2,"Count: 63
+
+Density: 2 (High) (YOLO predicted count)"
+2963,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+2965,64,64.0,1,"Count: 64
+
+Density: 1 (Medium) - 2 (High)"
+2966,4,1000.0,1,"Count: 1000
+
+Density: 1/1000"
+2967,290,290.0,1,"Count: 290
+
+Density: 1 (Low) - The image shows a large crowd of people gathered in a crowded area, with a significant number of individuals visible. The density of"
+2970,108,108.0,1,"Count: 108
+
+Density: 1 (Low) - 2 (Medium)"
+2971,23,23.0,2,"Count: 23
+Density: 2 (High) (YOLO predicted count)"
+2973,109,109.0,1,"Count: 109
+
+Density: 1 (Medium) - 2 (High)"
+2975,85,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (Medium)"
+2977,34,34.0,2,"Count: 34
+
+Density: 2 (Low) (1/3 of the crowd)"
+2978,68,106.0,2,"Count: 106
+
+Density: 2 (High) (106 / 106 = 100)"
+2979,295,295.0,2,"Count: 295
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals present. The density of the"
+2983,34,34.0,1,"Count: 34
+
+Density: 1 (Medium) - 2 (High)"
+2985,34,34.0,2,"Count: 34
+
+Density: 2 (Low) (1/3 of the crowd)"
+2989,23,23.0,2,"Count: 23
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a significant number of individuals holding signs and flags. The density"
+2996,2,13.0,2,"Count: 13
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is high"
+3000,5,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 people)"
+3011,38,204.0,2,"Count: 204
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a square or a street. The density of the"
+3015,11,111.0,1,"Count: 111
+
+Density: 1 (Medium) - 111 people"
+3021,14,141.0,1,"Count: 141
+
+Density: 1 (Medium) - 2 (High)"
+3023,45,45.0,2,"Count: 45
+
+Density: 2 (Low) (Based on the image provided)"
+3025,0,100.0,1,"Count: 100
+
+Density: 1 (Low) (100/100)"
+3026,7,134.0,2,"Count: 134
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a mall or a convention center. The density of"
+3027,26,26.0,2,"Count: 26
+Density: 2 (High) (YOLO predicted count)"
+3031,15,150.0,1,"Count: 150
+
+Density: 1 (Low) - 2 (High)"
+3032,163,163.0,1,"Count: 163
+
+Density: 1 (High) - The image shows a crowd of people in a large venue, possibly a concert or a similar event. The crowd is dense,"
+3033,86,86.0,2,"Count: 86
+
+Density: 2 (High) (YOLO predicted count)"
+3034,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - 1 (High)"
+3035,8,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (Medium)"
+3037,205,205.0,0,"Count: 205
+
+Density: 0 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered accurate."
+3044,10,10.0,1,"Count: 10
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a public space, with a few individuals holding American flags. The density of the crowd"
+3045,18,18.0,1,"Count: 18
+
+Density: 1 (Medium) - 2 (High)"
+3048,18,1836.0,2,"Count: 1836
+
+Density: 2 (High) - The image shows a crowd of people gathered in a city street. The density of the crowd is high, with many people"
+3051,8,8.0,0,"Count: 8
+
+Density: 0.000000000000000000000000000000"
+3063,120,120.0,0,"Count: 120
+
+Density: 0 (Low) - 1 (High)"
+3065,87,1120.0,2,"Count: 1120
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+3071,76,115.0,2,"Count: 115
+
+Density: 2 (High) - The image shows a crowd of people in a stadium or concert venue. The count is 115, and the density"
+3076,105,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+3079,11,118.0,2,"Count: 118
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open area, possibly a park or a public square. The density of"
+3082,190,190.0,0,"Count: 190
+
+Density: 0 (Low) - 1 (Medium)"
+3088,35,35.0,2,"Count: 35
+
+Density: 2 (High) (YOLO predicted count)"
+3090,28,28.0,0,"Count: 28
+
+Density: 0 (Low) (1/2)"
+3092,23,23.0,0,"Count: 23
+
+Density: 0 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a crowd density."
+3096,152,152.0,2,"Count: 152
+
+Density: 2 (High) - The image shows a crowd of people gathered around a building with a large crane in the foreground. The density of the crowd is"
+3099,117,117.0,2,"Count: 117
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, with a prominent archway in the background. The crowd"
+3101,22,22.0,2,"Count: 22
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a ""high density"" image."
+3102,62,62.0,2,"Count: 62
+
+Density: 2 (Low) (1/2)"
+3112,65,65.0,1,"Count: 65
+
+Density: 1 (Low) - 2 (Medium)"
+3113,10,10.0,1,"Count: 10
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the density is low, indicating that the image is not very accurate."
+3118,53,53.0,0,"Count: 53
+
+Density: 0 (Low) (1/100)"
+3120,29,29.0,2,"Count: 29
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is high"
+3121,55,55.0,2,"Count: 55
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, but the density is not high enough to be considered a crowd density."
+3122,58,58.0,2,"Count: 58
+
+Density: 2 (High) (YOLO predicted count)"
+3126,31,31.0,1,"Count: 31
+
+Density: 1 (Low) (1/3 of the crowd)"
+3128,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+3135,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+3137,86,86.0,0,"Count: 86
+
+Density: 0 (Low) - 1 (High)"
+3138,84,84.0,1,"Count: 84
+
+Density: 1 (Medium) - 2 (High)"
+3139,0,134.0,1,"Count: 134
+
+Density: 1 (Medium) - 2 (High)"
+3143,25,25.0,0,"Count: 25
+
+Density: 0 (Low) (1/2)"
+3147,135,135.0,0,"Count: 135
+
+Density: 0 (Low) - 1 (High)"
+3148,36,36.0,1,"Count: 36
+
+Density: 1 (Medium) - 2 (High)"
+3151,48,137.0,2,"Count: 137
+
+Density: 2 (High) - 1 (Low)"
+3153,3,13.0,0,"Count: 13
+
+Density: 0 (Low) (13/100)"
+3158,300,300.0,2,"Count: 300
+
+Density: 2 (High) (YOLO predicted count)"
+3159,67,67.0,1,"Count: 67
+
+Density: 1 (Medium) - 2 (High)"
+3163,29,29.0,2,"Count: 29
+
+Density: 2 (High) - The image shows a crowd of people with umbrellas, and the density is high, indicating a large gathering."
+3172,47,47.0,1,"Count: 47
+
+Density: 1 (Medium) - 2 (High)"
+3173,13,13.0,1,"Count: 13
+
+Density: 1 (Medium) - 2 (High)"
+3178,9,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (High)"
+3179,131,131.0,1,"Count: 131
+
+Density: 1 (Medium) - 2 (High)"
+3180,59,59.0,1,"Count: 59
+
+Density: 1 (Medium) - 2 (High)"
+3182,27,27.0,1,"Count: 27
+
+Density: 1 (Medium) - 2 (High)"
+3187,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+3193,19,19.0,2,"Count: 19
+
+Density: 2 (High) - 1 (Low)"
+3198,30,30.0,1,"Count: 30
+
+Density: 1 (Low) - The image shows a crowd of people at a concert or event. The count is 30, and the density is 1"
+3201,15,15.0,1,"Count: 15
+
+Density: 1 (Low) - 2 (Medium)"
+3203,54,1263.0,2,"Count: 1263
+
+Density: 2 (High) - The image shows a crowd of people, but the exact count is not provided. The density is also not provided."
+3205,203,203.0,2,"Count: 203
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large group, with some individuals appearing to be in motion, suggesting they might"
+3208,43,43.0,1,"Count: 43
+
+Density: 1 (Medium) - 2 (High)"
+3210,76,178.0,2,"Count: 178
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large outdoor area, possibly a stadium or a park. The crowd is densely"
+3213,89,147.0,2,"Count: 147
+
+Density: 2 (High) - The image shows a large crowd of people in a room with a lot of people. The density is high, indicating a large"
+3214,20,20.0,1,"Count: 20
+
+Density: 1 (Medium) - 2 (High)"
+3216,13,13.0,2,"Count: 13
+
+Density: 2 (High) - 13 people"
+3219,9,128.0,2,"Count: 128
+
+Density: 2 (High) (128 / 128 = 100)"
+3221,31,10.0,2,"Count: 10
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, likely a street or a park. The density of the crowd is"
+3227,83,105.0,1,"Count: 105
+
+Density: 1 (Medium) - 2 (High)"
+3233,242,242.0,1,"Count: 242
+
+Density: 1 (Medium) - 2 (High)"
+3236,40,200.0,1,"Count: 200
+
+Density: 1 (Medium) - 2 (High)"
+3241,180,180.0,1,"Count: 180
+
+Density: 1 (Medium) - 2 (High)"
+3249,47,16.0,2,"Count: 16
+
+Density: 2 (High) - 1 (Low)"
+3250,106,106.0,2,"Count: 106
+
+Density: 2 (High) (YOLO predicted count)"
+3252,13,13.0,2,"Count: 13
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with many"
+3253,7,17.0,2,"Count: 17
+
+Density: 2 (High) (17/100)"
+3255,34,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+3256,17,17.0,0,"Count: 17
+
+Density: 0 (Low) - 1 (High)"
+3258,4,106.0,2,"Count: 106
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals visible. The density of the"
+3259,0,1000.0,0,"Count: 1000
+
+Density: 0 (Low) (1000 people)"
+3260,239,1110.0,2,"Count: 1110
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large crowd, with a high density of individuals. The count is"
+3261,17,17.0,2,"Count: 17
+
+Density: 2 (High) - The image shows a group of people in a conference room. The count is 17, and the density is 2."
+3264,136,136.0,0,"Count: 136
+
+Density: 0 (Low) (136/136)"
+3267,2,25.0,1,"Count: 25
+
+Density: 1 (Medium) - 2 (High)"
+3269,241,241.0,2,"Count: 241
+
+Density: 2 (High) - 1 (Low)"
+3271,135,135.0,0,"Count: 135
+
+Density: 0 (Low) (135/135)"
+3274,140,140.0,0,"Count: 140
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a public space, with a significant number of individuals present. However, the count"
+3275,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a public space, but the count is not provided. The density is not high"
+3276,26,26.0,0,"Count: 26
+
+Density: 0 (Low) (1/2)"
+3281,5,527.0,2,"Count: 527
+
+Density: 2 (High) - 1 (Low)"
+3283,35,35.0,2,"Count: 35
+
+Density: 2 (High) (YOLO predicted count)"
+3289,1,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+3298,181,181.0,2,"Count: 181
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large stadium, with a significant number of individuals visible. The density of the"
+3302,121,121.0,2,"Count: 121
+
+Density: 2 (Low) (1/1000)"
+3303,6,151.0,2,"Count: 151
+
+Density: 2 (High) (151 people)"
+3305,10,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 / 1000)"
+3311,33,33.0,1,"Count: 33
+
+Density: 1 (Medium) - 2 (High)"
+3313,56,155.0,2,"Count: 155
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+3316,123,123.0,1,"Count: 123
+
+Density: 1 (Low) - The image shows a large crowd of people, but the density is not high enough to be considered a ""high density"" image"
+3327,24,1121.0,1,"Count: 1121
+
+Density: 1 (Medium) - 2 (High)"
+3328,90,100.0,1,"Count: 100
+
+Density: 1 (Low) (100/100)"
+3331,52,52.0,0,"Count: 52
+
+Density: 0 (Low) - The image shows a crowd of people in a crowded space, but the count is not provided. The density is not specified."
+3332,81,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+3334,107,107.0,2,"Count: 107
+
+Density: 2 (High) - The image shows a crowd of people in a large indoor setting, possibly a stadium or a large hall. The crowd is densely"
+3336,79,142.0,2,"Count: 142
+
+Density: 2 (High) - The image shows a large crowd of people gathered in an indoor setting, possibly a conference or event hall. The density of the"
+3338,4,16.0,2,"Count: 16
+
+Density: 2 (High) (16/100)"
+3340,14,1464.0,2,"Count: 1464
+
+Density: 2 (High) (1464 / 1464 = 100.000)"
+3342,300,200.0,1,"Count: 200
+
+Density: 1 (Low) - The image shows a crowd of people in a large indoor arena with a basketball court in the background. The crowd is densely packed"
+3344,86,86.0,0,"Count: 86
+
+Density: 0.25 (Low) - 0.5 (Medium)"
+3345,295,295.0,2,"Count: 295
+
+Density: 2 (High) - 1 (Low)"
+3346,81,81.0,2,"Count: 81
+
+Density: 2 (High) - 1 (Low)"
+3348,77,133.0,2,"Count: 133
+
+Density: 2 (High) (133/133)"
+3351,13,13.0,0,"Count: 13
+
+Density: 0 (Low) - 1 (Medium)"
+3356,46,46.0,2,"Count: 46
+
+Density: 2 (High) (YOLO predicted count)"
+3357,2,200.0,0,"Count: 200
+
+Density: 0.0000000000000000000000000000"
+3358,124,124.0,1,"Count: 124
+
+Density: 1 (Medium) - 2 (High)"
+3359,78,166.0,2,"Count: 166
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a park or a festival. The density of the crowd"
+3362,53,53.0,0,"Count: 53
+
+Density: 0 (Low) - 1 (Medium)"
+3363,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large group of people holding up signs and flags. The crowd"
+3364,146,146.0,2,"Count: 146
+
+Density: 2 (High) (146/146)"
+3365,34,1230.0,2,"Count: 1230
+
+Density: 2 (High) - The image shows a large crowd of people gathered in a large hall or auditorium. The density of the crowd is high"
+3367,43,152.0,2,"Count: 152
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+3368,12,124.0,2,"Count: 124
+
+Density: 2 (High) - The image shows a crowd of people in a large hall with a large screen in the background. The density of the crowd is"
+3369,7,197.0,2,"Count: 197
+
+Density: 2 (High) - The image shows a large crowd of people, but the density is not high enough to be considered a ""high density"" image"
+3370,22,22.0,0,"Count: 22
+
+Density: 0.25/1000"
+3374,55,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+3378,16,16.0,1,"Count: 16
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the density is low, indicating that the image is not very clear."
+3379,10,10.0,1,"Count: 10
+
+Density: 1 (Low) - The image shows a crowd of people in a large hall with a stadium seating area. The density of the crowd is low, with"
+3380,144,144.0,2,"Count: 144
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a large number of individuals visible. The density of the crowd"
+3385,15,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+3389,0,112.0,2,"Count: 112
+
+Density: 2 (High) - 1 (Low)"
+3390,10,1000.0,0,"Count: 1000
+
+Density: 0 (Low) - 1 (High)"
+3393,75,134.0,1,"Count: 134
+
+Density: 1 (Medium) - 2 (High)"
+3395,33,33.0,2,"Count: 33
+
+Density: 2 (Low) (1/3 of the crowd)"
+3396,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3 of the crowd)"
+3397,89,89.0,0,"Count: 89
+
+Density: 0.00000000000000000000000000000"
+3407,4,10.0,0,"Count: 10
+
+Density: 0 (Low) - The image is too blurry to count people accurately."
+3409,35,151.0,2,"Count: 151
+
+Density: 2 (High) - The image shows a crowd of people in a large room with a lot of people. The density is high, but not very"
+3411,110,110.0,2,"Count: 110
+
+Density: 2 (Low) (110/1000)"
+3412,19,19.0,0,"Count: 19
+
+Density: 0 (Low) (19/19)"
+3418,21,21.0,1,"Count: 21
+
+Density: 1 (Medium) - 21 people"
+3421,84,84.0,0,"Count: 84
+
+Density: 0.00000000000000000000000000000"
+3427,137,137.0,2,"Count: 137
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open area, possibly a park or a festival. The density of the"
+3429,16,16.0,0,"Count: 16
+Density: 0 (Low) (1/16)"
+3431,9,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+3435,11,11.0,1,"Count: 11
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large hall or auditorium. The density is low, with only a few individuals"
+3436,129,129.0,2,"Count: 129
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals holding up signs or flags. The density"
+3437,13,13.0,2,"Count: 13
+Density: 2 (High) (YOLO predicted count)"
+3441,39,39.0,1,"Count: 39
+
+Density: 1 (Medium) - 2 (High)"
+3442,22,22.0,2,"Count: 22
+
+Density: 2 (High) - The image shows a crowd of people, but the count is not provided."
+3447,32,20.0,0,"Count: 20
+
+Density: 0 (Low) - 1 (Medium)"
+3448,5,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+3450,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3 of the crowd)"
+3452,17,17.0,0,"Count: 17
+Density: 0.111111111"
+3454,279,279.0,2,"Count: 279
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+3455,118,118.0,2,"Count: 118
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+3456,30,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+3457,31,122.0,2,"Count: 122
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a square or a street. The density of the crowd"
+3458,216,216.0,0,"Count: 216
+
+Density: 0 (Low) (1/2)"
+3463,100,100.0,0,"Count: 100
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a room, but the count is not provided. The density is not specified."
+3466,58,58.0,1,"Count: 58
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large indoor space, possibly a fair or exhibition. The crowd is dense, with"
+3477,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+3478,54,54.0,1,"Count: 54
+
+Density: 1 (Low) - 2 (High)"
+3480,12,12.0,1,"Count: 12
+
+Density: 1 (Medium) - 2 (High)"
+3486,30,130.0,2,"Count: 130
+
+Density: 2 (High) - 130 (Low)"
+3488,221,221.0,2,"Count: 221
+
+Density: 2 (High) - The image shows a crowd of people in a shopping mall. The density is high, with many people in close proximity to each"
+3489,135,135.0,2,"Count: 135
+
+Density: 2 (High) - The image shows a large group of people gathered together, but the exact number of individuals is not provided."
+3493,98,164.0,2,"Count: 164
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a fair or exhibition. The density of the crowd"
+3498,25,25.0,1,"Count: 25
+
+Density: 1 (Medium) - 2 (High)"
+3502,71,108.0,2,"Count: 108
+
+Density: 2 (High) - 108 people"
+3505,88,105.0,2,"Count: 105
+
+Density: 2 (High) - 100%"
+3507,216,216.0,2,"Count: 216
+
+Density: 2 (High) - The image shows a large group of people in a crowd, but the exact count is not provided. The density is also not"
+3508,16,16.0,0,"Count: 16
+Density: 0.166666667"
+3510,151,151.0,2,"Count: 151
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large group, with some individuals standing and others sitting. The density of the"
+3515,60,158.0,2,"Count: 158
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium, with a large number of individuals present. The density of the crowd"
+3516,18,18.0,1,"Count: 18
+
+Density: 1 (Medium) - 2 (High)"
+3517,148,148.0,0,"Count: 148
+
+Density: 0 (Low) - The image shows a crowd of people, but the density is not high enough to be considered accurate."
+3518,15,15.0,1,"Count: 15
+
+Density: 1 (Low) - 2 (Medium)"
+3522,106,106.0,0,"Count: 106
+
+Density: 0.0000000000000000000000000000"
+3524,47,47.0,2,"Count: 47
+
+Density: 2 (High) - The image shows a crowd of people gathered in a city street during a rainy day. The density of the crowd is high, with"
+3527,4,1000.0,0,"Count: 1000
+
+Density: 0 (Low) (1000 people)"
+3528,17,17.0,1,"Count: 17
+
+Density: 1 (Low) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"""
+3529,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/3)"
+3530,25,25.0,0,"Count: 25
+
+Density: 0 (Low) (1/2)"
+3531,60,166.0,1,"Count: 166
+
+Density: 1 (Medium) - 2 (High)"
+3534,300,300.0,2,"Count: 300
+Density: 2 (High) (YOLO predicted count)"
+3536,19,19.0,1,"Count: 19
+
+Density: 1 (Medium) - 2 (High)"
+3538,0,100.0,1,"Count: 100
+
+Density: 1 (Low) (100/100)"
+3539,300,300.0,2,"Count: 300
+
+Density: 2 (High) (YOLO predicted count)"
+3544,300,2044.0,2,"Count: 2044
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a stadium or a large public area. The"
+3547,38,38.0,2,"Count: 38
+
+Density: 2 (High) - 1 (Low)"
+3549,216,216.0,2,"Count: 216
+
+Density: 2 (High) - The image shows a large group of people gathered together, with many individuals standing and interacting with each other. The density of the"
+3550,17,17.0,1,"Count: 17
+Density: 1 (Medium) (Low) (High)"
+3551,220,220.0,0,"Count: 220
+
+Density: 0 (Low) - 1 (Medium)"
+3552,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3)"
+3555,300,132.0,2,"Count: 132
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+3560,300,300.0,0,"Count: 300
+
+Density: 0.0000000000000000000000000000"
+3561,24,130.0,2,"Count: 130
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a ""high"
+3565,11,11.0,2,"Count: 11
+
+Density: 2 (High) (11/100)"
+3566,71,186.0,2,"Count: 186
+
+Density: 2 (High) (186 / 1000)"
+3576,267,267.0,1,"Count: 267
+
+Density: 1 (Medium) - 2 (High)"
+3581,57,57.0,0,"Count: 57
+
+Density: 0 (Low) (1/2)"
+3582,10,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a public space, possibly a street or a public square. The density is low"
+3586,56,56.0,2,"Count: 56
+
+Density: 2 (High) (YOLO predicted count)"
+3588,60,60.0,0,"Count: 60
+
+Density: 0.2 (Low) (High)"
+3589,154,154.0,2,"Count: 154
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+3591,38,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+3593,150,150.0,1,"Count: 150
+
+Density: 1 (Low) - 2 (High)"
+3594,174,174.0,2,"Count: 174
+
+Density: 2 (High) - The image shows a crowd of people gathered around a stage with a large crowd of people. The density of the crowd is high"
+3600,61,61.0,0,"Count: 61
+
+Density: 0 (Low) (1/100)"
+3601,146,146.0,1,"Count: 146
+
+Density: 1 (Medium) - 2 (High)"
+3602,156,156.0,0,"Count: 156
+
+Density: 0 (Low) (156/156)"
+3603,16,16.0,1,"Count: 16
+
+Density: 1 (Medium) - 2 (High)"
+3608,1,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+3610,206,107.0,2,"Count: 107
+
+Density: 2 (Low) - The image shows a crowd of people in a crowded area with many individuals walking and standing. The density is low, indicating that"
+3611,9,15.0,0,"Count: 15
+Density: 0 (Low) (Based on the image provided)"
+3612,15,15.0,1,"Count: 15
+
+Density: 1 (Low) - 2 (Medium)"
+3614,23,1476.0,2,"Count: 1476
+
+Density: 2 (High) (1476 / 23 = 66.7)"
+3616,11,113.0,2,"Count: 113
+
+Density: 2 (High) (113/113)"
+3617,300,300.0,1,"Count: 300
+
+Density: 1 (Low) - The image shows a crowd of people in a crowded area, but the density is low, indicating that the image is not very"
+3621,195,195.0,1,"Count: 195
+
+Density: 1 (Medium) - 2 (High)"
+3622,171,171.0,2,"Count: 171
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a large number of individuals visible. The density of the crowd"
+3623,20,20.0,0,"Count: 20
+Density: 0.25 (Low) (High)"
+3624,9,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+3627,23,23.0,2,"Count: 23
+
+Density: 2 (Low) - The image shows a crowd of people in a busy urban area, with a clear focus on the crowd and the street. The density"
+3631,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+3637,69,100.0,2,"Count: 100
+
+Density: 2 (Low) - 3 (Medium)"
+3644,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+3651,28,28.0,2,"Count: 28
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the exact count is not provided. The density is also not provided"
+3652,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+3654,300,1846.0,2,"Count: 1846
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, but the density is not specified."
+3656,55,55.0,0,"Count: 55
+
+Density: 0.00000000000000000000000000000"
+3657,36,36.0,0,"Count: 36
+
+Density: 0 (Low) (1/3)"
+3658,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+3663,16,16.0,0,"Count: 16
+Density: 0.166666667"
+3664,198,198.0,1,"Count: 198
+
+Density: 1 (Medium) - 2 (High)"
+3668,35,35.0,2,"Count: 35
+
+Density: 2 (Low) (1/3)"
+3671,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - The image shows a crowd of people in a stadium, but the count is not provided. The density is not specified."
+3673,8,14.0,1,"Count: 14
+
+Density: 1 (Medium) - 2 (High)"
+3676,15,1553.0,2,"Count: 1553
+
+Density: 2 (High) (1553 people)"
+3677,28,28.0,0,"Count: 28
+
+Density: 0 (Low) (1/2)"
+3678,51,51.0,1,"Count: 51
+
+Density: 1 (Medium) - 2 (High)"
+3680,200,203.0,1,"Count: 203
+
+Density: 1 (Medium) - 2 (High)"
+3682,2,200.0,1,"Count: 200
+
+Density: 1 (Low) - 2 (Medium)"
+3683,16,16.0,1,"Count: 16
+
+Density: 1 (Medium) - 2 (High)"
+3685,225,225.0,2,"Count: 225
+
+Density: 2 (High) - The image shows a large crowd of people, but the exact count is not provided. The density is high, indicating a large"
+3686,12,125.0,2,"Count: 125
+
+Density: 2 (High) - The image shows a crowd of people at an airport, with a large number of individuals visible. The density of the crowd is"
+3687,43,43.0,2,"Count: 43
+
+Density: 2 (High) (YOLO predicted count)"
+3690,2,200.0,2,"Count: 200
+
+Density: 2 (Low) - The image is too blurry to count people accurately."
+3694,144,144.0,2,"Count: 144
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, with a high density of individuals. The count is 14"
+3697,77,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+3698,32,32.0,1,"Count: 32
+
+Density: 1 (Medium) - 2 (High)"
+3699,190,190.0,2,"Count: 190
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+3706,107,107.0,2,"Count: 107
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+3707,51,51.0,1,"Count: 51
+
+Density: 1 (Medium) - 2 (High)"
+3711,49,120.0,1,"Count: 120
+
+Density: 1 (Medium) - 2 (High)"
+3713,18,18.0,1,"Count: 18
+
+Density: 1 (Low) - The image shows a crowd of people gathered around a statue, with some individuals taking photos of the statue. The density of the crowd"
+3716,161,161.0,1,"Count: 161
+
+Density: 1 (Low) - The image shows a large crowd of people gathered in a crowded area, with many individuals holding signs and holding laptops. The density"
+3719,7,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large open space, possibly a stadium or a large event venue. The crowd"
+3721,238,238.0,1,"Count: 238
+
+Density: 1 (Medium) - 2 (High)"
+3722,28,28.0,1,"Count: 28
+
+Density: 1 (Medium) - 2 (High)"
+3723,2,21.0,2,"Count: 21
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area with a large number of individuals. The density is high, indicating a large"
+3726,300,1116.0,2,"Count: 1116
+
+Density: 2 (High) (1116 / 120000 = 0.00000000"
+3727,52,52.0,1,"Count: 52
+
+Density: 1 (Medium) - 2 (High)"
+3728,144,144.0,2,"Count: 144
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, with a significant number of individuals present. The density of the"
+3729,10,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 people)"
+3734,300,300.0,0,"Count: 300
+
+Density: 0.001 (Low)"
+3735,20,20.0,1,"Count: 20
+
+Density: 1 (Low) (20/1000)"
+3743,130,130.0,0,"Count: 130
+
+Density: 0 (Low) - The image shows a crowd of people walking down a street, but the density is low, indicating that the image is not of"
+3744,65,100.0,1,"Count: 100
+
+Density: 1 (Low) (100/100)"
+3754,138,138.0,1,"Count: 138
+
+Density: 1 (Medium) - 2 (High)"
+3755,225,225.0,2,"Count: 225
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a festival or a public event. The density of the"
+3756,19,19.0,0,"Count: 19
+Density: 0.155 (Low) (19/100)"
+3757,21,21.0,2,"Count: 21
+
+Density: 2 (Low) (1/3 of the crowd)"
+3758,300,300.0,2,"Count: 300
+
+Density: 2 (High) (YOLO predicted count)"
+3759,155,155.0,1,"Count: 155
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a park or similar outdoor setting. The density of the crowd is low, with"
+3760,5,149.0,2,"Count: 149
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large stadium or arena. The density of the crowd is high, with many"
+3764,4,1000.0,2,"Count: 1000
+
+Density: 2 (Low) (1000 people)"
+3765,5,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a snowy environment. The density is low, indicating that the crowd is sparse and"
+3766,89,89.0,0,"Count: 89
+
+Density: 0 (Low) (1/100)"
+3768,235,235.0,2,"Count: 235
+
+Density: 2 (High) - The image shows a crowd of people in a crowded urban setting. The density is high, with many individuals visible in the image"
+3769,126,126.0,0,"Count: 126
+
+Density: 0 (Low) (126/126)"
+3770,79,141.0,2,"Count: 141
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a high density of individuals. The count is 141"
+3775,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The crowd is"
+3779,57,141.0,2,"Count: 141
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large venue, with a significant number of individuals present. The density of the"
+3780,197,197.0,1,"Count: 197
+
+Density: 1 (Medium) - 2 (High)"
+3781,20,20.0,1,"Count: 20
+
+Density: 1 (Medium) - 2 (High)"
+3783,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+3786,21,21.0,0,"Count: 21
+Density: 0.25/1000"
+3787,43,4324.0,2,"Count: 4324
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+3788,34,1983.0,2,"Count: 1983
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium, with a large crowd of individuals standing and sitting. The density"
+3790,220,220.0,2,"Count: 220
+
+Density: 2 (High) - The image shows a large crowd of people, but the exact count is not provided. The density is also not provided."
+3792,32,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (High)"
+3797,37,37.0,1,"Count: 37
+
+Density: 1 (Medium) - 2 (High)"
+3798,11,11.0,1,"Count: 11
+
+Density: 1 (Medium) - 2 (High)"
+3801,163,163.0,1,"Count: 163
+
+Density: 1 (Low) - 2 (Medium)"
+3803,47,47.0,1,"Count: 47
+
+Density: 1 (Medium) - 2 (High)"
+3806,236,236.0,0,"Count: 236
+
+Density: 0 (Low) - 1 (Medium)"
+3811,16,16.0,1,"Count: 16
+
+Density: 1 (Medium) - 2 (High)"
+3814,125,125.0,2,"Count: 125
+
+Density: 2 (High) (125/1000)"
+3819,198,198.0,0,"Count: 198
+
+Density: 0 (Low) - 1 (High)"
+3820,118,118.0,1,"Count: 118
+
+Density: 1 (Medium) - 2 (High)"
+3821,40,40.0,2,"Count: 40
+
+Density: 2 (High) (YOLO predicted count)"
+3822,43,43.0,2,"Count: 43
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+3829,23,239.0,2,"Count: 239
+
+Density: 2 (High) - The image shows a crowd of people, but the count is not provided. The density is also not provided."
+3832,90,156.0,1,"Count: 156
+
+Density: 1 (Medium) - 2 (High)"
+3834,10,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 people)"
+3837,73,154.0,2,"Count: 154
+Density: 2 (High) (154/154)"
+3841,11,116.0,2,"Count: 116
+
+Density: 2 (High) - 1 (Low)"
+3842,2,288.0,2,"Count: 288
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a city square or a public event. The density of"
+3849,62,62.0,2,"Count: 62
+
+Density: 2 (High) - 1 (Low)"
+3854,2,167.0,2,"Count: 167
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a convention center or a similar venue. The density"
+3855,33,33.0,1,"Count: 33
+
+Density: 1 (Medium) - 2 (High)"
+3857,28,28.0,2,"Count: 28
+Density: 2 (High) (YOLO predicted count)"
+3858,100,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+3859,32,32.0,1,"Count: 32
+
+Density: 1 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+3862,18,18.0,0,"Count: 18
+
+Density: 0 (Low) (1/2)"
+3870,52,52.0,0,"Count: 52
+
+Density: 0 (Low) (1/2)"
+3871,89,89.0,0,"Count: 89
+
+Density: 0.00000000000000000000000000000"
+3880,2,200.0,1,"Count: 200
+
+Density: 1 (Low) - 2 (Medium)"
+3881,34,34.0,2,"Count: 34
+
+Density: 2 (Low) (1/3 of the crowd)"
+3887,57,57.0,2,"Count: 57
+
+Density: 2 (Low) (1/2)"
+3888,4,14.0,1,"Count: 14
+
+Density: 1 (Low) (14/100)"
+3891,50,50.0,2,"Count: 50
+
+Density: 2 (Low) - The image shows a crowd of people in a large hall with a large number of people. The density is low, indicating that the"
+3895,26,26.0,0,"Count: 26
+
+Density: 0 (Low) (1/2)"
+3896,17,17.0,1,"Count: 17
+
+Density: 1 (Low) - 2 (Medium)"
+3897,25,25.0,1,"Count: 25
+
+Density: 1 (Low) (25/100)"
+3898,14,14.0,2,"Count: 14
+Density: 2 (High) (YOLO predicted count)"
+3899,22,22.0,2,"Count: 22
+Density: 2 (High) (YOLO predicted count)"
+3905,155,155.0,1,"Count: 155
+
+Density: 1 (Medium) - 2 (High)"
+3907,6,1198.0,2,"Count: 1198
+
+Density: 2 (High) (1198 / 1198 = 100.00000000"
+3910,300,116.0,2,"Count: 116
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a crowd density"
+3911,4,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 1000 (High)"
+3914,29,294.0,2,"Count: 294
+
+Density: 2 (High) - The image shows a crowd of people gathered at a public event. The density of the crowd is high, with many individuals visible"
+3916,164,164.0,2,"Count: 164
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a high density of individuals. The count is 1"
+3917,2,1000.0,1,"Count: 1000
+
+Density: 1 (Low) - 2 (High)"
+3921,70,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+3922,41,1395.0,2,"Count: 1395
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not specified."
+3923,32,329.0,2,"Count: 329
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large indoor space, possibly a stadium or a large hall. The crowd is"
+3925,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+3927,24,114.0,2,"Count: 114
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large crowd, with a high density of individuals. The crowd appears to be"
+3930,300,306.0,2,"Count: 306
+
+Density: 2 (High) (1/2)"
+3933,18,18.0,0,"Count: 18
+Density: 0.1 (Low) (High)"
+3934,76,16.0,2,"Count: 16
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a high density of individuals. The count is 16"
+3938,65,65.0,1,"Count: 65
+
+Density: 1 (Medium) - 2 (High)"
+3939,9,1000.0,1,"Count: 1000
+
+Density: 1/1000"
+3941,5,5.0,0,"Count: 5
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a public space, but the density is low, indicating that the image is not of high"
+3942,85,85.0,1,"Count: 85
+
+Density: 1 (Medium) - 2 (High)"
+3944,12,12.0,0,"Count: 12
+
+Density: 0 (Low) (12/100)"
+3947,35,35.0,0,"Count: 35
+
+Density: 0 (Low) (1/3)"
+3951,8,100.0,1,"Count: 100
+
+Density: 1 (Low) (100/100)"
+3953,56,107.0,2,"Count: 107
+
+Density: 2 (High) (107 / 107 = 107)"
+3955,21,21.0,2,"Count: 21
+
+Density: 2 (High) - The image shows a crowd of people gathered around a bus stop. The density of the crowd is high, with many people standing close"
+3960,140,140.0,2,"Count: 140
+
+Density: 2 (High) - 1 (Low)"
+3962,49,141.0,2,"Count: 141
+
+Density: 2 (High) - 1 (Low)"
+3964,15,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+3968,297,297.0,2,"Count: 297
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, with a clear sky and a clear horizon line. The"
+3969,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+3971,166,166.0,1,"Count: 166
+
+Density: 1 (Low) - 2 (Medium)"
+3972,25,25.0,1,"Count: 25
+
+Density: 1 (Medium) - 2 (High)"
+3975,12,12.0,1,"Count: 12
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a stadium, but the count is not provided. The density is not high enough to"
+3976,128,128.0,2,"Count: 128
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a large number of individuals visible. The density of the"
+3982,43,43.0,1,"Count: 43
+
+Density: 1 (Medium) - 2 (High)"
+3985,203,203.0,1,"Count: 203
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a large hall with a large number of individuals. The density of the crowd is"
+3987,96,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+3989,8,8.0,0,"Count: 8
+
+Density: 0.000000000000000000000000000000"
+3991,136,136.0,2,"Count: 136
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large outdoor area, with a clear sky and a clear horizon line. The"
+3994,34,247.0,2,"Count: 247
+
+Density: 2 (High) - The image shows a large crowd of people, but the exact count is not provided. The density is also not provided."
+3998,141,141.0,1,"Count: 141
+
+Density: 1 (Low) - The image shows a crowd of people in a public space, but the count is not provided. The density is not specified."
+4001,72,15.0,2,"Count: 15
+
+Density: 2 (High) (15/100)"
+4002,8,100.0,0,"Count: 100
+
+Density: 0.01 (Low) - 0.02 (High)"
+4006,177,177.0,1,"Count: 177
+
+Density: 1 (High) - 177 people"
+4009,0,14.0,1,"Count: 14
+
+Density: 1 (Medium) (14/100)"
+4012,231,231.0,0,"Count: 231
+
+Density: 0 (Low) (1/2)"
+4014,50,50.0,1,"Count: 50
+
+Density: 1 (Medium) - 20%"
+4020,19,19.0,1,"Count: 19
+Density: 1 (Low) (19/100)"
+4022,3,130.0,2,"Count: 130
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of people wearing red and white clothing."
+4026,168,168.0,2,"Count: 168
+
+Density: 2 (High) - 168 is too high"
+4030,7,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+4036,18,18.0,1,"Count: 18
+
+Density: 1 (Medium) - 2 (High)"
+4037,56,56.0,1,"Count: 56
+
+Density: 1 (Low) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+4044,5,507.0,0,"Count: 507
+
+Density: 0 (Low) - The image shows a large crowd of people in a stadium, but the density is low, indicating that the image is not of"
+4046,300,300.0,1,"Count: 300
+
+Density: 1 (Low) (1/100)"
+4047,8,8.0,0,"Count: 8
+Density: 0.000000000000000000000000000000"
+4048,300,144.0,0,"Count: 144
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a large indoor setting, possibly a shopping mall or a similar venue. The density"
+4053,2,22.0,2,"Count: 22
+
+Density: 2 (High) - The image shows a crowd of people gathered in a park, with some individuals standing and others sitting on the grass. The density of"
+4054,79,105.0,2,"Count: 105
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a large number of individuals present. The density of the"
+4056,10,,0,"Count: 1000000000
+Density: 0"
+4058,34,34.0,2,"Count: 34
+
+Density: 2 (High) (YOLO predicted count)"
+4064,50,50.0,2,"Count: 50
+
+Density: 2 (Low) (1/3 of the crowd)"
+4065,121,121.0,1,"Count: 121
+
+Density: 1 (Medium) - 2 (High)"
+4066,24,24.0,1,"Count: 24
+
+Density: 1 (Medium) - 2 (High)"
+4070,1,145.0,2,"Count: 145
+
+Density: 2 (High) - The image shows a crowd of people in a stadium, with a large number of individuals visible. The density of the crowd is"
+4071,169,169.0,0,"Count: 169
+
+Density: 0 (Low) (1/169)"
+4074,232,232.0,1,"Count: 232
+
+Density: 1 (Medium) - 2 (High)"
+4075,174,174.0,2,"Count: 174
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, possibly a street or a park. The density of the crowd"
+4076,110,110.0,0,"Count: 110
+
+Density: 0.1 (Low) (110/1000)"
+4078,15,15.0,1,"Count: 15
+
+Density: 1 (Low) - 2 (Medium)"
+4079,14,1400.0,1,"Count: 1400
+
+Density: 1 (Medium) - 2 (High)"
+4080,11,11.0,0,"Count: 11
+Density: 0.111111111"
+4083,16,16.0,1,"Count: 16
+
+Density: 1 (Medium) - 2 (High)"
+4090,16,16.0,1,"Count: 16
+
+Density: 1 (Medium) - 2 (High)"
+4092,300,222.0,2,"Count: 222
+
+Density: 2 (High) - 100%"
+4093,75,130.0,2,"Count: 130
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open area, possibly a street or a public space. The density of"
+4094,19,19.0,1,"Count: 19
+
+Density: 1 (Medium) - 2 (High)"
+4096,54,54.0,1,"Count: 54
+
+Density: 1 (Low) - The image shows a crowd of people, but the count is not provided."
+4098,24,24.0,1,"Count: 24
+
+Density: 1 (Medium) - 24 people"
+4104,106,106.0,2,"Count: 106
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, possibly a fair or festival. The density of the crowd"
+4106,7,7.0,2,"Count: 7
+Density: 2 (High) (1) (Medium)"
+4108,9,151.0,2,"Count: 151
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, likely a street or a public square. The density of the"
+4111,43,43.0,1,"Count: 43
+
+Density: 1 (Medium) - 2 (High)"
+4116,34,115.0,1,"Count: 115
+
+Density: 1 (Medium) - 2 (High)"
+4118,43,43.0,2,"Count: 43
+
+Density: 2 (High) - 1 (Low)"
+4119,300,300.0,0,"Count: 300
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a crowded area, but the density is not high enough to be considered a """
+4122,27,27.0,1,"Count: 27
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals present. The density of the crowd"
+4126,300,111.0,1,"Count: 111
+
+Density: 1 (Medium) - 2 (High)"
+4127,300,300.0,2,"Count: 300
+
+Density: 2 (Low) (1/3 of the crowd)"
+4128,113,113.0,1,"Count: 113
+
+Density: 1 (Low) - 113 (High)"
+4132,33,348.0,2,"Count: 348
+
+Density: 2 (High) - The image shows a crowd of people in a large hall with a crowd of people. The density is high, with many people"
+4134,216,216.0,2,"Count: 216
+
+Density: 2 (High) - The image shows a crowd of people, but the exact count is not provided. The density is also not provided."
+4135,28,28.0,2,"Count: 28
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with many"
+4136,5,114.0,2,"Count: 114
+
+Density: 2 (High) - The image shows a crowd of people walking down a street, with some individuals holding umbrellas. The density of the crowd is"
+4138,1,100.0,0,"Count: 100
+
+Density: 0.001 (Low)"
+4139,29,29.0,2,"Count: 29
+
+Density: 2 (High) - The image shows a crowd of people in a room with a large number of individuals. The density of the crowd is high, with"
+4140,137,137.0,2,"Count: 137
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open area, possibly a park or a public square. The density of"
+4141,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+4143,17,17.0,2,"Count: 17
+Density: 2 (High) (YOLO predicted count)"
+4144,48,48.0,0,"Count: 48
+
+Density: 0.00000000000000000000000000000"
+4145,108,108.0,1,"Count: 108
+
+Density: 1 (Medium) - 2 (High)"
+4146,17,17.0,0,"Count: 17
+Density: 0.00000000000000000000000000000"
+4148,108,108.0,0,"Count: 108
+
+Density: 0 (Low) - 1 (High)"
+4152,75,115.0,1,"Count: 115
+
+Density: 1 (Medium) - 2 (High)"
+4154,281,281.0,2,"Count: 281
+
+Density: 2 (High) - 1 (Low)"
+4155,24,245.0,2,"Count: 245
+
+Density: 2 (High) - The image shows a crowd of people in a large hall with a large number of individuals. The density is high, indicating a"
+4159,55,100.0,2,"Count: 100
+
+Density: 2 (High) (100/100)"
+4160,18,18.0,1,"Count: 18
+Density: 1 (Low) (1/100)"
+4163,196,196.0,1,"Count: 196
+
+Density: 1 (Medium) - 2 (High)"
+4164,30,30.0,1,"Count: 30
+
+Density: 1 (Medium) - 2 (High)"
+4167,49,49.0,2,"Count: 49
+
+Density: 2 (High) (100% of people in the crowd)"
+4172,67,123.0,2,"Count: 123
+
+Density: 2 (High) (123 people)"
+4174,72,72.0,0,"Count: 72
+
+Density: 0 (Low) (1/2)"
+4175,11,11.0,0,"Count: 11
+Density: 0.111111111"
+4176,69,11.0,2,"Count: 11
+
+Density: 2 (High) - The image shows a crowd of people in a crowded area, but the density is not high enough to be considered a crowd density."
+4178,283,283.0,0,"Count: 283
+
+Density: 0 (Low) - 1 (High)"
+4180,160,160.0,0,"Count: 160
+
+Density: 0 (Low) - The image shows a crowd of people gathered in a large indoor space, possibly a convention center or a similar venue. The crowd"
+4181,26,26.0,2,"Count: 26
+
+Density: 2 (Low) (The image is too dark to count accurately, but it is clear that there are many people in the crowd. The density is low"
+4182,23,23.0,0,"Count: 23
+
+Density: 0 (Low) (1/3)"
+4193,300,306.0,1,"Count: 306
+
+Density: 1 (Medium) - 2 (High)"
+4195,0,12.0,2,"Count: 12
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with a focus on a person in the foreground who appears to be"
+4199,132,132.0,2,"Count: 132
+
+Density: 2 (High) - The image shows a crowd of people gathered in a public space, with many individuals holding signs and flags. The density of the"
+4201,53,53.0,2,"Count: 53
+
+Density: 2 (Low) (1/3 of the crowd)"
+4202,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/2)"
+4204,241,1271.0,2,"Count: 1271
+
+Density: 2 (High) (1271 / 1271)"
+4208,111,111.0,1,"Count: 111
+
+Density: 1 (Medium) - 2 (High)"
+4210,22,22.0,2,"Count: 22
+
+Density: 2 (High) - The image shows a crowd of people gathered in a crowded area, with a large number of individuals present. The density of the crowd"
+4211,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/2)"
+4214,13,13.0,2,"Count: 13
+Density: 2 (High) (YOLO predicted count)"
+4215,39,116.0,2,"Count: 116
+
+Density: 2 (High) - The image shows a crowd of people at an event, but the exact count is not provided. The density is not high enough"
+4217,75,100.0,1,"Count: 100
+
+Density: 1 (Low) - The image shows a crowd of people gathered at a train station. The density is low, with many people in close proximity to"
+4218,0,124.0,1,"Count: 124
+
+Density: 1 (Medium) - 2 (High)"
+4220,7,17.0,1,"Count: 17
+Density: 1 (Medium) (2/3)"
+4222,154,154.0,1,"Count: 154
+
+Density: 1 (Medium) - 2 (High)"
+4227,300,154.0,2,"Count: 154
+
+Density: 2 (High) - The image shows a crowd of people, but the count is not provided. The density is not specified."
+4230,68,68.0,2,"Count: 68
+
+Density: 2 (Low) (1/3 of the crowd)"
+4236,39,39.0,2,"Count: 39
+
+Density: 2 (High) - The image shows a crowd of people, but the count is not provided."
+4237,12,12.0,0,"Count: 12
+
+Density: 0.1 (Low) - 0.2 (Medium)"
+4240,52,52.0,0,"Count: 52
+
+Density: 0.25 (Low) (High)"
+4244,294,294.0,2,"Count: 294
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or auditorium. The density of the crowd is high, with"
+4254,17,17.0,1,"Count: 17
+
+Density: 1 (Low) - 2 (High)"
+4256,10,1000.0,1,"Count: 1000
+
+Density: 1 (Low) (1000 people)"
+4260,131,131.0,0,"Count: 131
+
+Density: 0 (Low) - 1 (Medium)"
+4267,70,14.0,2,"Count: 14
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large hall or exhibition space. The density of the crowd is high, with many"
+4268,11,114.0,2,"Count: 114
+
+Density: 2 (High) - The image shows a crowd of people gathered in a busy urban area. The density of the crowd is high, with many individuals"
+4270,66,66.0,1,"Count: 66
+
+Density: 1 (Medium) - 2 (High)"
+4271,3,3073.0,2,"Count: 3073
+
+Density: 2 (High) (1/1000)"
+4273,151,151.0,2,"Count: 151
+
+Density: 2 (High) - The image shows a crowd of people, but the density is not high enough to be considered a crowd density."
+4276,138,138.0,2,"Count: 138
+
+Density: 2 (High) - 138 (Low)"
+4279,25,25.0,0,"Count: 25
+
+Density: 0 (Low) - 1 (High)"
+4281,8,1404.0,2,"Count: 1404
+
+Density: 2 (High) (1404 / 1404 = 100.00000000"
+4284,11,11.0,1,"Count: 11
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a snowy environment. The density is low, indicating that the crowd is sparse and not"
+4286,61,61.0,1,"Count: 61
+
+Density: 1 (Medium) - 2 (High)"
+4291,110,110.0,1,"Count: 110
+
+Density: 1 (Medium) - 2 (High)"
+4293,64,64.0,0,"Count: 64
+
+Density: 0 (Low) (1/100)"
+4294,11,11.0,1,"Count: 11
+
+Density: 1 (Low) - The image shows a crowd of people in a large hall with a large screen in the background. The crowd is predominantly dark, with"
+4295,178,178.0,0,"Count: 178
+
+Density: 0 (Low) - 1 (High)"
+4296,300,120.0,2,"Count: 120
+
+Density: 2 (High) - The image shows a large crowd of people, but the density is not high enough to be considered a ""high density"" image"
+4297,193,193.0,1,"Count: 193
+
+Density: 1 (Medium) - 2 (High)"
+4299,84,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (High)"
+4301,98,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+4304,0,149.0,2,"Count: 149
+
+Density: 2 (High) - The image shows a crowd of people in a large indoor arena with a high density of individuals. The count is 14"
+4309,257,257.0,2,"Count: 257
+
+Density: 2 (High) - 1 (Low)"
+4310,51,51.0,1,"Count: 51
+
+Density: 1 (Low) - The image shows a crowd of people in a stadium, but the count is not provided. The density is not high enough to be"
+4311,15,15.0,1,"Count: 15
+
+Density: 1 (Medium) - 2 (High)"
+4312,209,200.0,1,"Count: 200
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a public space, possibly a street or a park, with a large number of"
+4314,18,18.0,0,"Count: 18
+
+Density: 0 (Low) (1/100)"
+4315,21,21.0,2,"Count: 21
+Density: 2 (High) (YOLO predicted count)"
+4316,27,154.0,2,"Count: 154
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large room with a wall-mounted board displaying information. The crowd is dense,"
+4318,51,51.0,2,"Count: 51
+
+Density: 2 (High) (1/100)"
+4322,300,300.0,0,"Count: 300
+
+Density: 0 (Low) (1/100)"
+4323,9,100.0,0,"Count: 100
+
+Density: 0 (Low) - 1 (High)"
+4324,40,40.0,1,"Count: 40
+
+Density: 1 (Medium) (1/1000)"
+4325,17,17.0,1,"Count: 17
+
+Density: 1 (Medium) - 2 (High)"
+4327,300,300.0,2,"Count: 300
+
+Density: 2 (High) - The image shows a crowd of people gathered in a stadium, with a large crowd of people standing and walking around. The density"
+4328,300,300.0,2,"Count: 300
+
+Density: 2 (High) (1/3)"
+4333,58,116.0,2,"Count: 116
+
+Density: 2 (High) (116 / 1000)"
+4334,36,119.0,1,"Count: 119
+
+Density: 1 (Medium) - The image shows a crowd of people gathered in a large hall with a building in the background. The crowd is dense, with"
+4336,300,300.0,1,"Count: 300
+
+Density: 1 (Medium) - 2 (High)"
+4341,104,104.0,2,"Count: 104
+
+Density: 2 (High) - The image shows a crowd of people gathered in a large open space, with a clear sky and a few clouds. The density"
+4342,21,21.0,2,"Count: 21
+Density: 2 (High) (YOLO predicted count)"
+4343,217,217.0,1,"Count: 217
+
+Density: 1 (Medium) - 2 (High)"
+4346,90,159.0,2,"Count: 159
+
+Density: 2 (High) - 1 (Low)"
+4347,162,162.0,0,"Count: 162
+
+Density: 0 (Low) (1/2)"
+4352,8,100.0,1,"Count: 100
+
+Density: 1 (Low) - 2 (Medium)"
+4353,81,100.0,0,"Count: 100
+
+Density: 0 (Low) (100/100)"
+4355,14,14.0,0,"Count: 14
+Density: 0.111111111"
+4356,56,56.0,1,"Count: 56
+
+Density: 1 (Medium) - 2 (High)"
+4362,35,35.0,2,"Count: 35
+
+Density: 2 (High) (1087)"
+4366,176,176.0,1,"Count: 176
+
+Density: 1 (Medium) - 2 (High)"
+4367,38,38.0,1,"Count: 38
+
+Density: 1 (Medium) - 2 (High)"
+4372,114,114.0,1,"Count: 114
+
+Density: 1 (Medium) - 114 people"
+4374,35,35.0,1,"Count: 35
+Density: 1 (High) (YOLO predicted count)"
+4375,75,173.0,2,"Count: 173
+
+Density: 2 (High) - The image shows a crowd of people gathered at a train station. The density is 2, which is the highest among the"
+4376,21,21.0,1,"Count: 21
+
+Density: 1 (Low) - The image shows a crowd of people gathered in a crowded area, but the density is not high enough to be considered a crowd density"
+4378,86,86.0,0,"Count: 86
+
+Density: 0.00000000000000000000000000000"

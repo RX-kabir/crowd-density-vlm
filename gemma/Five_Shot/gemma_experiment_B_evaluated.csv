@@ -1,0 +1,3202 @@
+test_filename,yolo_predicted_count,predicted_count,predicted_density,raw_response,filename,total_count,crowd_density
+2,32,45,1,"Count: 45
+Density: 1 (Medium)",2,43,1
+4,25,35,2,"Count: 35
+Density: 2 (High)",4,59,2
+5,1,185,2,"Count: 185
+Density: 2 (High)",5,463,2
+6,41,63,1,"Count: 63
+Density: 1 (Medium)",6,299,2
+16,58,68,2,"Count: 68
+Density: 2 (High)",16,140,2
+20,20,65,2,"Count: 65
+Density: 2 (High)",20,28,1
+24,9,35,2,"Count: 35
+Density: 2",24,45,2
+28,15,35,1,"Count: 35
+Density: 1 (Medium)",28,33,1
+33,17,65,2,"Count: 65
+Density: 2 (High)",33,50,2
+41,21,65,2,"Count: 65
+Density: 2 (High)",41,55,2
+43,60,75,2,"Count: 75
+Density: 2 (High)",43,284,2
+45,136,120,2,"Count: 120
+Density: 2 (High)",45,275,2
+47,29,35,1,"Count: 35
+Density: 1",47,52,1
+60,182,185,2,"Count: 185
+Density: 2",60,212,2
+59,112,105,2,"Count: 105
+Density: 2 (High)",59,134,2
+65,258,275,2,"Count: 275
+Density: 2 (High)",65,270,2
+71,129,115,1,"Count: 115
+Density: 1 (Medium)",71,200,2
+79,91,78,1,"Count: 78
+Density: 1 (Medium)",79,70,1
+80,3,6,1,"Count: 6
+Density: 1",80,4,0
+86,205,180,2,"Count: 180
+Density: 2 (High)",86,172,1
+87,2,2,1,"Count: 2
+Density: 1",87,2,0
+90,50,180,2,"Count: 180
+Density: 2",90,98,2
+91,29,65,1,"Count: 65
+Density: 1 (Medium)",91,38,0
+93,31,65,2,"Count: 65
+Density: 2 (High)",93,54,1
+94,23,35,1,"Count: 35
+Density: 1",94,27,0
+96,38,85,2,"Count: 85
+Density: 2 (High)",96,129,2
+98,36,85,2,"Count: 85
+Density: 2 (High)",98,187,2
+104,0,85,2,"Count: 85
+Density: 2 (High)",104,0,0
+110,180,225,2,"Count: 225
+Density: 2 (High)",110,184,2
+115,38,180,2,"Count: 180
+Density: 2",115,43,1
+117,32,85,2,"Count: 85
+Density: 2 (High)",117,53,1
+119,283,257,2,"Count: 257
+Density: 2 (High)",119,548,2
+120,31,65,2,"Count: 65
+Density: 2 (High)",120,145,1
+121,51,680,2,"Count: 680
+Density: 2 (High)",121,321,2
+123,10,65,2,"Count: 65
+Density: 2 (High)",123,80,1
+124,47,72,2,"Count: 72
+Density: 2 (High)",124,132,1
+129,185,170,2,"Count: 170
+Density: 2",129,208,2
+130,137,132,2,"Count: 132
+Density: 2 (High)",130,285,2
+131,10,12,1,"Count: 12
+Density: 1 (Medium)",131,11,0
+132,219,235,2,"Count: 235
+Density: 2",132,1085,2
+140,71,85,2,"Count: 85
+Density: 2 (High)",140,112,2
+152,300,350,2,"Count: 350
+Density: 2 (High)",152,1398,2
+153,132,115,2,"Count: 115
+Density: 2",153,156,2
+154,69,125,2,"Count: 125
+Density: 2 (High)",154,87,2
+157,0,65,2,"Count: 65
+Density: 2 (High)",157,0,0
+159,13,65,2,"Count: 65
+Density: 2 (High)",159,111,2
+160,49,85,2,"Count: 85
+Density: 2 (High)",160,46,1
+176,300,325,2,"Count: 325
+Density: 2",176,760,2
+178,300,650,2,"Count: 650
+Density: 2 (High)",178,401,2
+186,300,280,2,"Count: 280
+Density: 2 (High)",186,381,1
+195,80,75,1,"Count: 75
+Density: 1 (Medium)",195,82,1
+202,3,20,1,"Count: 20
+Density: 1 (Medium)",202,9,0
+211,300,320,2,"Count: 320
+Density: 2 (High)",211,542,2
+212,1,850,2,"Count: 850
+Density: 2",212,9059,2
+216,35,88,2,"Count: 88
+Density: 2 (High)",216,70,2
+218,280,180,2,"Count: 180
+Density: 2 (High)",218,2224,2
+222,17,85,2,"Count: 85
+Density: 2 (High)",222,87,2
+223,20,65,2,"Count: 65
+Density: 2 (High)",223,25,2
+226,11,12,2,"Count: 12
+Density: 2 (High)",226,23,0
+227,135,650,2,"Count: 650
+Density: 2",227,130,2
+229,296,320,2,"Count: 320
+Density: 2",229,383,2
+234,13,85,2,"Count: 85
+Density: 2",234,138,2
+236,2,85,2,"Count: 85
+Density: 2 (High)",236,123,1
+237,9,75,2,"Count: 75
+Density: 2 (High)",237,82,1
+238,46,65,1,"Count: 65
+Density: 1 (Medium)",238,61,1
+240,1,7,1,"Count: 7
+Density: 1 (Medium)",240,11,0
+242,18,85,2,"Count: 85
+Density: 2 (High)",242,42,2
+244,15,35,1,"Count: 35
+Density: 1 (Medium)",244,18,0
+245,58,75,2,"Count: 75
+Density: 2 (High)",245,82,2
+252,50,65,2,"Count: 65
+Density: 2 (High)",252,84,2
+253,248,240,2,"Count: 240
+Density: 2",253,520,2
+254,58,85,1,"Count: 85
+Density: 1 (Medium)",254,113,1
+256,26,85,2,"Count: 85
+Density: 2 (High)",256,38,2
+257,15,35,2,"Count: 35
+Density: 2 (High)",257,27,2
+258,24,85,2,"Count: 85
+Density: 2 (High)",258,120,1
+259,300,250,2,"Count: 250
+Density: 2 (High)",259,436,2
+262,26,65,2,"Count: 65
+Density: 2 (High)",262,82,1
+263,20,450,2,"Count: 450
+Density: 2 (High)",263,61,2
+264,31,65,1,"Count: 65
+Density: 1 (Medium)",264,49,0
+265,53,65,1,"Count: 65
+Density: 1 (Medium)",265,51,1
+269,176,223,2,"Count: 223
+Density: 2",269,224,2
+273,300,225,2,"Count: 225
+Density: 2 (High)",273,1877,2
+275,161,125,2,"Count: 125
+Density: 2",275,332,2
+279,39,450,2,"Count: 450
+Density: 2 (High)",279,85,2
+281,12,45,1,"Count: 45
+Density: 1 (Medium)",281,37,1
+286,53,68,1,"Count: 68
+Density: 1 (Medium)",286,111,1
+288,70,85,2,"Count: 85
+Density: 2",288,2137,2
+291,37,42,1,"Count: 42
+Density: 1",291,32,1
+293,245,240,2,"Count: 240
+Density: 2 (High)",293,507,2
+294,32,48,2,"Count: 48
+Density: 2 (High)",294,63,0
+297,53,680,2,"Count: 680
+Density: 2 (High)",297,178,2
+299,25,35,2,"Count: 35
+Density: 2 (High)",299,121,2
+301,72,85,2,"Count: 85
+Density: 2",301,83,2
+303,9,45,2,"Count: 45
+Density: 2 (High)",303,15,0
+306,9,65,2,"Count: 65
+Density: 2 (High)",306,18,2
+307,13,14,1,"Count: 14
+Density: 1 (Medium)",307,13,1
+308,31,65,2,"Count: 65
+Density: 2 (High)",308,217,2
+309,17,180,2,"Count: 180
+Density: 2 (High)",309,60,2
+311,23,35,1,"Count: 35
+Density: 1 (Medium)",311,60,2
+312,3,45,1,"Count: 45
+Density: 1 (Medium)",312,15,1
+316,64,85,2,"Count: 85
+Density: 2 (High)",316,90,2
+319,208,185,2,"Count: 185
+Density: 2 (High)",319,330,2
+325,20,120,2,"Count: 120
+Density: 2 (High)",325,49,2
+327,175,165,1,"Count: 165
+Density: 1 (Medium)",327,178,2
+331,29,385,2,"Count: 385
+Density: 2",331,207,2
+332,7,12,1,"Count: 12
+Density: 1 (Medium)",332,8,0
+347,143,147,2,"Count: 147
+Density: 2",347,254,2
+350,12,85,2,"Count: 85
+Density: 2 (High)",350,77,2
+351,16,23,2,"Count: 23
+Density: 2 (High)",351,16,0
+353,59,85,2,"Count: 85
+Density: 2 (High)",353,92,2
+354,13,14,1,"Count: 14
+Density: 1 (Medium)",354,13,0
+356,300,450,2,"Count: 450
+Density: 2",356,586,2
+361,166,178,2,"Count: 178
+Density: 2",361,184,2
+362,212,287,2,"Count: 287
+Density: 2 (High)",362,607,2
+372,218,235,2,"Count: 235
+Density: 2 (High)",372,374,2
+374,300,450,2,"Count: 450
+Density: 2 (High)",374,1281,2
+379,103,85,1,"Count: 85
+Density: 1 (Medium)",379,99,1
+381,76,92,2,"Count: 92
+Density: 2 (High)",381,126,2
+384,13,85,2,"Count: 85
+Density: 2 (High)",384,37,2
+392,8,65,2,"Count: 65
+Density: 2 (High)",392,62,0
+396,63,78,1,"Count: 78
+Density: 1 (Medium)",396,63,1
+398,95,95,2,"Count: 95
+
+Density: 2 (High)",398,173,2
+400,25,85,1,"Count: 85
+Density: 1 (Medium)",400,65,1
+401,83,112,1,"Count: 112
+Density: 1 (Medium)",401,79,2
+402,141,125,2,"Count: 125
+Density: 2 (High)",402,146,2
+403,300,650,2,"Count: 650
+Density: 2 (High)",403,600,2
+409,131,555,2,"Count: 555
+Density: 2 (High)",409,212,2
+410,34,28,1,"Count: 28
+Density: 1 (Medium)",410,35,1
+412,24,85,2,"Count: 85
+Density: 2 (High)",412,632,2
+416,18,85,1,"Count: 85
+Density: 1 (Medium)",416,29,0
+417,11,65,2,"Count: 65
+Density: 2 (High)",417,22,0
+419,45,65,2,"Count: 65
+Density: 2 (High)",419,47,1
+420,28,65,2,"Count: 65
+Density: 2 (High)",420,57,1
+421,0,320,2,"Count: 320
+Density: 2",421,199,2
+426,11,85,2,"Count: 85
+Density: 2 (High)",426,38,1
+427,91,125,1,"Count: 125
+Density: 1 (Medium)",427,270,2
+431,14,85,2,"Count: 85
+Density: 2 (High)",431,74,1
+433,12,18,2,"Count: 18
+Density: 2 (High)",433,40,2
+434,103,120,1,"Count: 120
+Density: 1 (Medium)",434,117,2
+435,41,65,2,"Count: 65
+Density: 2 (High)",435,61,2
+438,7,350,2,"Count: 350
+Density: 2 (High)",438,109,2
+441,77,85,2,"Count: 85
+Density: 2",441,212,2
+443,41,55,1,"Count: 55
+Density: 1 (Medium)",443,42,0
+447,3,65,2,"Count: 65
+Density: 2",447,54,2
+449,13,18,1,"Count: 18
+Density: 1 (Medium)",449,15,0
+453,81,85,2,"Count: 85
+Density: 2 (High)",453,129,2
+455,22,85,2,"Count: 85
+Density: 2 (High)",455,26,2
+458,44,48,2,"Count: 48
+Density: 2 (High)",458,74,1
+459,14,28,1,"Count: 28
+Density: 1 (Medium)",459,14,0
+463,142,165,2,"Count: 165
+Density: 2",463,634,2
+464,155,170,2,"Count: 170
+Density: 2",464,171,2
+466,35,85,2,"Count: 85
+Density: 2 (High)",466,118,2
+469,57,85,2,"Count: 85
+Density: 2 (High)",469,181,2
+470,105,135,2,"Count: 135
+Density: 2 (High)",470,530,2
+471,32,65,2,"Count: 65
+Density: 2 (High)",471,149,1
+473,91,95,2,"Count: 95
+Density: 2",473,108,2
+479,300,350,2,"Count: 350
+Density: 2",479,575,2
+483,29,230,2,"Count: 230
+Density: 2",483,66,2
+492,122,98,1,"Count: 98
+Density: 1 (Medium)",492,125,1
+493,224,235,2,"Count: 235
+Density: 2 (High)",493,312,2
+494,34,65,2,"Count: 65
+Density: 2 (High)",494,84,2
+495,51,120,2,"Count: 120
+Density: 2",495,133,2
+503,23,65,2,"Count: 65
+Density: 2 (High)",503,42,2
+504,152,145,2,"Count: 145
+Density: 2 (High)",504,394,2
+505,13,45,1,"Count: 45
+Density: 1 (Medium)",505,12,1
+510,82,85,2,"Count: 85
+Density: 2 (High)",510,115,2
+511,11,150,2,"Count: 150
+Density: 2",511,207,2
+515,3,8,1,"Count: 8
+Density: 1 (Medium)",515,3,0
+516,5,65,1,"Count: 65
+Density: 1 (Medium)",516,20,2
+519,61,75,2,"Count: 75
+Density: 2 (High)",519,229,1
+520,66,75,2,"Count: 75
+Density: 2",520,170,2
+527,136,145,2,"Count: 145
+Density: 2 (High)",527,972,1
+529,37,85,2,"Count: 85
+Density: 2 (High)",529,240,1
+533,19,85,2,"Count: 85
+Density: 2 (High)",533,81,2
+535,2,15,2,"Count: 15
+Density: 2",535,18,1
+538,21,85,2,"Count: 85
+Density: 2 (High)",538,25,2
+540,17,125,2,"Count: 125
+Density: 2",540,329,1
+542,41,38,1,"Count: 38
+Density: 1 (Medium)",542,41,0
+544,27,85,2,"Count: 85
+Density: 2 (High)",544,52,1
+547,9,28,2,"Count: 28
+Density: 2",547,41,2
+549,28,85,2,"Count: 85
+Density: 2 (High)",549,64,2
+550,49,42,1,"Count: 42
+Density: 1",550,98,2
+552,66,72,2,"Count: 72
+Density: 2 (High)",552,121,1
+555,12,85,2,"Count: 85
+Density: 2",555,34,1
+561,57,88,2,"Count: 88
+Density: 2 (High)",561,69,2
+563,7,65,2,"Count: 65
+Density: 2 (High)",563,51,1
+565,153,178,2,"Count: 178
+Density: 2 (High)",565,376,2
+567,15,85,2,"Count: 85
+Density: 2 (High)",567,37,1
+568,0,125,2,"Count: 125
+Density: 2 (High)",568,429,2
+569,94,85,1,"Count: 85
+Density: 1 (Medium)",569,294,1
+571,300,300,2,"Count: 300
+Density: 2 (High)",571,491,2
+574,11,550,2,"Count: 550
+Density: 2 (High)",574,1087,2
+576,23,28,1,"Count: 28
+Density: 1 (Medium)",576,33,2
+577,9,12,1,"Count: 12
+Density: 1 (Medium)",577,14,1
+581,14,110,2,"Count: 110
+Density: 2",581,195,2
+582,16,35,1,"Count: 35
+Density: 1 (Medium)",582,18,0
+584,15,85,2,"Count: 85
+Density: 2 (High)",584,34,1
+586,44,72,2,"Count: 72
+Density: 2 (High)",586,74,2
+587,123,135,2,"Count: 135
+Density: 2 (High)",587,218,2
+588,300,312,2,"Count: 312
+Density: 2 (High)",588,865,2
+589,161,175,2,"Count: 175
+Density: 2",589,173,2
+590,27,85,1,"Count: 85
+Density: 1 (Medium)",590,42,0
+591,300,680,2,"Count: 680
+Density: 2 (High)",591,1894,2
+592,54,85,2,"Count: 85
+Density: 2 (High)",592,177,2
+593,52,680,2,"Count: 680
+Density: 2",593,106,2
+595,9,28,1,"Count: 28
+Density: 1 (Medium)",595,14,0
+597,5,8,1,"Count: 8
+Density: 1 (Medium)",597,6,0
+600,122,85,1,"Count: 85
+Density: 1 (Medium)",600,256,1
+601,32,35,1,"Count: 35
+Density: 1 (Medium)",601,32,1
+602,257,350,2,"Count: 350
+Density: 2",602,314,2
+603,171,235,2,"Count: 235
+Density: 2 (High)",603,214,2
+604,108,105,2,"Count: 105
+Density: 2 (High)",604,348,2
+605,73,68,1,"Count: 68
+Density: 1 (Medium)",605,192,2
+608,300,650,2,"Count: 650
+Density: 2 (High)",608,3504,2
+609,79,85,2,"Count: 85
+Density: 2 (High)",609,170,2
+614,46,85,1,"Count: 85
+Density: 1 (Medium)",614,147,2
+615,7,30,2,"Count: 30
+Density: 2 (High)",615,6,0
+617,106,115,1,"Count: 115
+Density: 1 (Medium)",617,228,2
+618,26,63,2,"Count: 63
+Density: 2 (High)",618,33,1
+619,37,235,2,"Count: 235
+Density: 2 (High)",619,49,1
+622,15,18,1,"Count: 18
+Density: 1 (Medium)",622,18,0
+626,94,85,1,"Count: 85
+Density: 1",626,122,2
+627,7,35,2,"Count: 35
+Density: 2 (High)",627,40,0
+641,178,185,1,"Count: 185
+Density: 1 (Medium)",641,234,1
+642,29,35,1,"Count: 35
+Density: 1",642,47,1
+644,11,65,2,"Count: 65
+Density: 2 (High)",644,15,0
+645,28,29,2,"Count: 29
+Density: 2 (High)",645,47,0
+646,18,223,2,"Count: 223
+Density: 2",646,109,2
+648,296,295,2,"Count: 295
+Density: 2",648,1655,2
+650,76,88,2,"Count: 88
+Density: 2 (High)",650,2058,2
+651,41,55,1,"Count: 55
+Density: 1 (Medium)",651,46,2
+654,52,85,2,"Count: 85
+Density: 2 (High)",654,322,1
+657,150,220,2,"Count: 220
+Density: 2",657,216,2
+658,300,780,2,"Count: 780
+Density: 2 (High)",658,671,2
+660,300,320,2,"Count: 320
+Density: 2 (High)",660,566,2
+666,2,65,2,"Count: 65
+Density: 2 (High)",666,12,0
+669,23,35,2,"Count: 35
+Density: 2 (High)",669,40,1
+673,39,43,1,"Count: 43
+Density: 1 (Medium)",673,43,1
+674,0,85,2,"Count: 85
+Density: 2 (High)",674,1871,2
+676,41,68,1,"Count: 68
+Density: 1 (Medium)",676,41,1
+678,44,88,2,"Count: 88
+Density: 2 (High)",678,110,2
+679,32,185,2,"Count: 185
+Density: 2 (High)",679,52,2
+686,138,125,2,"Count: 125
+Density: 2",686,430,2
+687,33,58,2,"Count: 58
+Density: 2 (High)",687,68,2
+689,82,125,2,"Count: 125
+Density: 2",689,341,2
+690,300,225,2,"Count: 225
+Density: 2 (High)",690,1277,2
+693,300,650,2,"Count: 650
+Density: 2 (High)",693,1899,2
+696,23,25,1,"Count: 25
+Density: 1 (Medium)",696,28,1
+699,27,35,1,"Count: 35
+Density: 1",699,33,1
+700,175,180,2,"Count: 180
+Density: 2",700,262,2
+701,52,75,2,"Count: 75
+Density: 2 (High)",701,87,2
+704,42,35,1,"Count: 35
+Density: 1 (Medium)",704,41,1
+705,295,350,2,"Count: 350
+Density: 2 (High)",705,643,2
+707,200,225,2,"Count: 225
+Density: 2 (High)",707,392,2
+709,140,165,2,"Count: 165
+Density: 2 (High)",709,431,2
+712,102,88,2,"Count: 88
+Density: 2",712,151,2
+713,5,35,1,"Count: 35
+Density: 1 (Medium)",713,15,0
+718,62,85,2,"Count: 85
+Density: 2 (High)",718,79,2
+720,157,185,2,"Count: 185
+Density: 2 (High)",720,390,2
+722,0,230,2,"Count: 230
+Density: 2 (High)",722,55,1
+723,201,185,2,"Count: 185
+Density: 2 (High)",723,196,2
+727,54,185,2,"Count: 185
+Density: 2 (High)",727,203,2
+728,99,230,2,"Count: 230
+Density: 2",728,162,2
+731,51,125,2,"Count: 125
+Density: 2",731,342,0
+733,10,65,2,"Count: 65
+Density: 2 (High)",733,17,2
+736,39,55,1,"Count: 55
+Density: 1 (Medium)",736,44,1
+741,15,120,2,"Count: 120
+Density: 2 (High)",741,263,2
+743,35,85,2,"Count: 85
+Density: 2 (High)",743,116,1
+749,24,28,1,"Count: 28
+Density: 1 (Medium)",749,39,0
+753,18,120,2,"Count: 120
+Density: 2",753,40,1
+754,0,235,2,"Count: 235
+Density: 2 (High)",754,757,2
+755,72,85,2,"Count: 85
+Density: 2 (High)",755,207,2
+758,15,85,2,"Count: 85
+Density: 2 (High)",758,112,2
+759,300,800,2,"Count: 800
+Density: 2 (High)",759,1477,2
+760,204,205,2,"Count: 205
+Density: 2 (High)",760,319,2
+762,6,120,1,"Count: 120
+Density: 1 (Medium)",762,16,0
+768,300,850,2,"Count: 850
+Density: 2",768,1425,2
+770,11,25,1,"Count: 25
+Density: 1 (Medium)",770,21,0
+773,29,230,2,"Count: 230
+Density: 2 (High)",773,365,2
+774,37,68,2,"Count: 68
+Density: 2",774,85,2
+775,25,65,2,"Count: 65
+Density: 2",775,74,2
+777,82,135,2,"Count: 135
+Density: 2 (High)",777,402,2
+779,49,63,1,"Count: 63
+Density: 1",779,56,1
+782,108,120,2,"Count: 120
+Density: 2",782,126,2
+785,61,48,1,"Count: 48
+Density: 1 (Medium)",785,88,1
+786,23,280,2,"Count: 280
+Density: 2 (High)",786,314,2
+792,115,120,2,"Count: 120
+Density: 2 (High)",792,3926,2
+797,18,28,2,"Count: 28
+Density: 2 (High)",797,59,2
+798,243,235,1,"Count: 235
+Density: 1 (Medium)",798,544,2
+800,29,185,2,"Count: 185
+Density: 2 (High)",800,39,1
+803,19,65,2,"Count: 65
+Density: 2 (High)",803,38,0
+805,26,85,2,"Count: 85
+Density: 2",805,152,2
+806,16,35,1,"Count: 35
+Density: 1 (Medium)",806,29,2
+813,117,125,2,"Count: 125
+Density: 2 (High)",813,318,2
+814,6,185,2,"Count: 185
+Density: 2 (High)",814,8994,2
+817,128,232,2,"Count: 232
+Density: 2 (High)",817,151,2
+819,58,65,2,"Count: 65
+Density: 2",819,331,2
+821,22,65,1,"Count: 65
+Density: 1 (Medium)",821,32,1
+822,7,6,1,"Count: 6
+Density: 1",822,6,0
+823,30,650,2,"Count: 650
+Density: 2 (High)",823,301,2
+825,7,68,2,"Count: 68
+Density: 2 (High)",825,91,1
+826,10,65,2,"Count: 65
+Density: 2 (High)",826,54,2
+829,82,120,2,"Count: 120
+Density: 2",829,92,2
+830,9,65,2,"Count: 65
+Density: 2 (High)",830,38,1
+832,300,550,2,"Count: 550
+Density: 2 (High)",832,597,2
+833,9,35,2,"Count: 35
+Density: 2",833,11,0
+835,22,65,2,"Count: 65
+Density: 2 (High)",835,53,2
+837,300,350,2,"Count: 350
+Density: 2 (High)",837,648,2
+839,20,65,2,"Count: 65
+Density: 2",839,24,2
+844,12,18,1,"Count: 18
+Density: 1 (Medium)",844,12,0
+849,211,145,2,"Count: 145
+Density: 2 (High)",849,255,2
+850,15,225,2,"Count: 225
+Density: 2 (High)",850,48,2
+852,71,85,1,"Count: 85
+Density: 1 (Medium)",852,94,0
+855,7,25,1,"Count: 25
+Density: 1 (Medium)",855,13,2
+857,287,312,2,"Count: 312
+Density: 2",857,1343,2
+859,61,85,2,"Count: 85
+Density: 2 (High)",859,370,2
+867,8,25,2,"Count: 25
+Density: 2",867,21,0
+868,4,68,2,"Count: 68
+Density: 2 (High)",868,9,1
+871,4,63,2,"Count: 63
+Density: 2 (High)",871,76,0
+872,7,23,1,"Count: 23
+Density: 1 (Medium)",872,12,0
+873,11,125,2,"Count: 125
+Density: 2",873,602,0
+875,52,85,2,"Count: 85
+Density: 2 (High)",875,152,2
+878,9,35,1,"Count: 35
+Density: 1 (Medium)",878,12,0
+879,7,60,2,"Count: 60
+Density: 2 (High)",879,25,1
+880,6,55,2,"Count: 55
+Density: 2 (High)",880,42,2
+881,40,288,2,"Count: 288
+Density: 2",881,80,2
+882,274,280,2,"Count: 280
+Density: 2 (High)",882,268,2
+884,234,285,2,"Count: 285
+Density: 2 (High)",884,489,2
+887,21,45,1,"Count: 45
+Density: 1 (Medium)",887,28,1
+889,1,35,1,"Count: 35
+Density: 1",889,15,1
+890,9,75,2,"Count: 75
+Density: 2 (High)",890,54,1
+891,224,235,2,"Count: 235
+Density: 2",891,426,2
+895,57,85,2,"Count: 85
+Density: 2 (High)",895,941,2
+897,38,45,1,"Count: 45
+Density: 1 (Medium)",897,59,1
+900,100,95,2,"Count: 95
+Density: 2 (High)",900,168,2
+906,2,185,2,"Count: 185
+Density: 2 (High)",906,90,2
+907,4,85,2,"Count: 85
+Density: 2 (High)",907,69,2
+911,50,85,2,"Count: 85
+Density: 2 (High)",911,346,2
+915,81,95,2,"Count: 95
+Density: 2 (High)",915,113,1
+916,64,75,2,"Count: 75
+Density: 2 (High)",916,86,1
+919,106,135,2,"Count: 135
+Density: 2",919,202,2
+925,11,63,2,"Count: 63
+Density: 2",925,93,2
+926,17,42,2,"Count: 42
+Density: 2 (High)",926,30,2
+927,64,78,1,"Count: 78
+Density: 1",927,69,1
+928,300,450,2,"Count: 450
+Density: 2",928,331,2
+931,80,250,2,"Count: 250
+Density: 2 (High)",931,145,2
+934,21,28,2,"Count: 28
+Density: 2 (High)",934,61,2
+935,122,115,2,"Count: 115
+Density: 2 (High)",935,161,2
+936,169,175,2,"Count: 175
+Density: 2 (High)",936,180,2
+940,196,285,2,"Count: 285
+Density: 2",940,172,2
+941,50,85,1,"Count: 85
+Density: 1 (Medium)",941,94,2
+944,129,135,2,"Count: 135
+Density: 2 (High)",944,156,2
+946,16,48,2,"Count: 48
+Density: 2 (High)",946,26,1
+949,176,185,2,"Count: 185
+Density: 2",949,876,2
+952,300,320,2,"Count: 320
+Density: 2 (High)",952,1301,2
+957,105,120,2,"Count: 120
+Density: 2",957,154,1
+958,26,23,1,"Count: 23
+Density: 1 (Medium)",958,40,0
+965,144,144,2,"Count: 144
+Density: 2 (High)",965,164,2
+968,143,155,2,"Count: 155
+Density: 2",968,239,2
+970,78,230,2,"Count: 230
+Density: 2",970,193,2
+975,50,65,2,"Count: 65
+Density: 2 (High)",975,122,2
+978,105,110,2,"Count: 110
+Density: 2",978,109,2
+985,37,65,2,"Count: 65
+Density: 2 (High)",985,110,2
+990,40,85,2,"Count: 85
+Density: 2 (High)",990,71,1
+991,300,320,2,"Count: 320
+Density: 2 (High)",991,432,2
+992,102,230,2,"Count: 230
+Density: 2 (High)",992,130,1
+993,98,90,2,"Count: 90
+Density: 2 (High)",993,168,2
+997,50,85,2,"Count: 85
+Density: 2 (High)",997,101,2
+999,17,28,1,"Count: 28
+Density: 1 (Medium)",999,24,1
+1007,125,150,2,"Count: 150
+Density: 2",1007,148,1
+1009,12,65,2,"Count: 65
+Density: 2 (High)",1009,30,0
+1013,300,280,2,"Count: 280
+Density: 2 (High)",1013,510,2
+1016,22,35,2,"Count: 35
+Density: 2",1016,28,2
+1019,15,35,1,"Count: 35
+Density: 1 (Medium)",1019,18,2
+1022,11,63,1,"Count: 63
+Density: 1 (Medium)",1022,13,0
+1025,29,85,1,"Count: 85
+Density: 1 (Medium)",1025,79,2
+1026,15,120,2,"Count: 120
+Density: 2 (High)",1026,44,1
+1027,178,68,1,"Count: 68
+Density: 1 (Medium)",1027,198,2
+1029,28,65,2,"Count: 65
+Density: 2",1029,47,1
+1033,30,65,2,"Count: 65
+Density: 2",1033,58,2
+1034,45,85,2,"Count: 85
+Density: 2",1034,107,2
+1036,24,48,2,"Count: 48
+Density: 2 (High)",1036,34,1
+1043,40,65,1,"Count: 65
+Density: 1 (Medium)",1043,52,1
+1044,174,212,2,"Count: 212
+Density: 2",1044,179,2
+1045,96,125,1,"Count: 125
+Density: 1 (Medium)",1045,274,2
+1047,49,65,2,"Count: 65
+Density: 2 (High)",1047,82,1
+1049,300,350,2,"Count: 350
+Density: 2",1049,2552,2
+1051,8,65,2,"Count: 65
+Density: 2",1051,39,1
+1052,284,250,2,"Count: 250
+Density: 2",1052,399,2
+1056,110,125,1,"Count: 125
+Density: 1 (Medium)",1056,310,1
+1058,300,280,2,"Count: 280
+Density: 2 (High)",1058,1140,2
+1062,125,110,1,"Count: 110
+Density: 1 (Medium)",1062,181,2
+1065,83,112,2,"Count: 112
+Density: 2 (High)",1065,160,2
+1066,28,65,2,"Count: 65
+Density: 2",1066,47,2
+1068,300,180,2,"Count: 180
+Density: 2",1068,494,2
+1075,24,85,1,"Count: 85
+Density: 1 (Medium)",1075,158,1
+1077,300,450,2,"Count: 450
+Density: 2 (High)",1077,3717,2
+1080,300,150,2,"Count: 150
+Density: 2 (High)",1080,335,2
+1083,1,220,2,"Count: 220
+Density: 2 (High)",1083,355,1
+1086,4,68,1,"Count: 68
+Density: 1 (Medium)",1086,9,0
+1088,76,85,2,"Count: 85
+Density: 2 (High)",1088,115,2
+1089,77,85,1,"Count: 85
+Density: 1 (Medium)",1089,153,2
+1090,56,68,1,"Count: 68
+Density: 1",1090,92,2
+1094,12,250,2,"Count: 250
+Density: 2 (High)",1094,100,2
+1101,47,32,2,"Count: 32
+Density: 2 (High)",1101,52,2
+1102,138,285,2,"Count: 285
+Density: 2 (High)",1102,185,1
+1104,42,285,2,"Count: 285
+Density: 2 (High)",1104,161,2
+1106,238,210,1,"Count: 210
+Density: 1 (Medium)",1106,770,2
+1109,197,197,2,"Count: 197
+Density: 2 (High)",1109,543,2
+1112,300,320,2,"Count: 320
+Density: 2 (High)",1112,440,2
+1118,228,280,2,"Count: 280
+Density: 2 (High)",1118,864,2
+1122,81,95,2,"Count: 95
+Density: 2 (High)",1122,133,2
+1123,7,225,2,"Count: 225
+Density: 2 (High)",1123,473,2
+1130,135,145,2,"Count: 145
+Density: 2 (High)",1130,235,2
+1131,225,310,2,"Count: 310
+Density: 2",1131,259,2
+1133,213,235,2,"Count: 235
+Density: 2",1133,283,1
+1136,206,145,2,"Count: 145
+Density: 2 (High)",1136,208,2
+1141,36,230,2,"Count: 230
+Density: 2",1141,174,2
+1149,24,125,2,"Count: 125
+Density: 2 (High)",1149,78,2
+1150,23,87,2,"Count: 87
+Density: 2 (High)",1150,116,2
+1152,56,72,2,"Count: 72
+Density: 2 (High)",1152,56,1
+1155,68,85,2,"Count: 85
+Density: 2 (High)",1155,106,2
+1162,68,72,2,"Count: 72
+Density: 2",1162,141,2
+1163,9,180,2,"Count: 180
+Density: 2",1163,331,0
+1165,2,65,1,"Count: 65
+Density: 1 (Medium)",1165,16,2
+1172,7,25,1,"Count: 25
+Density: 1 (Medium)",1172,13,0
+1185,36,32,1,"Count: 32
+Density: 1 (Medium)",1185,37,1
+1191,32,65,1,"Count: 65
+Density: 1 (Medium)",1191,44,1
+1195,300,325,2,"Count: 325
+Density: 2 (High)",1195,1439,2
+1196,153,225,2,"Count: 225
+Density: 2 (High)",1196,220,1
+1198,11,8,1,"Count: 8
+Density: 1 (Medium)",1198,13,0
+1199,31,125,2,"Count: 125
+Density: 2 (High)",1199,63,2
+1200,12,15,1,"Count: 15
+Density: 1 (Medium)",1200,18,0
+1203,25,85,2,"Count: 85
+Density: 2 (High)",1203,50,2
+1210,252,485,2,"Count: 485
+Density: 2",1210,495,1
+1211,72,95,2,"Count: 95
+Density: 2",1211,542,2
+1216,117,135,2,"Count: 135
+Density: 2 (High)",1216,128,2
+1218,54,320,2,"Count: 320
+Density: 2 (High)",1218,67,2
+1222,7,350,2,"Count: 350
+Density: 2 (High)",1222,409,2
+1224,18,65,2,"Count: 65
+Density: 2 (High)",1224,27,2
+1231,43,320,2,"Count: 320
+Density: 2",1231,206,2
+1237,71,85,2,"Count: 85
+Density: 2",1237,153,2
+1239,133,133,2,"Count: 133
+Density: 2 (High)",1239,120,2
+1245,31,65,2,"Count: 65
+Density: 2 (High)",1245,3535,2
+1246,40,65,1,"Count: 65
+Density: 1 (Medium)",1246,52,1
+1250,135,150,2,"Count: 150
+Density: 2 (High)",1250,188,2
+1251,45,65,2,"Count: 65
+Density: 2",1251,58,2
+1252,57,120,2,"Count: 120
+Density: 2",1252,177,0
+1254,123,135,2,"Count: 135
+Density: 2 (High)",1254,143,2
+1258,159,165,2,"Count: 165
+Density: 2 (High)",1258,149,2
+1259,300,650,2,"Count: 650
+Density: 2 (High)",1259,4192,2
+1265,131,155,2,"Count: 155
+Density: 2 (High)",1265,143,2
+1266,2,8,2,"Count: 8
+Density: 2 (High)",1266,5,0
+1269,13,80,2,"Count: 80
+Density: 2 (High)",1269,18,0
+1271,77,65,2,"Count: 65
+Density: 2",1271,270,2
+1272,166,185,2,"Count: 185
+Density: 2",1272,183,2
+1273,79,125,2,"Count: 125
+Density: 2",1273,136,1
+1277,16,85,2,"Count: 85
+Density: 2 (High)",1277,52,1
+1284,300,350,2,"Count: 350
+Density: 2 (High)",1284,1046,2
+1286,26,35,1,"Count: 35
+Density: 1 (Medium)",1286,38,1
+1291,10,25,2,"Count: 25
+Density: 2 (High)",1291,11,2
+1293,55,85,2,"Count: 85
+Density: 2",1293,137,2
+1295,56,68,1,"Count: 68
+Density: 1 (Medium)",1295,91,1
+1297,46,65,2,"Count: 65
+Density: 2 (High)",1297,66,2
+1301,20,38,1,"Count: 38
+Density: 1 (Medium)",1301,24,0
+1309,44,68,2,"Count: 68
+Density: 2",1309,132,2
+1314,2,23,2,"Count: 23
+Density: 2 (High)",1314,33,0
+1317,204,85,2,"Count: 85
+Density: 2 (High)",1317,278,2
+1322,165,180,2,"Count: 180
+Density: 2",1322,173,2
+1327,21,180,2,"Count: 180
+Density: 2 (High)",1327,94,2
+1329,26,320,2,"Count: 320
+Density: 2 (High)",1329,156,2
+1330,15,65,2,"Count: 65
+Density: 2 (High)",1330,39,2
+1332,212,280,2,"Count: 280
+Density: 2 (High)",1332,247,2
+1335,39,155,2,"Count: 155
+Density: 2 (High)",1335,41,0
+1336,17,850,2,"Count: 850
+Density: 2",1336,727,2
+1337,11,45,2,"Count: 45
+Density: 2 (High)",1337,15,2
+1338,4,180,2,"Count: 180
+Density: 2 (High)",1338,51,1
+1340,69,75,2,"Count: 75
+Density: 2",1340,305,2
+1343,26,85,2,"Count: 85
+Density: 2",1343,3428,2
+1346,8,65,2,"Count: 65
+Density: 2 (High)",1346,63,1
+1347,60,45,1,"Count: 45
+Density: 1 (Medium)",1347,77,1
+1351,61,75,2,"Count: 75
+Density: 2 (High)",1351,334,2
+1354,19,85,2,"Count: 85
+Density: 2 (High)",1354,30,2
+1358,15,28,1,"Count: 28
+Density: 1 (Medium)",1358,40,1
+1359,113,135,2,"Count: 135
+Density: 2 (High)",1359,168,2
+1361,10,220,2,"Count: 220
+Density: 2 (High)",1361,190,1
+1365,53,78,2,"Count: 78
+Density: 2",1365,139,2
+1366,118,125,2,"Count: 125
+Density: 2",1366,863,2
+1371,30,45,1,"Count: 45
+Density: 1 (Medium)",1371,38,1
+1373,35,48,2,"Count: 48
+Density: 2 (High)",1373,44,1
+1379,38,150,2,"Count: 150
+Density: 2",1379,83,2
+1382,87,52,1,"Count: 52
+Density: 1 (Medium)",1382,106,0
+1383,10,230,2,"Count: 230
+Density: 2 (High)",1383,61,2
+1389,55,75,2,"Count: 75
+Density: 2",1389,109,2
+1390,239,245,2,"Count: 245
+Density: 2 (High)",1390,543,2
+1393,18,230,2,"Count: 230
+Density: 2 (High)",1393,310,1
+1394,98,125,2,"Count: 125
+Density: 2",1394,582,2
+1395,6,120,2,"Count: 120
+Density: 2 (High)",1395,76,2
+1399,119,125,2,"Count: 125
+Density: 2",1399,127,2
+1400,103,150,2,"Count: 150
+Density: 2 (High)",1400,378,2
+1402,15,28,1,"Count: 28
+Density: 1 (Medium)",1402,36,0
+1411,26,68,2,"Count: 68
+Density: 2 (High)",1411,57,0
+1415,256,260,2,"Count: 260
+Density: 2 (High)",1415,492,2
+1417,19,85,2,"Count: 85
+Density: 2 (High)",1417,90,1
+1418,7,85,1,"Count: 85
+Density: 1 (Medium)",1418,58,0
+1419,55,75,2,"Count: 75
+Density: 2",1419,49,2
+1421,300,275,2,"Count: 275
+Density: 2 (High)",1421,2115,2
+1422,2,18,1,"Count: 18
+Density: 1 (Medium)",1422,6,0
+1428,27,65,2,"Count: 65
+Density: 2 (High)",1428,32,0
+1432,46,85,2,"Count: 85
+Density: 2 (High)",1432,60,1
+1438,57,125,2,"Count: 125
+Density: 2 (High)",1438,140,2
+1439,78,115,2,"Count: 115
+Density: 2 (High)",1439,96,2
+1442,25,35,2,"Count: 35
+Density: 2 (High)",1442,30,1
+1444,147,225,2,"Count: 225
+Density: 2 (High)",1444,359,2
+1446,136,145,2,"Count: 145
+Density: 2",1446,491,2
+1450,8,22,2,"Count: 22
+Density: 2 (High)",1450,21,0
+1451,53,85,2,"Count: 85
+Density: 2 (High)",1451,98,2
+1455,28,185,2,"Count: 185
+Density: 2 (High)",1455,356,2
+1456,33,65,2,"Count: 65
+Density: 2 (High)",1456,26,2
+1458,97,125,2,"Count: 125
+Density: 2 (High)",1458,127,2
+1465,83,125,2,"Count: 125
+Density: 2 (High)",1465,157,2
+1466,4,25,1,"Count: 25
+Density: 1",1466,11,0
+1470,50,65,2,"Count: 65
+Density: 2 (High)",1470,72,2
+1474,241,275,2,"Count: 275
+Density: 2 (High)",1474,483,2
+1476,144,187,2,"Count: 187
+Density: 2 (High)",1476,252,2
+1479,50,65,2,"Count: 65
+Density: 2",1479,67,2
+1480,13,35,1,"Count: 35
+Density: 1 (Medium)",1480,18,0
+1481,127,115,1,"Count: 115
+Density: 1 (Medium)",1481,159,2
+1483,30,25,1,"Count: 25
+Density: 1 (Medium)",1483,30,1
+1484,1,6,1,"Count: 6
+Density: 1 (Medium)",1484,4,0
+1485,2,120,2,"Count: 120
+Density: 2 (High)",1485,42,0
+1486,97,73,2,"Count: 73
+Density: 2",1486,144,2
+1488,22,45,1,"Count: 45
+Density: 1",1488,61,1
+1489,292,380,2,"Count: 380
+Density: 2 (High)",1489,1134,2
+1490,56,42,1,"Count: 42
+Density: 1 (Medium)",1490,96,1
+1492,10,85,2,"Count: 85
+Density: 2 (High)",1492,88,2
+1493,26,35,2,"Count: 35
+Density: 2 (High)",1493,36,1
+1494,5,60,2,"Count: 60
+Density: 2 (High)",1494,23,1
+1496,4,33,2,"Count: 33
+Density: 2 (High)",1496,36,1
+1499,35,85,2,"Count: 85
+Density: 2 (High)",1499,178,2
+1502,0,280,2,"Count: 280
+Density: 2 (High)",1502,106,2
+1506,100,125,2,"Count: 125
+Density: 2 (High)",1506,433,2
+1507,300,312,2,"Count: 312
+Density: 2 (High)",1507,643,2
+1510,41,85,2,"Count: 85
+Density: 2 (High)",1510,3641,2
+1512,36,32,1,"Count: 32
+Density: 1 (Medium)",1512,35,0
+1515,250,325,2,"Count: 325
+Density: 2 (High)",1515,433,2
+1517,36,38,2,"Count: 38
+Density: 2",1517,1120,2
+1518,8,25,1,"Count: 25
+Density: 1 (Medium)",1518,62,1
+1519,5,7,1,"Count: 7
+Density: 1 (Medium)",1519,6,0
+1522,80,125,2,"Count: 125
+Density: 2",1522,124,2
+1523,84,65,2,"Count: 65
+Density: 2 (High)",1523,112,2
+1527,9,75,2,"Count: 75
+Density: 2",1527,32,2
+1529,16,65,1,"Count: 65
+Density: 1 (Medium)",1529,46,1
+1531,286,270,2,"Count: 270
+Density: 2 (High)",1531,330,2
+1534,176,185,2,"Count: 185
+Density: 2",1534,260,2
+1536,285,410,2,"Count: 410
+Density: 2",1536,435,2
+1537,102,225,2,"Count: 225
+Density: 2 (High)",1537,102,2
+1545,44,68,2,"Count: 68
+Density: 2 (High)",1545,57,2
+1547,6,800,2,"Count: 800
+Density: 2 (High)",1547,1363,2
+1548,74,78,2,"Count: 78
+Density: 2",1548,221,2
+1550,7,63,2,"Count: 63
+Density: 2 (High)",1550,27,1
+1556,129,110,1,"Count: 110
+Density: 1 (Medium)",1556,171,2
+1558,46,63,2,"Count: 63
+Density: 2 (High)",1558,50,2
+1559,300,320,2,"Count: 320
+Density: 2 (High)",1559,826,2
+1563,8,150,2,"Count: 150
+Density: 2 (High)",1563,413,2
+1565,300,225,2,"Count: 225
+Density: 2 (High)",1565,478,2
+1567,59,72,1,"Count: 72
+Density: 1 (Medium)",1567,74,2
+1568,26,65,2,"Count: 65
+Density: 2 (High)",1568,74,2
+1572,169,175,2,"Count: 175
+Density: 2 (High)",1572,237,2
+1575,9,12,2,"Count: 12
+Density: 2 (High)",1575,10,0
+1577,239,255,2,"Count: 255
+Density: 2",1577,469,2
+1580,51,65,2,"Count: 65
+Density: 2 (High)",1580,108,2
+1583,45,32,1,"Count: 32
+Density: 1 (Medium)",1583,52,0
+1586,82,125,2,"Count: 125
+Density: 2 (High)",1586,208,1
+1589,5,85,2,"Count: 85
+Density: 2 (High)",1589,45,0
+1590,76,88,1,"Count: 88
+Density: 1 (Medium)",1590,232,1
+1591,102,125,2,"Count: 125
+Density: 2 (High)",1591,163,2
+1592,90,125,2,"Count: 125
+Density: 2",1592,127,2
+1594,13,28,2,"Count: 28
+Density: 2 (High)",1594,13,0
+1595,4,38,2,"Count: 38
+Density: 2 (High)",1595,11,2
+1600,63,75,2,"Count: 75
+Density: 2 (High)",1600,157,2
+1602,9,12,1,"Count: 12
+Density: 1",1602,12,0
+1605,49,63,2,"Count: 63
+Density: 2 (High)",1605,105,1
+1606,4,60,2,"Count: 60
+Density: 2 (High)",1606,17,2
+1615,44,68,2,"Count: 68
+Density: 2",1615,80,2
+1619,52,85,1,"Count: 85
+Density: 1 (Medium)",1619,58,1
+1621,8,65,2,"Count: 65
+Density: 2 (High)",1621,17,1
+1624,21,180,2,"Count: 180
+Density: 2 (High)",1624,43,2
+1625,300,320,2,"Count: 320
+Density: 2 (High)",1625,665,2
+1635,92,95,2,"Count: 95
+Density: 2",1635,1489,2
+1638,57,62,2,"Count: 62
+Density: 2 (High)",1638,67,0
+1644,26,85,2,"Count: 85
+Density: 2 (High)",1644,62,2
+1648,4,65,2,"Count: 65
+Density: 2 (High)",1648,9,0
+1650,52,230,2,"Count: 230
+Density: 2 (High)",1650,249,2
+1651,139,145,2,"Count: 145
+Density: 2 (High)",1651,268,2
+1652,37,85,2,"Count: 85
+Density: 2 (High)",1652,61,2
+1656,271,273,2,"Count: 273
+Density: 2 (High)",1656,601,2
+1660,24,120,1,"Count: 120
+Density: 1 (Medium)",1660,57,2
+1661,0,1,0,"Count: 1
+Density: 0 (Low)",1661,1,0
+1663,48,135,2,"Count: 135
+Density: 2 (High)",1663,48,2
+1666,108,125,2,"Count: 125
+Density: 2",1666,370,2
+1667,52,85,2,"Count: 85
+Density: 2 (High)",1667,180,1
+1670,197,200,2,"Count: 200
+Density: 2 (High)",1670,1059,2
+1671,31,68,2,"Count: 68
+Density: 2 (High)",1671,57,1
+1674,0,35,1,"Count: 35
+Density: 1 (Medium)",1674,61,0
+1679,151,148,2,"Count: 148
+Density: 2",1679,212,2
+1680,62,75,1,"Count: 75
+Density: 1 (Medium)",1680,75,2
+1681,14,85,2,"Count: 85
+Density: 2 (High)",1681,18,2
+1684,21,85,2,"Count: 85
+Density: 2 (High)",1684,39,1
+1689,12,28,1,"Count: 28
+Density: 1 (Medium)",1689,20,1
+1690,150,220,2,"Count: 220
+Density: 2 (High)",1690,159,2
+1695,25,78,2,"Count: 78
+Density: 2 (High)",1695,28,2
+1696,36,65,2,"Count: 65
+Density: 2 (High)",1696,62,1
+1705,76,68,2,"Count: 68
+Density: 2 (High)",1705,117,2
+1706,63,85,2,"Count: 85
+Density: 2 (High)",1706,160,2
+1712,46,85,2,"Count: 85
+Density: 2",1712,3255,2
+1714,12,25,2,"Count: 25
+Density: 2 (High)",1714,14,0
+1715,36,180,2,"Count: 180
+Density: 2",1715,186,2
+1716,294,310,2,"Count: 310
+Density: 2 (High)",1716,497,2
+1719,36,45,2,"Count: 45
+Density: 2 (High)",1719,66,2
+1720,300,320,2,"Count: 320
+Density: 2",1720,1135,2
+1722,9,230,2,"Count: 230
+Density: 2 (High)",1722,93,2
+1725,28,62,1,"Count: 62
+Density: 1 (Medium)",1725,28,0
+1728,126,145,2,"Count: 145
+Density: 2",1728,804,2
+1730,1,25,2,"Count: 25
+Density: 2 (High)",1730,159,1
+1731,97,85,2,"Count: 85
+Density: 2 (High)",1731,126,2
+1733,8,12,1,"Count: 12
+Density: 1 (Medium)",1733,9,0
+1737,88,82,2,"Count: 82
+Density: 2 (High)",1737,129,2
+1738,37,62,2,"Count: 62
+Density: 2 (High)",1738,44,1
+1740,51,65,2,"Count: 65
+Density: 2 (High)",1740,4887,2
+1742,4,12,1,"Count: 12
+Density: 1",1742,5,0
+1744,15,65,2,"Count: 65
+Density: 2",1744,26,2
+1746,66,85,2,"Count: 85
+Density: 2 (High)",1746,61,2
+1758,119,125,2,"Count: 125
+Density: 2 (High)",1758,241,2
+1762,33,45,2,"Count: 45
+Density: 2 (High)",1762,287,2
+1765,5,88,2,"Count: 88
+Density: 2 (High)",1765,26,0
+1769,10,85,2,"Count: 85
+Density: 2 (High)",1769,27,0
+1770,233,235,2,"Count: 235
+Density: 2 (High)",1770,455,2
+1771,2,28,1,"Count: 28
+Density: 1 (Medium)",1771,12,0
+1773,50,65,2,"Count: 65
+Density: 2 (High)",1773,79,2
+1775,1,45,2,"Count: 45
+Density: 2 (High)",1775,120,1
+1779,300,380,2,"Count: 380
+Density: 2 (High)",1779,706,2
+1780,20,65,2,"Count: 65
+Density: 2 (High)",1780,237,2
+1783,139,165,2,"Count: 165
+Density: 2 (High)",1783,255,2
+1784,41,320,2,"Count: 320
+Density: 2 (High)",1784,295,2
+1794,4,125,2,"Count: 125
+Density: 2 (High)",1794,1368,2
+1795,300,350,2,"Count: 350
+Density: 2 (High)",1795,5681,2
+1796,38,280,2,"Count: 280
+Density: 2 (High)",1796,198,2
+1801,60,120,2,"Count: 120
+Density: 2",1801,85,2
+1802,9,15,2,"Count: 15
+Density: 2 (High)",1802,15,0
+1810,82,85,1,"Count: 85
+Density: 1 (Medium)",1810,104,1
+1811,38,185,2,"Count: 185
+Density: 2 (High)",1811,89,2
+1814,10,85,1,"Count: 85
+Density: 1",1814,187,1
+1815,12,35,2,"Count: 35
+Density: 2 (High)",1815,11,1
+1818,300,320,2,"Count: 320
+Density: 2",1818,391,2
+1819,25,220,2,"Count: 220
+Density: 2 (High)",1819,625,2
+1826,116,135,2,"Count: 135
+Density: 2 (High)",1826,257,2
+1827,82,120,2,"Count: 120
+Density: 2 (High)",1827,165,2
+1828,300,285,2,"Count: 285
+Density: 2 (High)",1828,712,2
+1830,246,387,2,"Count: 387
+Density: 2 (High)",1830,578,2
+1831,8,250,2,"Count: 250
+Density: 2 (High)",1831,524,2
+1834,12,65,1,"Count: 65
+Density: 1 (Medium)",1834,22,1
+1835,30,85,2,"Count: 85
+Density: 2 (High)",1835,74,2
+1838,7,66,2,"Count: 66
+Density: 2 (High)",1838,21,1
+1841,11,185,2,"Count: 185
+Density: 2",1841,24,0
+1851,25,65,2,"Count: 65
+Density: 2 (High)",1851,57,1
+1852,45,85,2,"Count: 85
+Density: 2 (High)",1852,105,2
+1853,24,65,2,"Count: 65
+Density: 2 (High)",1853,50,2
+1856,57,120,2,"Count: 120
+Density: 2 (High)",1856,483,2
+1859,31,42,2,"Count: 42
+Density: 2 (High)",1859,33,0
+1861,27,35,2,"Count: 35
+Density: 2 (High)",1861,38,2
+1862,40,65,2,"Count: 65
+Density: 2",1862,401,2
+1867,148,185,2,"Count: 185
+Density: 2 (High)",1867,471,1
+1868,35,55,2,"Count: 55
+Density: 2 (High)",1868,56,2
+1869,16,35,1,"Count: 35
+Density: 1 (Medium)",1869,18,0
+1870,3,65,2,"Count: 65
+Density: 2 (High)",1870,22,0
+1872,19,85,1,"Count: 85
+Density: 1 (Medium)",1872,27,1
+1873,33,65,2,"Count: 65
+Density: 2",1873,415,1
+1882,28,65,1,"Count: 65
+Density: 1 (Medium)",1882,64,1
+1884,149,155,2,"Count: 155
+Density: 2 (High)",1884,263,2
+1892,42,68,2,"Count: 68
+Density: 2 (High)",1892,180,1
+1895,29,180,2,"Count: 180
+Density: 2 (High)",1895,51,2
+1897,35,85,1,"Count: 85
+Density: 1 (Medium)",1897,67,2
+1901,44,52,2,"Count: 52
+Density: 2",1901,48,2
+1903,300,450,2,"Count: 450
+Density: 2 (High)",1903,3543,2
+1904,300,650,2,"Count: 650
+Density: 2",1904,616,2
+1906,109,85,2,"Count: 85
+Density: 2 (High)",1906,153,2
+1907,300,250,2,"Count: 250
+Density: 2 (High)",1907,1128,2
+1911,300,125,2,"Count: 125
+Density: 2 (High)",1911,577,2
+1912,5,12,2,"Count: 12
+Density: 2 (High)",1912,17,0
+1914,300,1856,2,"Count: 1856
+Density: 2 (High)",1914,1184,2
+1915,3,850,2,"Count: 850
+Density: 2",1915,191,2
+1922,142,150,2,"Count: 150
+Density: 2 (High)",1922,3100,2
+1923,300,320,2,"Count: 320
+Density: 2 (High)",1923,606,2
+1926,21,65,1,"Count: 65
+Density: 1 (Medium)",1926,52,0
+1927,300,300,2,"Count: 300
+Density: 2 (High)",1927,1242,2
+1930,3,45,2,"Count: 45
+Density: 2 (High)",1930,12,0
+1932,121,95,1,"Count: 95
+Density: 1 (Medium)",1932,120,2
+1937,61,75,2,"Count: 75
+Density: 2 (High)",1937,158,2
+1942,46,63,1,"Count: 63
+Density: 1 (Medium)",1942,48,2
+1943,0,230,2,"Count: 230
+Density: 2 (High)",1943,1030,2
+1944,32,65,1,"Count: 65
+Density: 1 (Medium)",1944,80,1
+1945,92,85,1,"Count: 85
+Density: 1 (Medium)",1945,98,2
+1946,18,115,2,"Count: 115
+Density: 2 (High)",1946,73,2
+1949,16,45,2,"Count: 45
+Density: 2",1949,43,1
+1952,300,450,2,"Count: 450
+Density: 2 (High)",1952,1303,2
+1960,56,230,2,"Count: 230
+Density: 2",1960,103,2
+1962,201,350,2,"Count: 350
+Density: 2 (High)",1962,202,2
+1965,41,185,2,"Count: 185
+Density: 2 (High)",1965,80,2
+1967,44,63,2,"Count: 63
+Density: 2 (High)",1967,110,2
+1973,118,132,1,"Count: 132
+Density: 1",1973,187,2
+1974,33,85,2,"Count: 85
+Density: 2 (High)",1974,100,2
+1979,62,85,2,"Count: 85
+Density: 2",1979,496,2
+1981,23,85,2,"Count: 85
+Density: 2 (High)",1981,77,2
+1982,86,88,2,"Count: 88
+Density: 2 (High)",1982,852,2
+1984,25,45,1,"Count: 45
+Density: 1 (Medium)",1984,29,2
+1985,46,125,2,"Count: 125
+Density: 2",1985,104,2
+1986,84,92,2,"Count: 92
+Density: 2 (High)",1986,91,2
+1990,0,23,1,"Count: 23
+Density: 1 (Medium)",1990,17,0
+1994,53,120,2,"Count: 120
+Density: 2 (High)",1994,136,2
+1996,300,250,2,"Count: 250
+Density: 2 (High)",1996,734,2
+2002,96,125,2,"Count: 125
+Density: 2 (High)",2002,154,2
+2010,51,65,2,"Count: 65
+Density: 2 (High)",2010,159,2
+2011,85,95,2,"Count: 95
+Density: 2",2011,124,2
+2013,31,65,2,"Count: 65
+Density: 2",2013,84,2
+2014,100,125,2,"Count: 125
+Density: 2 (High)",2014,514,2
+2015,79,92,2,"Count: 92
+Density: 2",2015,82,1
+2016,5,12,1,"Count: 12
+Density: 1 (Medium)",2016,22,0
+2018,3,120,2,"Count: 120
+Density: 2 (High)",2018,241,2
+2019,71,95,2,"Count: 95
+Density: 2 (High)",2019,84,2
+2021,26,42,1,"Count: 42
+Density: 1 (Medium)",2021,55,0
+2025,162,125,2,"Count: 125
+Density: 2 (High)",2025,174,2
+2032,300,350,2,"Count: 350
+Density: 2 (High)",2032,1134,2
+2042,55,78,1,"Count: 78
+Density: 1 (Medium)",2042,133,1
+2047,54,78,2,"Count: 78
+Density: 2",2047,355,2
+2050,24,65,2,"Count: 65
+Density: 2 (High)",2050,35,2
+2052,65,85,1,"Count: 85
+Density: 1 (Medium)",2052,98,1
+2054,158,185,2,"Count: 185
+Density: 2",2054,524,2
+2056,300,420,2,"Count: 420
+Density: 2",2056,1589,2
+2061,66,72,1,"Count: 72
+Density: 1 (Medium)",2061,107,2
+2069,54,68,1,"Count: 68
+Density: 1 (Medium)",2069,86,2
+2070,9,450,2,"Count: 450
+Density: 2 (High)",2070,6073,2
+2071,56,88,2,"Count: 88
+Density: 2 (High)",2071,80,2
+2076,23,650,2,"Count: 650
+Density: 2 (High)",2076,930,2
+2077,230,350,2,"Count: 350
+Density: 2 (High)",2077,542,2
+2079,30,65,2,"Count: 65
+Density: 2 (High)",2079,58,2
+2082,6,7,1,"Count: 7
+Density: 1",2082,6,0
+2083,6,220,2,"Count: 220
+Density: 2 (High)",2083,2200,2
+2084,8,120,2,"Count: 120
+Density: 2 (High)",2084,137,2
+2087,19,28,1,"Count: 28
+Density: 1 (Medium)",2087,41,0
+2089,8,22,1,"Count: 22
+Density: 1 (Medium)",2089,23,1
+2090,280,325,2,"Count: 325
+Density: 2 (High)",2090,519,2
+2091,136,220,2,"Count: 220
+Density: 2 (High)",2091,555,2
+2099,12,18,1,"Count: 18
+Density: 1 (Medium)",2099,193,1
+2100,300,280,2,"Count: 280
+Density: 2",2100,820,2
+2102,66,85,2,"Count: 85
+Density: 2 (High)",2102,269,2
+2103,53,62,1,"Count: 62
+Density: 1 (Medium)",2103,49,0
+2104,5,35,1,"Count: 35
+Density: 1 (Medium)",2104,20,0
+2105,47,68,2,"Count: 68
+Density: 2 (High)",2105,57,2
+2116,118,135,2,"Count: 135
+Density: 2",2116,381,1
+2117,7,80,2,"Count: 80
+Density: 2 (High)",2117,39,1
+2118,27,225,2,"Count: 225
+Density: 2 (High)",2118,120,2
+2125,111,155,2,"Count: 155
+Density: 2 (High)",2125,399,2
+2134,14,28,1,"Count: 28
+Density: 1 (Medium)",2134,21,0
+2138,145,120,1,"Count: 120
+Density: 1 (Medium)",2138,268,2
+2143,192,192,2,"Count: 192
+Density: 2 (High)",2143,386,2
+2145,29,63,1,"Count: 63
+Density: 1 (Medium)",2145,33,1
+2150,27,85,1,"Count: 85
+Density: 1 (Medium)",2150,51,1
+2152,39,210,2,"Count: 210
+Density: 2 (High)",2152,154,2
+2153,23,310,2,"Count: 310
+Density: 2 (High)",2153,65,2
+2154,300,450,2,"Count: 450
+Density: 2",2154,896,2
+2156,300,342,2,"Count: 342
+Density: 2 (High)",2156,1069,2
+2159,111,185,2,"Count: 185
+Density: 2",2159,458,2
+2160,142,145,2,"Count: 145
+Density: 2 (High)",2160,166,2
+2162,56,35,1,"Count: 35
+Density: 1",2162,99,1
+2166,183,235,1,"Count: 235
+Density: 1 (Medium)",2166,238,1
+2167,55,75,2,"Count: 75
+Density: 2",2167,210,2
+2168,23,85,2,"Count: 85
+Density: 2 (High)",2168,125,1
+2171,13,15,1,"Count: 15
+Density: 1 (Medium)",2171,14,0
+2173,18,65,2,"Count: 65
+Density: 2 (High)",2173,21,2
+2174,40,125,2,"Count: 125
+Density: 2 (High)",2174,235,2
+2176,212,320,1,"Count: 320
+Density: 1 (Medium)",2176,275,2
+2180,16,85,2,"Count: 85
+Density: 2 (High)",2180,420,1
+2182,14,45,1,"Count: 45
+Density: 1 (Medium)",2182,54,1
+2187,5,23,2,"Count: 23
+Density: 2",2187,39,1
+2194,156,165,2,"Count: 165
+Density: 2 (High)",2194,237,2
+2196,6,30,1,"Count: 30
+Density: 1 (Medium)",2196,13,2
+2199,72,1200,2,"Count: 1200
+Density: 2 (High)",2199,481,2
+2203,201,180,2,"Count: 180
+Density: 2 (High)",2203,4622,2
+2204,47,35,1,"Count: 35
+Density: 1 (Medium)",2204,46,1
+2205,3,68,2,"Count: 68
+Density: 2 (High)",2205,28,0
+2206,25,85,2,"Count: 85
+Density: 2 (High)",2206,173,2
+2208,72,85,1,"Count: 85
+Density: 1 (Medium)",2208,91,2
+2209,14,85,2,"Count: 85
+Density: 2 (High)",2209,30,2
+2211,18,25,1,"Count: 25
+Density: 1 (Medium)",2211,30,0
+2213,35,85,2,"Count: 85
+Density: 2 (High)",2213,57,2
+2217,54,85,1,"Count: 85
+Density: 1",2217,154,1
+2220,7,350,2,"Count: 350
+Density: 2",2220,187,2
+2223,223,235,2,"Count: 235
+Density: 2 (High)",2223,348,2
+2226,300,450,1,"Count: 450
+Density: 1 (Medium)",2226,639,2
+2227,0,187,2,"Count: 187
+Density: 2 (High)",2227,0,0
+2230,27,23,2,"Count: 23
+Density: 2 (High)",2230,38,2
+2231,99,120,2,"Count: 120
+Density: 2 (High)",2231,132,2
+2236,300,300,2,"Count: 300
+Density: 2 (High)",2236,2889,2
+2246,14,65,2,"Count: 65
+Density: 2 (High)",2246,28,2
+2248,42,78,2,"Count: 78
+Density: 2 (High)",2248,63,2
+2249,31,125,2,"Count: 125
+Density: 2",2249,52,2
+2254,48,62,2,"Count: 62
+Density: 2 (High)",2254,71,2
+2255,139,145,2,"Count: 145
+Density: 2",2255,340,2
+2258,43,320,1,"Count: 320
+Density: 1 (Medium)",2258,473,2
+2260,92,423,2,"Count: 423
+Density: 2 (High)",2260,119,2
+2265,74,185,2,"Count: 185
+Density: 2 (High)",2265,193,2
+2269,1,85,2,"Count: 85
+Density: 2 (High)",2269,5,2
+2270,4,23,1,"Count: 23
+Density: 1",2270,24,0
+2272,300,325,2,"Count: 325
+Density: 2 (High)",2272,1028,2
+2273,22,350,2,"Count: 350
+Density: 2 (High)",2273,85,2
+2285,35,42,1,"Count: 42
+Density: 1 (Medium)",2285,61,2
+2289,4,15,1,"Count: 15
+Density: 1",2289,6,0
+2298,37,65,1,"Count: 65
+Density: 1 (Medium)",2298,219,2
+2301,12,85,2,"Count: 85
+Density: 2 (High)",2301,44,1
+2302,38,63,2,"Count: 63
+Density: 2 (High)",2302,75,1
+2303,196,235,2,"Count: 235
+Density: 2 (High)",2303,619,2
+2304,65,68,2,"Count: 68
+Density: 2 (High)",2304,242,2
+2309,300,120,2,"Count: 120
+Density: 2 (High)",2309,364,2
+2312,6,8,1,"Count: 8
+Density: 1 (Medium)",2312,6,0
+2315,210,235,2,"Count: 235
+Density: 2",2315,859,2
+2317,6,120,2,"Count: 120
+Density: 2 (High)",2317,24,2
+2318,124,87,1,"Count: 87
+Density: 1 (Medium)",2318,153,2
+2322,300,650,2,"Count: 650
+Density: 2 (High)",2322,1736,2
+2326,66,78,2,"Count: 78
+Density: 2 (High)",2326,89,2
+2329,300,750,2,"Count: 750
+Density: 2 (High)",2329,454,2
+2331,37,85,1,"Count: 85
+Density: 1 (Medium)",2331,74,2
+2332,68,85,2,"Count: 85
+Density: 2 (High)",2332,251,2
+2333,29,23,1,"Count: 23
+Density: 1",2333,35,0
+2338,160,125,1,"Count: 125
+Density: 1 (Medium)",2338,280,2
+2340,300,650,2,"Count: 650
+Density: 2",2340,1049,2
+2345,9,125,2,"Count: 125
+Density: 2 (High)",2345,370,2
+2351,62,75,2,"Count: 75
+Density: 2",2351,139,2
+2353,75,85,2,"Count: 85
+Density: 2 (High)",2353,139,0
+2354,0,450,2,"Count: 450
+Density: 2 (High)",2354,1019,2
+2355,299,312,2,"Count: 312
+Density: 2 (High)",2355,429,2
+2356,0,65,1,"Count: 65
+Density: 1 (Medium)",2356,6,2
+2358,300,320,2,"Count: 320
+Density: 2 (High)",2358,316,1
+2359,11,28,1,"Count: 28
+Density: 1 (Medium)",2359,25,0
+2360,274,273,2,"Count: 273
+Density: 2",2360,404,2
+2363,300,95,1,"Count: 95
+Density: 1 (Medium)",2363,477,2
+2365,17,350,2,"Count: 350
+Density: 2 (High)",2365,53,2
+2366,135,112,2,"Count: 112
+Density: 2 (High)",2366,262,1
+2367,234,235,2,"Count: 235
+Density: 2 (High)",2367,407,2
+2368,8,65,2,"Count: 65
+Density: 2 (High)",2368,23,0
+2372,5,120,2,"Count: 120
+Density: 2 (High)",2372,64,0
+2373,50,180,2,"Count: 180
+Density: 2",2373,950,1
+2374,10,120,1,"Count: 120
+Density: 1 (Medium)",2374,31,2
+2379,90,78,2,"Count: 78
+Density: 2 (High)",2379,145,2
+2389,75,88,2,"Count: 88
+Density: 2 (High)",2389,137,2
+2392,1,1,2,"Count: 1
+Density: 2 (High)",2392,1,0
+2395,70,85,2,"Count: 85
+Density: 2 (High)",2395,108,2
+2396,125,145,2,"Count: 145
+Density: 2",2396,355,1
+2399,23,87,2,"Count: 87
+Density: 2 (High)",2399,93,2
+2400,36,38,1,"Count: 38
+Density: 1 (Medium)",2400,35,0
+2401,46,63,1,"Count: 63
+Density: 1 (Medium)",2401,66,2
+2402,9,120,2,"Count: 120
+Density: 2 (High)",2402,76,2
+2404,179,185,2,"Count: 185
+Density: 2",2404,180,1
+2406,6,125,2,"Count: 125
+Density: 2 (High)",2406,101,2
+2408,216,212,1,"Count: 212
+Density: 1 (Medium)",2408,972,2
+2409,88,95,2,"Count: 95
+Density: 2 (High)",2409,97,2
+2413,202,155,1,"Count: 155
+Density: 1",2413,707,1
+2417,12,35,2,"Count: 35
+Density: 2",2417,58,0
+2420,127,185,2,"Count: 185
+Density: 2",2420,482,2
+2421,252,310,2,"Count: 310
+Density: 2 (High)",2421,418,2
+2423,6,25,1,"Count: 25
+Density: 1 (Medium)",2423,19,0
+2426,7,65,1,"Count: 65
+Density: 1 (Medium)",2426,22,0
+2429,36,65,2,"Count: 65
+Density: 2 (High)",2429,166,2
+2430,8,68,2,"Count: 68
+Density: 2 (High)",2430,35,2
+2431,97,115,2,"Count: 115
+Density: 2",2431,101,2
+2442,10,30,1,"Count: 30
+Density: 1 (Medium)",2442,10,2
+2447,19,35,1,"Count: 35
+Density: 1 (Medium)",2447,112,0
+2460,16,23,1,"Count: 23
+Density: 1 (Medium)",2460,19,1
+2461,191,185,2,"Count: 185
+Density: 2",2461,427,2
+2469,186,235,2,"Count: 235
+Density: 2 (High)",2469,210,2
+2470,147,155,1,"Count: 155
+Density: 1",2470,182,2
+2471,55,62,1,"Count: 62
+Density: 1 (Medium)",2471,161,1
+2475,51,45,1,"Count: 45
+Density: 1 (Medium)",2475,56,1
+2477,153,175,2,"Count: 175
+Density: 2",2477,174,1
+2478,1,65,2,"Count: 65
+Density: 2",2478,32,0
+2483,2,150,2,"Count: 150
+Density: 2 (High)",2483,557,1
+2488,14,28,1,"Count: 28
+Density: 1 (Medium)",2488,28,0
+2490,32,85,2,"Count: 85
+Density: 2 (High)",2490,71,0
+2493,157,172,2,"Count: 172
+Density: 2 (High)",2493,256,2
+2496,75,85,2,"Count: 85
+Density: 2 (High)",2496,94,2
+2497,240,235,2,"Count: 235
+Density: 2 (High)",2497,217,2
+2501,19,28,1,"Count: 28
+Density: 1 (Medium)",2501,29,2
+2502,7,67,2,"Count: 67
+Density: 2 (High)",2502,53,2
+2503,223,185,2,"Count: 185
+Density: 2 (High)",2503,263,2
+2510,259,120,1,"Count: 120
+Density: 1 (Medium)",2510,300,2
+2511,43,125,2,"Count: 125
+Density: 2 (High)",2511,190,2
+2513,70,95,2,"Count: 95
+Density: 2",2513,112,2
+2514,225,250,2,"Count: 250
+Density: 2 (High)",2514,498,2
+2516,122,145,2,"Count: 145
+Density: 2",2516,150,2
+2517,96,112,1,"Count: 112
+Density: 1",2517,124,2
+2518,300,650,2,"Count: 650
+Density: 2",2518,648,2
+2520,115,125,2,"Count: 125
+Density: 2",2520,123,0
+2521,53,78,2,"Count: 78
+Density: 2",2521,191,2
+2523,66,82,2,"Count: 82
+Density: 2 (High)",2523,74,2
+2527,215,312,2,"Count: 312
+Density: 2 (High)",2527,314,2
+2529,20,65,1,"Count: 65
+Density: 1 (Medium)",2529,26,1
+2533,34,38,2,"Count: 38
+Density: 2",2533,127,2
+2540,33,35,2,"Count: 35
+Density: 2",2540,105,2
+2542,300,320,2,"Count: 320
+Density: 2 (High)",2542,4113,2
+2543,12,85,1,"Count: 85
+Density: 1 (Medium)",2543,66,2
+2544,31,42,1,"Count: 42
+Density: 1 (Medium)",2544,50,0
+2546,3,45,1,"Count: 45
+Density: 1 (Medium)",2546,12,1
+2547,36,65,2,"Count: 65
+Density: 2 (High)",2547,67,1
+2549,11,12,2,"Count: 12
+Density: 2 (High)",2549,41,1
+2553,34,680,2,"Count: 680
+Density: 2",2553,465,2
+2554,7,9,1,"Count: 9
+Density: 1",2554,7,0
+2558,43,680,2,"Count: 680
+Density: 2",2558,568,2
+2560,156,182,2,"Count: 182
+Density: 2",2560,187,2
+2561,19,35,2,"Count: 35
+Density: 2 (High)",2561,19,0
+2562,71,83,2,"Count: 83
+Density: 2 (High)",2562,71,1
+2563,28,65,2,"Count: 65
+Density: 2",2563,56,2
+2564,5,12,1,"Count: 12
+Density: 1",2564,6,0
+2565,125,220,2,"Count: 220
+Density: 2 (High)",2565,354,2
+2566,163,175,2,"Count: 175
+Density: 2 (High)",2566,175,2
+2567,29,235,2,"Count: 235
+Density: 2 (High)",2567,139,2
+2578,76,125,2,"Count: 125
+Density: 2 (High)",2578,109,2
+2579,141,165,2,"Count: 165
+Density: 2 (High)",2579,178,2
+2580,72,88,2,"Count: 88
+Density: 2 (High)",2580,990,2
+2584,29,63,1,"Count: 63
+Density: 1 (Medium)",2584,40,1
+2585,28,65,2,"Count: 65
+Density: 2 (High)",2585,61,2
+2586,15,25,1,"Count: 25
+Density: 1 (Medium)",2586,29,2
+2587,20,35,1,"Count: 35
+Density: 1 (Medium)",2587,25,1
+2590,108,112,2,"Count: 112
+Density: 2 (High)",2590,198,2
+2592,300,300,2,"Count: 300
+Density: 2 (High)",2592,2069,2
+2593,10,65,2,"Count: 65
+Density: 2 (High)",2593,22,0
+2594,86,87,2,"Count: 87
+Density: 2 (High)",2594,86,1
+2602,139,172,2,"Count: 172
+Density: 2",2602,210,2
+2603,86,88,1,"Count: 88
+Density: 1 (Medium)",2603,99,2
+2604,3,4,0,"Count: 4
+Density: 0 (Low)",2604,6,0
+2608,205,220,2,"Count: 220
+Density: 2",2608,395,2
+2611,56,85,2,"Count: 85
+Density: 2 (High)",2611,80,2
+2619,34,48,1,"Count: 48
+Density: 1 (Medium)",2619,53,0
+2621,26,45,2,"Count: 45
+Density: 2 (High)",2621,52,1
+2624,3,45,2,"Count: 45
+Density: 2",2624,20,2
+2628,18,170,2,"Count: 170
+Density: 2",2628,458,2
+2634,24,180,2,"Count: 180
+Density: 2",2634,1364,2
+2636,57,320,2,"Count: 320
+Density: 2 (High)",2636,707,1
+2638,29,45,1,"Count: 45
+Density: 1 (Medium)",2638,34,2
+2639,102,125,2,"Count: 125
+Density: 2",2639,462,2
+2641,43,68,1,"Count: 68
+Density: 1 (Medium)",2641,57,1
+2642,44,65,2,"Count: 65
+Density: 2 (High)",2642,89,2
+2643,94,125,2,"Count: 125
+Density: 2 (High)",2643,156,2
+2644,172,165,2,"Count: 165
+Density: 2",2644,4493,2
+2647,54,68,2,"Count: 68
+Density: 2",2647,102,2
+2648,96,115,1,"Count: 115
+Density: 1 (Medium)",2648,103,2
+2654,24,65,2,"Count: 65
+Density: 2 (High)",2654,155,2
+2658,21,23,1,"Count: 23
+Density: 1 (Medium)",2658,23,0
+2659,83,115,2,"Count: 115
+Density: 2 (High)",2659,158,2
+2666,0,3,0,"Count: 3
+Density: 0",2666,2,0
+2676,0,230,2,"Count: 230
+Density: 2 (High)",2676,1391,1
+2684,26,32,1,"Count: 32
+Density: 1",2684,57,2
+2685,34,65,1,"Count: 65
+Density: 1 (Medium)",2685,63,0
+2692,87,125,1,"Count: 125
+Density: 1 (Medium)",2692,215,2
+2693,39,85,2,"Count: 85
+Density: 2 (High)",2693,176,2
+2695,44,72,2,"Count: 72
+Density: 2 (High)",2695,120,2
+2698,17,225,2,"Count: 225
+Density: 2",2698,123,2
+2703,5,4,1,"Count: 4
+Density: 1",2703,4,0
+2706,22,32,1,"Count: 32
+Density: 1 (Medium)",2706,25,2
+2707,2,2,2,"Count: 2
+Density: 2 (High)",2707,326,2
+2708,74,88,1,"Count: 88
+Density: 1 (Medium)",2708,135,1
+2710,9,12,1,"Count: 12
+Density: 1",2710,13,0
+2711,11,65,1,"Count: 65
+Density: 1 (Medium)",2711,897,2
+2714,300,850,2,"Count: 850
+Density: 2 (High)",2714,1230,2
+2722,300,320,2,"Count: 320
+Density: 2 (High)",2722,1781,2
+2723,115,135,2,"Count: 135
+Density: 2",2723,130,2
+2724,23,20,1,"Count: 20
+Density: 1 (Medium)",2724,14,0
+2725,43,85,2,"Count: 85
+Density: 2 (High)",2725,100,2
+2728,300,320,1,"Count: 320
+Density: 1 (Medium)",2728,843,2
+2731,100,120,2,"Count: 120
+Density: 2 (High)",2731,115,2
+2736,285,320,2,"Count: 320
+Density: 2 (High)",2736,769,2
+2739,139,145,2,"Count: 145
+Density: 2",2739,300,2
+2740,49,850,2,"Count: 850
+Density: 2 (High)",2740,2842,0
+2742,8,9,1,"Count: 9
+Density: 1 (Medium)",2742,8,0
+2743,28,35,2,"Count: 35
+Density: 2",2743,32,1
+2746,116,95,2,"Count: 95
+Density: 2",2746,134,2
+2749,41,63,2,"Count: 63
+Density: 2 (High)",2749,71,2
+2753,117,125,2,"Count: 125
+Density: 2 (High)",2753,122,2
+2758,117,135,2,"Count: 135
+Density: 2 (High)",2758,616,2
+2761,45,68,2,"Count: 68
+Density: 2 (High)",2761,71,2
+2763,29,350,2,"Count: 350
+Density: 2 (High)",2763,295,2
+2764,27,45,1,"Count: 45
+Density: 1 (Medium)",2764,45,1
+2768,31,650,2,"Count: 650
+Density: 2 (High)",2768,54,2
+2772,99,85,1,"Count: 85
+Density: 1",2772,128,2
+2774,100,350,2,"Count: 350
+Density: 2 (High)",2774,181,2
+2779,300,325,2,"Count: 325
+Density: 2 (High)",2779,857,2
+2784,6,70,2,"Count: 70
+Density: 2 (High)",2784,8,0
+2788,21,68,2,"Count: 68
+Density: 2 (High)",2788,33,1
+2790,300,320,2,"Count: 320
+Density: 2 (High)",2790,627,2
+2792,19,230,2,"Count: 230
+Density: 2 (High)",2792,536,2
+2793,17,28,1,"Count: 28
+Density: 1 (Medium)",2793,20,0
+2794,36,78,2,"Count: 78
+Density: 2 (High)",2794,71,1
+2795,1,150,2,"Count: 150
+Density: 2 (High)",2795,167,2
+2797,37,65,2,"Count: 65
+Density: 2 (High)",2797,88,2
+2802,300,450,2,"Count: 450
+Density: 2 (High)",2802,363,1
+2803,31,85,2,"Count: 85
+Density: 2",2803,219,2
+2804,9,23,2,"Count: 23
+Density: 2 (High)",2804,20,1
+2812,31,285,2,"Count: 285
+Density: 2 (High)",2812,41,2
+2817,23,35,2,"Count: 35
+Density: 2",2817,120,2
+2819,7,68,2,"Count: 68
+Density: 2",2819,28,2
+2821,114,105,2,"Count: 105
+Density: 2",2821,165,2
+2822,23,35,1,"Count: 35
+Density: 1 (Medium)",2822,29,2
+2825,3,200,2,"Count: 200
+Density: 2",2825,1641,2
+2828,1,2,0,"Count: 2
+Density: 0 (Low)",2828,2,0
+2831,44,75,2,"Count: 75
+Density: 2 (High)",2831,93,2
+2833,33,65,2,"Count: 65
+Density: 2 (High)",2833,66,2
+2842,15,120,1,"Count: 120
+Density: 1 (Medium)",2842,24,2
+2847,4,6,1,"Count: 6
+Density: 1 (Medium)",2847,5,0
+2853,36,65,1,"Count: 65
+Density: 1",2853,42,2
+2856,34,215,1,"Count: 215
+Density: 1 (Medium)",2856,380,1
+2860,145,130,2,"Count: 130
+Density: 2 (High)",2860,207,2
+2862,119,135,2,"Count: 135
+Density: 2 (High)",2862,393,2
+2864,67,833,2,"Count: 833
+Density: 2 (High)",2864,490,1
+2866,5,7,1,"Count: 7
+Density: 1 (Medium)",2866,6,0
+2870,70,95,2,"Count: 95
+Density: 2 (High)",2870,93,1
+2873,261,275,2,"Count: 275
+Density: 2",2873,1292,2
+2877,2,85,2,"Count: 85
+Density: 2 (High)",2877,149,0
+2879,4,35,2,"Count: 35
+Density: 2 (High)",2879,20,1
+2885,101,125,2,"Count: 125
+Density: 2 (High)",2885,558,1
+2888,7,35,1,"Count: 35
+Density: 1",2888,33,1
+2889,136,145,2,"Count: 145
+Density: 2 (High)",2889,131,2
+2890,32,45,1,"Count: 45
+Density: 1",2890,55,1
+2892,300,350,2,"Count: 350
+Density: 2 (High)",2892,866,2
+2893,48,120,2,"Count: 120
+Density: 2 (High)",2893,47,0
+2898,54,88,2,"Count: 88
+Density: 2 (High)",2898,72,1
+2904,33,32,1,"Count: 32
+Density: 1 (Medium)",2904,32,0
+2909,12,60,1,"Count: 60
+Density: 1 (Medium)",2909,28,0
+2910,44,55,1,"Count: 55
+Density: 1 (Medium)",2910,122,0
+2911,37,185,1,"Count: 185
+Density: 1 (Medium)",2911,51,0
+2913,18,65,2,"Count: 65
+Density: 2 (High)",2913,48,2
+2919,24,65,2,"Count: 65
+Density: 2 (High)",2919,52,1
+2921,300,350,2,"Count: 350
+Density: 2 (High)",2921,860,2
+2923,78,85,2,"Count: 85
+Density: 2 (High)",2923,143,2
+2924,36,680,2,"Count: 680
+Density: 2 (High)",2924,155,2
+2925,300,850,2,"Count: 850
+Density: 2 (High)",2925,1207,2
+2927,300,85,1,"Count: 85
+Density: 1 (Medium)",2927,759,2
+2931,300,450,2,"Count: 450
+Density: 2 (High)",2931,1342,2
+2935,54,380,2,"Count: 380
+Density: 2",2935,110,2
+2936,94,115,2,"Count: 115
+Density: 2 (High)",2936,202,2
+2939,36,230,2,"Count: 230
+Density: 2",2939,123,2
+2944,198,210,2,"Count: 210
+Density: 2 (High)",2944,321,2
+2945,12,187,2,"Count: 187
+Density: 2 (High)",2945,49,2
+2946,222,215,2,"Count: 215
+Density: 2",2946,204,2
+2947,48,65,2,"Count: 65
+Density: 2 (High)",2947,374,2
+2948,61,85,2,"Count: 85
+Density: 2",2948,110,2
+2953,91,93,2,"Count: 93
+Density: 2 (High)",2953,127,1
+2954,300,320,2,"Count: 320
+Density: 2 (High)",2954,409,2
+2959,298,350,2,"Count: 350
+Density: 2 (High)",2959,445,2
+2961,151,225,2,"Count: 225
+Density: 2 (High)",2961,348,1
+2962,63,75,2,"Count: 75
+Density: 2 (High)",2962,163,2
+2963,300,325,1,"Count: 325
+Density: 1 (Medium)",2963,446,2
+2965,64,88,2,"Count: 88
+Density: 2 (High)",2965,962,2
+2966,4,12,1,"Count: 12
+Density: 1 (Medium)",2966,20,0
+2967,290,350,2,"Count: 350
+Density: 2 (High)",2967,995,2
+2970,108,115,2,"Count: 115
+Density: 2",2970,201,2
+2971,23,350,2,"Count: 350
+Density: 2 (High)",2971,61,2
+2973,109,115,1,"Count: 115
+Density: 1 (Medium)",2973,283,2
+2975,85,110,2,"Count: 110
+Density: 2 (High)",2975,401,2
+2977,34,32,1,"Count: 32
+Density: 1 (Medium)",2977,31,0
+2978,68,75,1,"Count: 75
+Density: 1",2978,133,1
+2979,295,285,2,"Count: 285
+Density: 2 (High)",2979,426,2
+2983,34,55,1,"Count: 55
+Density: 1 (Medium)",2983,64,0
+2985,34,65,2,"Count: 65
+Density: 2 (High)",2985,50,1
+2989,23,85,2,"Count: 85
+Density: 2 (High)",2989,32,1
+2996,2,120,2,"Count: 120
+Density: 2",2996,1642,2
+3000,5,80,2,"Count: 80
+Density: 2 (High)",3000,83,2
+3011,38,235,2,"Count: 235
+Density: 2 (High)",3011,200,2
+3015,11,3500,2,"Count: 3500
+Density: 2 (High)",3015,895,2
+3021,14,85,1,"Count: 85
+Density: 1 (Medium)",3021,17,2
+3023,45,68,1,"Count: 68
+Density: 1",3023,49,1
+3025,0,65,1,"Count: 65
+Density: 1 (Medium)",3025,87,0
+3026,7,25,1,"Count: 25
+Density: 1 (Medium)",3026,7,0
+3027,26,45,2,"Count: 45
+Density: 2 (High)",3027,32,0
+3031,15,25,1,"Count: 25
+Density: 1 (Medium)",3031,16,0
+3032,163,175,2,"Count: 175
+Density: 2 (High)",3032,419,2
+3033,86,125,2,"Count: 125
+Density: 2 (High)",3033,74,2
+3034,300,285,2,"Count: 285
+Density: 2 (High)",3034,753,2
+3035,8,65,1,"Count: 65
+Density: 1 (Medium)",3035,61,1
+3037,205,210,2,"Count: 210
+Density: 2",3037,519,2
+3044,10,45,2,"Count: 45
+Density: 2 (High)",3044,13,1
+3045,18,12,1,"Count: 12
+Density: 1",3045,23,2
+3048,18,112,2,"Count: 112
+Density: 2 (High)",3048,29,2
+3051,8,65,1,"Count: 65
+Density: 1",3051,32,2
+3063,120,135,2,"Count: 135
+Density: 2 (High)",3063,146,2
+3065,87,650,2,"Count: 650
+Density: 2 (High)",3065,127,2
+3071,76,88,2,"Count: 88
+Density: 2 (High)",3071,175,2
+3076,105,120,1,"Count: 120
+Density: 1 (Medium)",3076,836,2
+3079,11,65,2,"Count: 65
+Density: 2 (High)",3079,62,0
+3082,190,350,2,"Count: 350
+Density: 2",3082,649,2
+3088,35,62,2,"Count: 62
+Density: 2 (High)",3088,65,1
+3090,28,22,1,"Count: 22
+Density: 1 (Medium)",3090,44,2
+3092,23,65,2,"Count: 65
+Density: 2 (High)",3092,70,2
+3096,152,225,2,"Count: 225
+Density: 2",3096,944,1
+3099,117,235,2,"Count: 235
+Density: 2 (High)",3099,196,2
+3101,22,65,2,"Count: 65
+Density: 2 (High)",3101,73,2
+3102,62,65,2,"Count: 65
+Density: 2 (High)",3102,201,2
+3112,65,68,2,"Count: 68
+Density: 2 (High)",3112,193,2
+3113,10,35,2,"Count: 35
+Density: 2 (High)",3113,12,0
+3118,53,65,2,"Count: 65
+Density: 2 (High)",3118,108,2
+3120,29,85,2,"Count: 85
+Density: 2 (High)",3120,1327,2
+3121,55,68,2,"Count: 68
+Density: 2",3121,707,2
+3122,58,72,2,"Count: 72
+Density: 2",3122,248,2
+3126,31,68,2,"Count: 68
+Density: 2 (High)",3126,35,0
+3128,300,320,2,"Count: 320
+Density: 2 (High)",3128,524,2
+3135,300,450,2,"Count: 450
+Density: 2",3135,345,2
+3137,86,72,2,"Count: 72
+Density: 2 (High)",3137,102,2
+3138,84,87,1,"Count: 87
+Density: 1 (Medium)",3138,86,2
+3139,0,10,1,"Count: 10
+Density: 1",3139,0,0
+3143,25,65,2,"Count: 65
+Density: 2 (High)",3143,349,2
+3147,135,185,2,"Count: 185
+Density: 2 (High)",3147,999,2
+3148,36,85,2,"Count: 85
+Density: 2 (High)",3148,47,2
+3151,48,65,2,"Count: 65
+Density: 2 (High)",3151,75,2
+3153,3,85,2,"Count: 85
+Density: 2 (High)",3153,48,2
+3158,300,325,2,"Count: 325
+Density: 2 (High)",3158,407,2
+3159,67,72,1,"Count: 72
+Density: 1 (Medium)",3159,74,1
+3163,29,85,2,"Count: 85
+Density: 2 (High)",3163,337,2
+3172,47,75,1,"Count: 75
+Density: 1 (Medium)",3172,73,2
+3173,13,28,1,"Count: 28
+Density: 1 (Medium)",3173,15,0
+3178,9,650,2,"Count: 650
+Density: 2 (High)",3178,7560,2
+3179,131,135,2,"Count: 135
+Density: 2",3179,236,2
+3180,59,63,2,"Count: 63
+Density: 2 (High)",3180,277,1
+3182,27,35,1,"Count: 35
+Density: 1 (Medium)",3182,47,1
+3187,300,220,2,"Count: 220
+Density: 2 (High)",3187,616,2
+3193,19,65,2,"Count: 65
+Density: 2 (High)",3193,23,2
+3198,30,45,2,"Count: 45
+Density: 2 (High)",3198,70,2
+3201,15,120,2,"Count: 120
+Density: 2",3201,74,2
+3203,54,87,2,"Count: 87
+Density: 2 (High)",3203,84,2
+3205,203,225,2,"Count: 225
+Density: 2",3205,240,1
+3208,43,85,2,"Count: 85
+Density: 2 (High)",3208,178,2
+3210,76,85,2,"Count: 85
+Density: 2",3210,278,2
+3213,89,125,1,"Count: 125
+Density: 1 (Medium)",3213,226,2
+3214,20,120,2,"Count: 120
+Density: 2",3214,172,1
+3216,13,45,2,"Count: 45
+Density: 2 (High)",3216,15,2
+3219,9,63,1,"Count: 63
+Density: 1 (Medium)",3219,17,2
+3221,31,85,1,"Count: 85
+Density: 1",3221,43,2
+3227,83,120,2,"Count: 120
+Density: 2",3227,1078,2
+3233,242,235,2,"Count: 235
+Density: 2",3233,279,2
+3236,40,65,1,"Count: 65
+Density: 1 (Medium)",3236,138,2
+3241,180,225,2,"Count: 225
+Density: 2 (High)",3241,343,2
+3249,47,120,2,"Count: 120
+Density: 2 (High)",3249,78,2
+3250,106,125,2,"Count: 125
+Density: 2 (High)",3250,130,2
+3252,13,75,2,"Count: 75
+Density: 2 (High)",3252,15,2
+3253,7,230,2,"Count: 230
+Density: 2",3253,19,1
+3255,34,65,2,"Count: 65
+Density: 2 (High)",3255,92,2
+3256,17,38,2,"Count: 38
+Density: 2 (High)",3256,21,2
+3258,4,20,1,"Count: 20
+Density: 1 (Medium)",3258,25,2
+3259,0,65,1,"Count: 65
+Density: 1",3259,21,0
+3260,239,235,2,"Count: 235
+Density: 2 (High)",3260,248,2
+3261,17,22,1,"Count: 22
+Density: 1 (Medium)",3261,16,0
+3264,136,158,2,"Count: 158
+Density: 2 (High)",3264,303,2
+3267,2,12,2,"Count: 12
+Density: 2 (High)",3267,4,0
+3269,241,323,2,"Count: 323
+Density: 2 (High)",3269,3928,2
+3271,135,225,2,"Count: 225
+Density: 2",3271,293,2
+3274,140,135,2,"Count: 135
+Density: 2 (High)",3274,177,2
+3275,300,320,2,"Count: 320
+Density: 2 (High)",3275,461,2
+3276,26,35,2,"Count: 35
+Density: 2",3276,55,1
+3281,5,85,2,"Count: 85
+Density: 2 (High)",3281,2397,1
+3283,35,75,2,"Count: 75
+Density: 2 (High)",3283,79,2
+3289,1,65,2,"Count: 65
+Density: 2",3289,33,0
+3298,181,185,2,"Count: 185
+Density: 2",3298,528,2
+3302,121,125,2,"Count: 125
+Density: 2 (High)",3302,143,2
+3303,6,225,2,"Count: 225
+Density: 2 (High)",3303,367,1
+3305,10,35,1,"Count: 35
+Density: 1 (Medium)",3305,21,1
+3311,33,25,1,"Count: 25
+Density: 1 (Medium)",3311,92,2
+3313,56,75,1,"Count: 75
+Density: 1",3313,143,1
+3316,123,187,2,"Count: 187
+Density: 2 (High)",3316,183,2
+3327,24,23,1,"Count: 23
+Density: 1 (Medium)",3327,29,1
+3328,90,125,2,"Count: 125
+Density: 2 (High)",3328,165,2
+3331,52,45,1,"Count: 45
+Density: 1 (Medium)",3331,59,1
+3332,81,65,1,"Count: 65
+Density: 1",3332,82,2
+3334,107,125,2,"Count: 125
+Density: 2",3334,1026,2
+3336,79,115,2,"Count: 115
+Density: 2 (High)",3336,217,2
+3338,4,8,2,"Count: 8
+Density: 2 (High)",3338,11,0
+3340,14,120,2,"Count: 120
+Density: 2 (High)",3340,55,0
+3342,300,320,2,"Count: 320
+Density: 2",3342,1477,2
+3344,86,88,2,"Count: 88
+Density: 2 (High)",3344,237,2
+3345,295,350,2,"Count: 350
+Density: 2 (High)",3345,321,2
+3346,81,85,2,"Count: 85
+Density: 2 (High)",3346,178,2
+3348,77,65,1,"Count: 65
+Density: 1 (Medium)",3348,72,1
+3351,13,85,2,"Count: 85
+Density: 2 (High)",3351,28,2
+3356,46,280,2,"Count: 280
+Density: 2 (High)",3356,59,2
+3357,2,15,1,"Count: 15
+Density: 1",3357,12,0
+3358,124,135,2,"Count: 135
+Density: 2 (High)",3358,217,2
+3359,78,112,1,"Count: 112
+Density: 1 (Medium)",3359,105,2
+3362,53,65,2,"Count: 65
+Density: 2 (High)",3362,126,2
+3363,300,250,2,"Count: 250
+Density: 2 (High)",3363,751,2
+3364,146,172,2,"Count: 172
+Density: 2 (High)",3364,368,2
+3365,34,65,1,"Count: 65
+Density: 1 (Medium)",3365,35,1
+3367,43,65,1,"Count: 65
+Density: 1 (Medium)",3367,61,1
+3368,12,45,1,"Count: 45
+Density: 1 (Medium)",3368,25,1
+3369,7,350,2,"Count: 350
+Density: 2 (High)",3369,126,2
+3370,22,68,2,"Count: 68
+Density: 2 (High)",3370,30,2
+3374,55,280,2,"Count: 280
+Density: 2 (High)",3374,101,2
+3378,16,32,2,"Count: 32
+Density: 2 (High)",3378,42,2
+3379,10,85,2,"Count: 85
+Density: 2 (High)",3379,132,1
+3380,144,185,2,"Count: 185
+Density: 2",3380,447,2
+3385,15,120,2,"Count: 120
+Density: 2 (High)",3385,63,2
+3389,0,2,1,"Count: 2
+Density: 1 (Medium)",3389,2,0
+3390,10,250,2,"Count: 250
+Density: 2",3390,42,2
+3393,75,350,2,"Count: 350
+Density: 2 (High)",3393,219,2
+3395,33,88,2,"Count: 88
+Density: 2 (High)",3395,54,0
+3396,300,450,2,"Count: 450
+Density: 2",3396,1383,2
+3397,89,95,2,"Count: 95
+Density: 2",3397,110,2
+3407,4,8,1,"Count: 8
+Density: 1 (Medium)",3407,5,0
+3409,35,80,2,"Count: 80
+Density: 2",3409,99,2
+3411,110,21482,2,"Count: 21482
+Density: 2 (High)",3411,105,2
+3412,19,28,2,"Count: 28
+Density: 2",3412,35,2
+3418,21,38,1,"Count: 38
+Density: 1 (Medium)",3418,28,1
+3421,84,125,2,"Count: 125
+Density: 2 (High)",3421,266,2
+3427,137,145,2,"Count: 145
+Density: 2",3427,243,2
+3429,16,125,2,"Count: 125
+Density: 2 (High)",3429,287,1
+3431,9,125,2,"Count: 125
+Density: 2 (High)",3431,434,1
+3435,11,68,2,"Count: 68
+Density: 2 (High)",3435,73,0
+3436,129,135,2,"Count: 135
+Density: 2",3436,160,2
+3437,13,65,2,"Count: 65
+Density: 2 (High)",3437,37,2
+3441,39,85,2,"Count: 85
+Density: 2",3441,71,2
+3442,22,65,2,"Count: 65
+Density: 2 (High)",3442,71,2
+3447,32,150,2,"Count: 150
+Density: 2",3447,51,2
+3448,5,60,2,"Count: 60
+Density: 2",3448,16,2
+3450,300,350,2,"Count: 350
+Density: 2",3450,582,2
+3452,17,65,2,"Count: 65
+Density: 2 (High)",3452,24,2
+3454,279,650,2,"Count: 650
+Density: 2 (High)",3454,2311,2
+3455,118,125,2,"Count: 125
+Density: 2",3455,281,2
+3456,30,85,2,"Count: 85
+Density: 2 (High)",3456,141,1
+3457,31,65,2,"Count: 65
+Density: 2 (High)",3457,52,1
+3458,216,220,1,"Count: 220
+Density: 1",3458,303,2
+3463,100,85,2,"Count: 85
+Density: 2 (High)",3463,157,2
+3466,58,62,1,"Count: 62
+Density: 1 (Medium)",3466,212,1
+3477,300,85,1,"Count: 85
+Density: 1 (Medium)",3477,414,2
+3478,54,87,2,"Count: 87
+Density: 2 (High)",3478,64,2
+3480,12,35,2,"Count: 35
+Density: 2 (High)",3480,21,2
+3486,30,45,1,"Count: 45
+Density: 1 (Medium)",3486,35,1
+3488,221,235,2,"Count: 235
+Density: 2",3488,644,2
+3489,135,142,2,"Count: 142
+Density: 2",3489,139,1
+3493,98,125,2,"Count: 125
+Density: 2",3493,282,2
+3498,25,180,2,"Count: 180
+Density: 2",3498,214,2
+3502,71,85,1,"Count: 85
+Density: 1 (Medium)",3502,73,2
+3505,88,125,2,"Count: 125
+Density: 2 (High)",3505,2358,2
+3507,216,210,2,"Count: 210
+Density: 2 (High)",3507,216,2
+3508,16,65,1,"Count: 65
+Density: 1 (Medium)",3508,92,1
+3510,151,178,2,"Count: 178
+Density: 2 (High)",3510,180,2
+3515,60,85,2,"Count: 85
+Density: 2 (High)",3515,171,2
+3516,18,32,1,"Count: 32
+Density: 1 (Medium)",3516,23,2
+3517,148,155,1,"Count: 155
+Density: 1 (Medium)",3517,205,2
+3518,15,18,1,"Count: 18
+Density: 1 (Medium)",3518,17,0
+3522,106,145,2,"Count: 145
+Density: 2",3522,242,2
+3524,47,65,2,"Count: 65
+Density: 2 (High)",3524,176,1
+3527,4,125,2,"Count: 125
+Density: 2",3527,183,1
+3528,17,18,1,"Count: 18
+Density: 1 (Medium)",3528,26,0
+3529,300,350,2,"Count: 350
+Density: 2",3529,1526,2
+3530,25,65,2,"Count: 65
+Density: 2",3530,45,2
+3531,60,85,2,"Count: 85
+Density: 2 (High)",3531,152,2
+3534,300,250,2,"Count: 250
+Density: 2",3534,485,2
+3536,19,85,2,"Count: 85
+Density: 2",3536,21,0
+3538,0,63,1,"Count: 63
+Density: 1 (Medium)",3538,89,2
+3539,300,650,2,"Count: 650
+Density: 2 (High)",3539,6757,2
+3544,300,450,2,"Count: 450
+Density: 2",3544,449,2
+3547,38,85,2,"Count: 85
+Density: 2 (High)",3547,76,2
+3549,216,225,2,"Count: 225
+Density: 2 (High)",3549,274,1
+3550,17,230,2,"Count: 230
+Density: 2 (High)",3550,782,2
+3551,220,85,1,"Count: 85
+Density: 1 (Medium)",3551,227,2
+3552,300,225,2,"Count: 225
+Density: 2",3552,586,2
+3555,300,250,2,"Count: 250
+Density: 2",3555,604,2
+3560,300,200,2,"Count: 200
+Density: 2",3560,1249,1
+3561,24,32,1,"Count: 32
+Density: 1 (Medium)",3561,38,2
+3565,11,220,2,"Count: 220
+Density: 2",3565,810,2
+3566,71,125,2,"Count: 125
+Density: 2",3566,231,1
+3576,267,275,2,"Count: 275
+Density: 2 (High)",3576,714,2
+3581,57,65,2,"Count: 65
+Density: 2 (High)",3581,81,2
+3582,10,35,1,"Count: 35
+Density: 1 (Medium)",3582,19,2
+3586,56,180,2,"Count: 180
+Density: 2 (High)",3586,267,2
+3588,60,65,1,"Count: 65
+Density: 1",3588,75,1
+3589,154,185,2,"Count: 185
+Density: 2 (High)",3589,1012,2
+3591,38,65,1,"Count: 65
+Density: 1 (Medium)",3591,39,1
+3593,150,170,2,"Count: 170
+Density: 2 (High)",3593,168,2
+3594,174,220,2,"Count: 220
+Density: 2",3594,395,2
+3600,61,85,1,"Count: 85
+Density: 1 (Medium)",3600,107,2
+3601,146,165,2,"Count: 165
+Density: 2",3601,211,2
+3602,156,85,2,"Count: 85
+Density: 2",3602,165,1
+3603,16,80,2,"Count: 80
+Density: 2 (High)",3603,30,1
+3608,1,35,2,"Count: 35
+Density: 2 (High)",3608,33,0
+3610,206,225,2,"Count: 225
+Density: 2",3610,1149,2
+3611,9,12,2,"Count: 12
+Density: 2 (High)",3611,149,2
+3612,15,65,1,"Count: 65
+Density: 1 (Medium)",3612,22,0
+3614,23,350,2,"Count: 350
+Density: 2 (High)",3614,33,2
+3616,11,45,1,"Count: 45
+Density: 1 (Medium)",3616,23,0
+3617,300,310,2,"Count: 310
+Density: 2 (High)",3617,354,2
+3621,195,250,2,"Count: 250
+Density: 2",3621,399,2
+3622,171,185,2,"Count: 185
+Density: 2",3622,279,2
+3623,20,65,2,"Count: 65
+Density: 2 (High)",3623,40,2
+3624,9,65,2,"Count: 65
+Density: 2 (High)",3624,11,1
+3627,23,65,2,"Count: 65
+Density: 2 (High)",3627,24,0
+3631,300,350,2,"Count: 350
+Density: 2 (High)",3631,1216,2
+3637,69,75,2,"Count: 75
+Density: 2",3637,122,2
+3644,300,350,2,"Count: 350
+Density: 2 (High)",3644,575,2
+3651,28,85,2,"Count: 85
+Density: 2 (High)",3651,114,2
+3652,300,450,2,"Count: 450
+Density: 2",3652,2181,2
+3654,300,650,2,"Count: 650
+Density: 2",3654,1065,2
+3656,55,65,2,"Count: 65
+Density: 2 (High)",3656,268,2
+3657,36,85,1,"Count: 85
+Density: 1",3657,414,2
+3658,300,350,2,"Count: 350
+Density: 2",3658,1993,2
+3663,16,85,2,"Count: 85
+Density: 2 (High)",3663,31,1
+3664,198,235,1,"Count: 235
+Density: 1 (Medium)",3664,651,2
+3668,35,85,2,"Count: 85
+Density: 2 (High)",3668,1033,2
+3671,300,325,2,"Count: 325
+Density: 2 (High)",3671,475,2
+3673,8,18,2,"Count: 18
+Density: 2 (High)",3673,25,1
+3676,15,18,1,"Count: 18
+Density: 1 (Medium)",3676,16,0
+3677,28,65,2,"Count: 65
+Density: 2 (High)",3677,44,2
+3678,51,75,2,"Count: 75
+Density: 2",3678,162,2
+3680,200,225,2,"Count: 225
+Density: 2 (High)",3680,515,2
+3682,2,12,1,"Count: 12
+Density: 1 (Medium)",3682,6,0
+3683,16,120,2,"Count: 120
+Density: 2",3683,51,2
+3685,225,120,2,"Count: 120
+Density: 2 (High)",3685,1174,2
+3686,12,80,2,"Count: 80
+Density: 2 (High)",3686,51,2
+3687,43,280,2,"Count: 280
+Density: 2 (High)",3687,59,2
+3690,2,125,2,"Count: 125
+Density: 2 (High)",3690,308,0
+3694,144,160,2,"Count: 160
+Density: 2",3694,163,2
+3697,77,72,2,"Count: 72
+Density: 2",3697,2447,2
+3698,32,48,1,"Count: 48
+Density: 1 (Medium)",3698,36,2
+3699,190,235,2,"Count: 235
+Density: 2",3699,310,2
+3706,107,115,2,"Count: 115
+Density: 2 (High)",3706,124,2
+3707,51,78,1,"Count: 78
+Density: 1 (Medium)",3707,109,2
+3711,49,75,1,"Count: 75
+Density: 1 (Medium)",3711,78,2
+3713,18,35,2,"Count: 35
+Density: 2 (High)",3713,21,1
+3716,161,185,2,"Count: 185
+Density: 2 (High)",3716,559,2
+3719,7,35,1,"Count: 35
+Density: 1 (Medium)",3719,12,0
+3721,238,238,2,"Count: 238
+Density: 2 (High)",3721,1025,2
+3722,28,23,1,"Count: 23
+Density: 1 (Medium)",3722,162,1
+3723,2,85,2,"Count: 85
+Density: 2 (High)",3723,76,0
+3726,300,320,2,"Count: 320
+Density: 2",3726,375,2
+3727,52,88,1,"Count: 88
+Density: 1 (Medium)",3727,85,2
+3728,144,135,2,"Count: 135
+Density: 2 (High)",3728,156,2
+3729,10,85,2,"Count: 85
+Density: 2 (High)",3729,39,2
+3734,300,180,1,"Count: 180
+Density: 1 (Medium)",3734,1089,2
+3735,20,45,2,"Count: 45
+Density: 2 (High)",3735,25,2
+3743,130,125,2,"Count: 125
+Density: 2 (High)",3743,175,2
+3744,65,78,2,"Count: 78
+Density: 2 (High)",3744,85,1
+3754,138,125,1,"Count: 125
+Density: 1 (Medium)",3754,151,2
+3755,225,250,2,"Count: 250
+Density: 2",3755,292,2
+3756,19,65,1,"Count: 65
+Density: 1 (Medium)",3756,28,1
+3757,21,65,2,"Count: 65
+Density: 2",3757,52,1
+3758,300,235,2,"Count: 235
+Density: 2",3758,1092,2
+3759,155,165,2,"Count: 165
+Density: 2 (High)",3759,180,2
+3760,5,85,2,"Count: 85
+Density: 2 (High)",3760,5,2
+3764,4,230,2,"Count: 230
+Density: 2 (High)",3764,26,2
+3765,5,18,1,"Count: 18
+Density: 1 (Medium)",3765,40,0
+3766,89,95,2,"Count: 95
+Density: 2",3766,112,2
+3768,235,238,2,"Count: 238
+Density: 2 (High)",3768,260,2
+3769,126,85,2,"Count: 85
+Density: 2",3769,195,2
+3770,79,65,2,"Count: 65
+Density: 2",3770,257,2
+3775,300,120,2,"Count: 120
+Density: 2 (High)",3775,470,2
+3779,57,85,2,"Count: 85
+Density: 2 (High)",3779,86,2
+3780,197,185,2,"Count: 185
+Density: 2",3780,322,2
+3781,20,65,2,"Count: 65
+Density: 2 (High)",3781,186,1
+3783,300,320,2,"Count: 320
+Density: 2 (High)",3783,689,2
+3786,21,85,2,"Count: 85
+Density: 2 (High)",3786,68,1
+3787,43,65,2,"Count: 65
+Density: 2",3787,70,2
+3788,34,230,2,"Count: 230
+Density: 2 (High)",3788,993,2
+3790,220,235,2,"Count: 235
+Density: 2",3790,635,2
+3792,32,125,2,"Count: 125
+Density: 2 (High)",3792,210,2
+3797,37,85,1,"Count: 85
+Density: 1 (Medium)",3797,54,1
+3798,11,85,2,"Count: 85
+Density: 2",3798,14,2
+3801,163,178,2,"Count: 178
+Density: 2 (High)",3801,435,2
+3803,47,62,2,"Count: 62
+Density: 2",3803,284,2
+3806,236,210,2,"Count: 210
+Density: 2 (High)",3806,285,2
+3811,16,32,1,"Count: 32
+Density: 1 (Medium)",3811,15,2
+3814,125,850,2,"Count: 850
+Density: 2 (High)",3814,401,2
+3819,198,235,2,"Count: 235
+Density: 2 (High)",3819,644,2
+3820,118,230,1,"Count: 230
+Density: 1 (Medium)",3820,177,2
+3821,40,85,2,"Count: 85
+Density: 2 (High)",3821,64,2
+3822,43,280,2,"Count: 280
+Density: 2 (High)",3822,535,2
+3829,23,75,2,"Count: 75
+Density: 2 (High)",3829,25,2
+3832,90,235,2,"Count: 235
+Density: 2 (High)",3832,322,2
+3834,10,120,2,"Count: 120
+Density: 2 (High)",3834,80,1
+3837,73,230,2,"Count: 230
+Density: 2",3837,189,2
+3841,11,85,2,"Count: 85
+Density: 2 (High)",3841,27,2
+3842,2,35,2,"Count: 35
+Density: 2 (High)",3842,6,0
+3849,62,68,2,"Count: 68
+Density: 2 (High)",3849,119,2
+3854,2,88,2,"Count: 88
+Density: 2 (High)",3854,79,1
+3855,33,180,2,"Count: 180
+Density: 2",3855,40,2
+3857,28,320,2,"Count: 320
+Density: 2 (High)",3857,102,2
+3858,100,125,2,"Count: 125
+Density: 2 (High)",3858,158,2
+3859,32,65,2,"Count: 65
+Density: 2",3859,41,2
+3862,18,27,1,"Count: 27
+Density: 1",3862,76,0
+3870,52,68,1,"Count: 68
+Density: 1",3870,81,2
+3871,89,95,2,"Count: 95
+Density: 2 (High)",3871,121,2
+3880,2,45,1,"Count: 45
+Density: 1 (Medium)",3880,75,0
+3881,34,68,1,"Count: 68
+Density: 1 (Medium)",3881,38,1
+3887,57,85,2,"Count: 85
+Density: 2 (High)",3887,253,1
+3888,4,28,1,"Count: 28
+Density: 1",3888,18,2
+3891,50,95,1,"Count: 95
+Density: 1 (Medium)",3891,80,1
+3895,26,28,1,"Count: 28
+Density: 1 (Medium)",3895,51,0
+3896,17,85,2,"Count: 85
+Density: 2 (High)",3896,36,1
+3897,25,62,2,"Count: 62
+Density: 2 (High)",3897,34,1
+3898,14,230,2,"Count: 230
+Density: 2 (High)",3898,38,2
+3899,22,180,2,"Count: 180
+Density: 2",3899,89,2
+3905,155,165,2,"Count: 165
+Density: 2",3905,520,2
+3907,6,8,1,"Count: 8
+Density: 1 (Medium)",3907,7,0
+3910,300,450,2,"Count: 450
+Density: 2",3910,1216,2
+3911,4,32,2,"Count: 32
+Density: 2 (High)",3911,14,2
+3914,29,85,2,"Count: 85
+Density: 2 (High)",3914,44,2
+3916,164,185,2,"Count: 185
+Density: 2",3916,475,2
+3917,2,150,2,"Count: 150
+Density: 2 (High)",3917,624,2
+3921,70,125,2,"Count: 125
+Density: 2 (High)",3921,101,1
+3922,41,350,2,"Count: 350
+Density: 2",3922,431,2
+3923,32,185,2,"Count: 185
+Density: 2 (High)",3923,76,2
+3925,300,450,1,"Count: 450
+Density: 1 (Medium)",3925,508,2
+3927,24,35,1,"Count: 35
+Density: 1 (Medium)",3927,27,1
+3930,300,280,1,"Count: 280
+Density: 1 (Medium)",3930,522,2
+3933,18,850,2,"Count: 850
+Density: 2 (High)",3933,197,2
+3934,76,85,1,"Count: 85
+Density: 1 (Medium)",3934,81,1
+3938,65,85,1,"Count: 85
+Density: 1 (Medium)",3938,72,2
+3939,9,42,2,"Count: 42
+Density: 2 (High)",3939,16,0
+3941,5,65,2,"Count: 65
+Density: 2 (High)",3941,81,0
+3942,85,115,2,"Count: 115
+Density: 2",3942,80,1
+3944,12,35,1,"Count: 35
+Density: 1 (Medium)",3944,43,1
+3947,35,38,2,"Count: 38
+Density: 2 (High)",3947,36,1
+3951,8,10,1,"Count: 10
+Density: 1 (Medium)",3951,8,0
+3953,56,88,2,"Count: 88
+Density: 2",3953,60,2
+3955,21,120,2,"Count: 120
+Density: 2 (High)",3955,61,2
+3960,140,175,2,"Count: 175
+Density: 2 (High)",3960,248,1
+3962,49,63,2,"Count: 63
+Density: 2 (High)",3962,63,1
+3964,15,18,1,"Count: 18
+Density: 1 (Medium)",3964,159,1
+3968,297,312,2,"Count: 312
+Density: 2 (High)",3968,4218,2
+3969,300,280,1,"Count: 280
+Density: 1 (Medium)",3969,505,2
+3971,166,185,2,"Count: 185
+Density: 2",3971,155,2
+3972,25,35,1,"Count: 35
+Density: 1 (Medium)",3972,31,2
+3975,12,650,2,"Count: 650
+Density: 2 (High)",3975,1281,2
+3976,128,135,2,"Count: 135
+Density: 2 (High)",3976,269,2
+3982,43,28,1,"Count: 28
+Density: 1 (Medium)",3982,37,0
+3985,203,250,2,"Count: 250
+Density: 2 (High)",3985,705,2
+3987,96,125,1,"Count: 125
+Density: 1 (Medium)",3987,173,2
+3989,8,250,2,"Count: 250
+Density: 2 (High)",3989,304,2
+3991,136,165,2,"Count: 165
+Density: 2 (High)",3991,174,2
+3994,34,185,2,"Count: 185
+Density: 2",3994,32,2
+3998,141,142,2,"Count: 142
+Density: 2 (High)",3998,268,2
+4001,72,85,2,"Count: 85
+Density: 2",4001,63,0
+4002,8,12,1,"Count: 12
+Density: 1 (Medium)",4002,9,0
+4006,177,185,2,"Count: 185
+Density: 2 (High)",4006,262,2
+4009,0,7,1,"Count: 7
+Density: 1 (Medium)",4009,1,0
+4012,231,225,2,"Count: 225
+Density: 2 (High)",4012,261,2
+4014,50,35,1,"Count: 35
+Density: 1 (Medium)",4014,55,2
+4020,19,35,1,"Count: 35
+Density: 1 (Medium)",4020,22,2
+4022,3,80,2,"Count: 80
+Density: 2 (High)",4022,12,2
+4026,168,185,2,"Count: 185
+Density: 2 (High)",4026,162,2
+4030,7,35,1,"Count: 35
+Density: 1 (Medium)",4030,7,0
+4036,18,35,2,"Count: 35
+Density: 2",4036,18,2
+4037,56,68,2,"Count: 68
+Density: 2 (High)",4037,59,2
+4044,5,350,2,"Count: 350
+Density: 2 (High)",4044,190,2
+4046,300,425,2,"Count: 425
+Density: 2 (High)",4046,443,2
+4047,8,120,2,"Count: 120
+Density: 2",4047,20,2
+4048,300,320,2,"Count: 320
+Density: 2 (High)",4048,868,2
+4053,2,15,1,"Count: 15
+Density: 1",4053,16,0
+4054,79,85,2,"Count: 85
+Density: 2 (High)",4054,156,1
+4056,10,500,2,"Count: 500
+Density: 2",4056,6660,2
+4058,34,55,1,"Count: 55
+Density: 1 (Medium)",4058,47,1
+4064,50,65,1,"Count: 65
+Density: 1 (Medium)",4064,106,1
+4065,121,98,1,"Count: 98
+Density: 1 (Medium)",4065,143,1
+4066,24,85,2,"Count: 85
+Density: 2",4066,2184,2
+4070,1,220,2,"Count: 220
+Density: 2 (High)",4070,228,2
+4071,169,175,2,"Count: 175
+Density: 2",4071,651,2
+4074,232,287,2,"Count: 287
+Density: 2 (High)",4074,286,2
+4075,174,174,2,"Count: 174
+Density: 2 (High)",4075,270,2
+4076,110,135,2,"Count: 135
+Density: 2 (High)",4076,111,2
+4078,15,75,2,"Count: 75
+Density: 2 (High)",4078,49,2
+4079,14,65,2,"Count: 65
+Density: 2",4079,34,1
+4080,11,65,2,"Count: 65
+Density: 2 (High)",4080,12,0
+4083,16,120,2,"Count: 120
+Density: 2 (High)",4083,220,2
+4090,16,35,1,"Count: 35
+Density: 1 (Medium)",4090,14,0
+4092,300,180,2,"Count: 180
+Density: 2",4092,411,1
+4093,75,95,2,"Count: 95
+Density: 2 (High)",4093,125,2
+4094,19,65,1,"Count: 65
+Density: 1 (Medium)",4094,23,2
+4096,54,120,2,"Count: 120
+Density: 2",4096,66,2
+4098,24,32,1,"Count: 32
+Density: 1 (Medium)",4098,53,2
+4104,106,95,1,"Count: 95
+Density: 1 (Medium)",4104,138,2
+4106,7,58,2,"Count: 58
+Density: 2 (High)",4106,5,0
+4108,9,63,2,"Count: 63
+Density: 2 (High)",4108,17,0
+4111,43,65,2,"Count: 65
+Density: 2 (High)",4111,94,2
+4116,34,68,2,"Count: 68
+Density: 2 (High)",4116,37,2
+4118,43,65,2,"Count: 65
+Density: 2 (High)",4118,197,2
+4119,300,185,2,"Count: 185
+Density: 2 (High)",4119,2653,2
+4122,27,65,2,"Count: 65
+Density: 2 (High)",4122,70,2
+4126,300,650,2,"Count: 650
+Density: 2 (High)",4126,768,2
+4127,300,750,2,"Count: 750
+Density: 2 (High)",4127,1640,2
+4128,113,95,2,"Count: 95
+Density: 2 (High)",4128,154,2
+4132,33,87,1,"Count: 87
+Density: 1 (Medium)",4132,41,1
+4134,216,235,2,"Count: 235
+Density: 2",4134,290,2
+4135,28,65,1,"Count: 65
+Density: 1 (Medium)",4135,72,2
+4136,5,35,2,"Count: 35
+Density: 2 (High)",4136,10,0
+4138,1,23,2,"Count: 23
+Density: 2 (High)",4138,8,0
+4139,29,32,1,"Count: 32
+Density: 1 (Medium)",4139,33,1
+4140,137,155,2,"Count: 155
+Density: 2",4140,167,2
+4141,300,300,2,"Count: 300
+Density: 2 (High)",4141,1527,2
+4143,17,125,1,"Count: 125
+Density: 1 (Medium)",4143,75,1
+4144,48,65,2,"Count: 65
+Density: 2 (High)",4144,142,2
+4145,108,125,2,"Count: 125
+Density: 2 (High)",4145,131,1
+4146,17,35,1,"Count: 35
+Density: 1 (Medium)",4146,29,1
+4148,108,112,2,"Count: 112
+Density: 2",4148,245,2
+4152,75,135,2,"Count: 135
+Density: 2 (High)",4152,98,2
+4154,281,325,2,"Count: 325
+Density: 2",4154,288,2
+4155,24,68,2,"Count: 68
+Density: 2",4155,68,1
+4159,55,250,2,"Count: 250
+Density: 2 (High)",4159,6210,2
+4160,18,135,2,"Count: 135
+Density: 2 (High)",4160,37,2
+4163,196,196,2,"Count: 196
+Density: 2 (High)",4163,202,2
+4164,30,65,1,"Count: 65
+Density: 1 (Medium)",4164,46,1
+4167,49,65,2,"Count: 65
+Density: 2",4167,159,2
+4172,67,115,2,"Count: 115
+Density: 2",4172,88,2
+4174,72,85,2,"Count: 85
+Density: 2 (High)",4174,218,1
+4175,11,13,1,"Count: 13
+Density: 1 (Medium)",4175,13,0
+4176,69,65,1,"Count: 65
+Density: 1 (Medium)",4176,83,1
+4178,283,283,2,"Count: 283
+Density: 2",4178,311,2
+4180,160,235,2,"Count: 235
+Density: 2 (High)",4180,391,2
+4181,26,35,2,"Count: 35
+Density: 2 (High)",4181,367,2
+4182,23,65,1,"Count: 65
+Density: 1 (Medium)",4182,31,0
+4193,300,450,2,"Count: 450
+Density: 2 (High)",4193,395,2
+4195,0,10,1,"Count: 10
+Density: 1 (Medium)",4195,1,0
+4199,132,120,2,"Count: 120
+Density: 2",4199,157,2
+4201,53,65,2,"Count: 65
+Density: 2",4201,118,2
+4202,300,320,2,"Count: 320
+Density: 2",4202,299,2
+4204,241,235,2,"Count: 235
+Density: 2 (High)",4204,244,2
+4208,111,85,1,"Count: 85
+Density: 1 (Medium)",4208,719,2
+4210,22,55,2,"Count: 55
+Density: 2 (High)",4210,55,2
+4211,300,320,2,"Count: 320
+Density: 2",4211,417,2
+4214,13,85,1,"Count: 85
+Density: 1 (Medium)",4214,26,1
+4215,39,85,2,"Count: 85
+Density: 2 (High)",4215,42,1
+4217,75,95,2,"Count: 95
+Density: 2 (High)",4217,124,2
+4218,0,687,2,"Count: 687
+Density: 2 (High)",4218,448,2
+4220,7,12,1,"Count: 12
+Density: 1 (Medium)",4220,6,0
+4222,154,210,2,"Count: 210
+Density: 2",4222,359,2
+4227,300,320,2,"Count: 320
+Density: 2 (High)",4227,894,2
+4230,68,75,2,"Count: 75
+Density: 2",4230,1997,2
+4236,39,68,2,"Count: 68
+Density: 2",4236,53,2
+4237,12,65,2,"Count: 65
+Density: 2 (High)",4237,45,2
+4240,52,78,2,"Count: 78
+Density: 2 (High)",4240,94,2
+4244,294,320,2,"Count: 320
+Density: 2 (High)",4244,601,2
+4254,17,28,2,"Count: 28
+Density: 2 (High)",4254,25,1
+4256,10,250,2,"Count: 250
+Density: 2 (High)",4256,12,2
+4260,131,85,1,"Count: 85
+Density: 1",4260,193,2
+4267,70,185,2,"Count: 185
+Density: 2 (High)",4267,378,0
+4268,11,35,2,"Count: 35
+Density: 2 (High)",4268,12,0
+4270,66,75,2,"Count: 75
+Density: 2",4270,78,2
+4271,3,120,2,"Count: 120
+Density: 2",4271,41,1
+4273,151,320,2,"Count: 320
+Density: 2 (High)",4273,156,2
+4276,138,145,2,"Count: 145
+Density: 2",4276,274,2
+4279,25,185,2,"Count: 185
+Density: 2 (High)",4279,2308,2
+4281,8,650,2,"Count: 650
+Density: 2 (High)",4281,57,2
+4284,11,35,2,"Count: 35
+Density: 2 (High)",4284,15,0
+4286,61,85,2,"Count: 85
+Density: 2",4286,98,2
+4291,110,120,2,"Count: 120
+Density: 2 (High)",4291,190,2
+4293,64,72,2,"Count: 72
+Density: 2",4293,112,2
+4294,11,65,2,"Count: 65
+Density: 2 (High)",4294,16,2
+4295,178,185,2,"Count: 185
+Density: 2",4295,199,2
+4296,300,320,2,"Count: 320
+Density: 2 (High)",4296,522,2
+4297,193,110,1,"Count: 110
+Density: 1 (Medium)",4297,262,2
+4299,84,250,2,"Count: 250
+Density: 2 (High)",4299,279,2
+4301,98,125,1,"Count: 125
+Density: 1",4301,88,2
+4304,0,850,2,"Count: 850
+Density: 2 (High)",4304,839,2
+4309,257,165,2,"Count: 165
+Density: 2 (High)",4309,283,2
+4310,51,380,2,"Count: 380
+Density: 2 (High)",4310,586,2
+4311,15,85,2,"Count: 85
+Density: 2 (High)",4311,162,2
+4312,209,215,2,"Count: 215
+Density: 2 (High)",4312,233,2
+4314,18,45,1,"Count: 45
+Density: 1 (Medium)",4314,50,1
+4315,21,350,2,"Count: 350
+Density: 2 (High)",4315,470,2
+4316,27,65,2,"Count: 65
+Density: 2 (High)",4316,47,1
+4318,51,75,2,"Count: 75
+Density: 2",4318,59,1
+4322,300,680,2,"Count: 680
+Density: 2 (High)",4322,1236,2
+4323,9,8,1,"Count: 8
+Density: 1 (Medium)",4323,9,0
+4324,40,680,2,"Count: 680
+Density: 2 (High)",4324,204,2
+4325,17,85,1,"Count: 85
+Density: 1 (Medium)",4325,42,1
+4327,300,320,2,"Count: 320
+Density: 2 (High)",4327,1859,2
+4328,300,650,2,"Count: 650
+Density: 2",4328,1285,2
+4333,58,135,2,"Count: 135
+Density: 2 (High)",4333,90,2
+4334,36,42,1,"Count: 42
+Density: 1 (Medium)",4334,34,1
+4336,300,650,2,"Count: 650
+Density: 2 (High)",4336,742,2
+4341,104,125,2,"Count: 125
+Density: 2",4341,403,2
+4342,21,120,2,"Count: 120
+Density: 2 (High)",4342,40,1
+4343,217,680,2,"Count: 680
+Density: 2 (High)",4343,3696,2
+4346,90,780,2,"Count: 780
+Density: 2 (High)",4346,156,2
+4347,162,85,2,"Count: 85
+Density: 2 (High)",4347,222,2
+4352,8,45,1,"Count: 45
+Density: 1 (Medium)",4352,39,1
+4353,81,125,2,"Count: 125
+Density: 2 (High)",4353,205,2
+4355,14,85,2,"Count: 85
+Density: 2 (High)",4355,34,2
+4356,56,48,1,"Count: 48
+Density: 1 (Medium)",4356,65,2
+4362,35,85,2,"Count: 85
+Density: 2 (High)",4362,344,1
+4366,176,185,2,"Count: 185
+Density: 2 (High)",4366,520,2
+4367,38,55,1,"Count: 55
+Density: 1 (Medium)",4367,80,0
+4372,114,123,1,"Count: 123
+Density: 1 (Medium)",4372,612,2
+4374,35,185,2,"Count: 185
+Density: 2 (High)",4374,246,2
+4375,75,150,2,"Count: 150
+Density: 2 (High)",4375,186,2
+4376,21,85,2,"Count: 85
+Density: 2 (High)",4376,54,2
+4378,86,65,1,"Count: 65
+Density: 1 (Medium)",4378,112,2
