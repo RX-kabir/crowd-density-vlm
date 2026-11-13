@@ -25,6 +25,9 @@ Run the notebook of the condition you want from `<model>/<condition>/` on a GPU 
 
 **Queue limit:** the Batch API limits enqueued input tokens per organisation and model. For the account used here it was 1,350,000 (`QUEUE_TOKEN_LIMIT` in the notebooks; check yours under the OpenAI dashboard's limits page). Two notebooks on the same organisation share it. 5-shot requests (6 images) take about 1,500 input tokens each, so run those one experiment at a time.
 
+## 4b. Claude Haiku 5.5 and Sonnet 5.5 (Colab, CPU runtime)
+Same flow as GPT, with the Colab Secret `ANTHROPIC_API_KEY` and the Message Batches API; see [`../claude_haiku/README.md`](../claude_haiku/README.md) and [`../claude_sonnet/README.md`](../claude_sonnet/README.md) (identical notebooks, different model and prices). The batch queue limit is counted in requests (200,000 on the Start tier), so nothing is held back; the only size limit is 256 MB per batch (the notebooks split into files of at most 200 MB).
+
 ## 5. Statistics, figures and summary
 - `python scripts/summarize_results.py` — headline table (`Final_Comparison/all_conditions_summary.*`).
 - `python scripts/extract_prompts.py` — rewrites `prompts/*.txt` from the notebooks.

@@ -1,0 +1,3876 @@
+test_filename,predicted_count,predicted_density,raw_response,status,incomplete,error,in_tok,out_tok,yolo_predicted_count
+2,32,1,"Count: 32
+Density: 1",end_turn,,,504,365,32
+4,28,2,"Count: 28
+
+Density: 2",end_turn,,,447,295,25
+5,1850,2,"Count: 1850
+Density: 2",end_turn,,,466,163,1
+6,150,2,"Count: 150
+
+Density: 2",end_turn,,,390,196,41
+16,100,2,"Count: 100
+Density: 2",end_turn,,,504,206,58
+20,22,2,"Count: 22
+Density: 2",end_turn,,,485,284,20
+24,50,2,"Count: 50
+Density: 2",end_turn,,,447,226,9
+28,15,1,"Count: 15
+Density: 1",end_turn,,,447,374,15
+33,38,2,"Count: 38
+Density: 2",end_turn,,,428,310,17
+41,68,2,"Count: 68
+Density: 2",end_turn,,,447,102,21
+43,218,2,"Count: 218
+Density: 2",end_turn,,,485,132,60
+45,128,2,"Count: 128
+
+Density: 2",end_turn,,,485,421,136
+47,28,2,"Count: 28
+Density: 2",end_turn,,,447,267,29
+59,118,2,"Count: 118
+Density: 2",end_turn,,,466,13,112
+60,188,2,"Count: 188
+
+Density: 2",end_turn,,,390,170,182
+65,262,2,"Count: 262
+Density: 2",end_turn,,,485,13,258
+71,131,2,"Count: 131
+
+Density: 2",end_turn,,,485,177,129
+79,88,2,"Count: 88
+Density: 2",end_turn,,,485,189,91
+80,4,0,"Count: 4
+Density: 0",end_turn,,,485,149,3
+86,212,2,"Count: 212
+
+Density: 2",end_turn,,,409,135,205
+87,2,0,"Count: 2
+Density: 0",end_turn,,,428,13,2
+90,61,2,"Count: 61
+Density: 2",end_turn,,,485,187,50
+91,27,1,"Count: 27
+Density: 1",end_turn,,,485,300,29
+93,40,2,"Count: 40
+Density: 2",end_turn,,,485,385,31
+94,22,1,"Count: 22
+
+Density: 1",end_turn,,,447,569,23
+96,160,2,"Count: 160
+
+Density: 2",end_turn,,,485,106,38
+98,36,2,"Count: 36
+Density: 2",end_turn,,,485,215,36
+104,0,0,"Count: 0
+
+Density: 0",end_turn,,,350,128,0
+110,180,2,"Count: 180
+
+Density: 2",end_turn,,,485,140,180
+115,44,2,"Count: 44
+
+Density: 2",end_turn,,,447,130,38
+117,33,2,"Count: 33
+Density: 2",end_turn,,,485,685,32
+119,312,2,"Count: 312
+
+Density: 2",end_turn,,,504,169,283
+120,97,2,"Count: 97
+
+Density: 2",end_turn,,,485,197,31
+121,260,2,"Count: 260
+
+Density: 2",end_turn,,,485,139,51
+123,12,1,"Count: 12
+Density: 1",end_turn,,,485,536,10
+124,46,2,"Count: 46
+Density: 2",end_turn,,,447,352,47
+129,185,2,"Count: 185
+
+Density: 2",end_turn,,,485,140,185
+130,142,2,"Count: 142
+
+Density: 2",end_turn,,,485,187,137
+131,11,1,"Count: 11
+Density: 1",end_turn,,,447,592,10
+132,950,2,"Count: 950
+Density: 2",end_turn,,,485,219,219
+140,168,2,"Count: 168
+
+Density: 2",end_turn,,,425,153,71
+152,3000,2,"Count: 3000
+
+Density: 2",end_turn,,,428,141,300
+153,260,2,"Count: 260
+
+Density: 2",end_turn,,,485,192,132
+154,72,2,"Count: 72
+Density: 2",end_turn,,,447,344,69
+157,0,0,"Count: 0
+Density: 0",end_turn,,,504,13,0
+159,13,2,"Count: 13
+
+Density: 2",end_turn,,,371,363,13
+160,58,2,"Count: 58
+Density: 2",end_turn,,,504,122,49
+176,320,2,"Count: 320
+Density: 2",end_turn,,,485,165,300
+178,712,2,"Count: 712
+
+Density: 2",end_turn,,,447,151,300
+186,318,2,"Count: 318
+
+Density: 2",end_turn,,,504,131,300
+195,72,2,"Count: 72
+
+Density: 2",end_turn,,,485,204,80
+202,12,1,"Count: 12
+
+Density: 1",end_turn,,,364,374,3
+211,360,2,"Count: 360
+Density: 2",end_turn,,,447,216,300
+212,30000,2,"Count: 30000
+
+Density: 2",end_turn,,,466,177,1
+216,37,2,"Count: 37
+Density: 2",end_turn,,,580,353,35
+218,295,2,"Count: 295
+Density: 2",end_turn,,,352,209,280
+222,62,2,"Count: 62
+Density: 2",end_turn,,,409,166,17
+223,21,2,"Count: 21
+Density: 2",end_turn,,,485,438,20
+226,16,1,"Count: 16
+Density: 1",end_turn,,,485,295,11
+227,142,2,"Count: 142
+Density: 2",end_turn,,,466,13,135
+229,950,2,"Count: 950
+
+Density: 2",end_turn,,,371,225,296
+234,187,2,"Count: 187
+Density: 2",end_turn,,,466,143,13
+236,42,2,"Count: 42
+
+Density: 2",end_turn,,,447,170,2
+237,9,1,"Count: 9
+
+Density: 1",end_turn,,,504,557,9
+238,78,2,"Count: 78
+
+Density: 2",end_turn,,,319,163,46
+240,8,1,"Count: 8
+Density: 1",end_turn,,,485,346,1
+242,22,2,"Count: 22
+
+Density: 2",end_turn,,,485,599,18
+244,16,1,"Count: 16
+Density: 1",end_turn,,,485,288,15
+245,62,2,"Count: 62
+Density: 2",end_turn,,,485,137,58
+252,55,2,"Count: 55
+
+Density: 2",end_turn,,,485,126,50
+253,245,2,"Count: 245
+Density: 2",end_turn,,,447,13,248
+254,65,2,"Count: 65
+
+Density: 2",end_turn,,,485,163,58
+256,26,2,"Count: 26
+
+Density: 2",end_turn,,,485,354,26
+257,17,2,"Count: 17
+Density: 2",end_turn,,,504,248,15
+258,187,2,"Count: 187
+Density: 2",end_turn,,,523,137,24
+259,300,2,"Count: 300
+Density: 2",end_turn,,,485,111,300
+262,30,1,"Count: 30
+Density: 1",end_turn,,,504,352,26
+263,62,2,"Count: 62
+Density: 2",end_turn,,,428,142,20
+264,31,2,"Count: 31
+Density: 2",end_turn,,,504,656,31
+265,53,2,"Count: 53
+Density: 2",end_turn,,,436,213,53
+269,262,2,"Count: 262
+
+Density: 2",end_turn,,,447,116,176
+273,2000,2,"Count: 2000
+
+Density: 2",end_turn,,,447,194,300
+275,163,2,"Count: 163
+
+Density: 2",end_turn,,,485,125,161
+279,50,2,"Count: 50
+Density: 2",end_turn,,,447,232,39
+281,22,2,"Count: 22
+
+Density: 2",end_turn,,,409,370,12
+286,128,2,"Count: 128
+
+Density: 2",end_turn,,,504,158,53
+288,900,2,"Count: 900
+Density: 2",end_turn,,,466,279,70
+291,36,2,"Count: 36
+
+Density: 2",end_turn,,,466,330,37
+293,352,2,"Count: 352
+Density: 2",end_turn,,,485,165,245
+294,32,2,"Count: 32
+
+Density: 2",end_turn,,,485,374,32
+297,850,2,"Count: 850
+Density: 2",end_turn,,,447,167,53
+299,70,2,"Count: 70
+Density: 2",end_turn,,,466,253,25
+301,78,2,"Count: 78
+Density: 2",end_turn,,,390,122,72
+303,11,1,"Count: 11
+
+Density: 1",end_turn,,,447,375,9
+306,13,1,"Count: 13
+Density: 1",end_turn,,,485,553,9
+307,13,1,"Count: 13
+Density: 1",end_turn,,,504,676,13
+308,176,2,"Count: 176
+Density: 2",end_turn,,,447,108,31
+309,38,2,"Count: 38
+Density: 2",end_turn,,,485,383,17
+311,38,2,"Count: 38
+
+Density: 2",end_turn,,,447,344,23
+312,12,2,"Count: 12
+Density: 2",end_turn,,,466,298,3
+316,96,2,"Count: 96
+
+Density: 2",end_turn,,,447,169,64
+319,208,2,"Count: 208
+
+Density: 2",end_turn,,,504,173,208
+325,22,1,"Count: 22
+Density: 1",end_turn,,,466,518,20
+327,232,2,"Count: 232
+Density: 2",end_turn,,,466,13,175
+331,150,2,"Count: 150
+Density: 2",end_turn,,,447,181,29
+332,7,1,"Count: 7
+Density: 1",end_turn,,,485,285,7
+347,143,2,"Count: 143
+
+Density: 2",end_turn,,,428,145,143
+350,70,2,"Count: 70
+Density: 2",end_turn,,,392,180,12
+351,16,1,"Count: 16
+Density: 1",end_turn,,,390,632,16
+353,152,2,"Count: 152
+
+Density: 2",end_turn,,,485,131,59
+354,13,1,"Count: 13
+Density: 1",end_turn,,,447,470,13
+356,850,2,"Count: 850
+
+Density: 2",end_turn,,,428,141,300
+361,280,2,"Count: 280
+
+Density: 2",end_turn,,,447,202,166
+362,348,2,"Count: 348
+
+Density: 2",end_turn,,,485,182,212
+372,265,2,"Count: 265
+Density: 2",end_turn,,,504,141,218
+374,1150,2,"Count: 1150
+Density: 2",end_turn,,,485,194,300
+379,103,2,"Count: 103
+
+Density: 2",end_turn,,,428,148,103
+381,85,2,"Count: 85
+
+Density: 2",end_turn,,,447,171,76
+384,22,2,"Count: 22
+Density: 2",end_turn,,,485,562,13
+392,33,1,"Count: 33
+
+Density: 1",end_turn,,,447,601,8
+396,60,2,"Count: 60
+Density: 2",end_turn,,,485,377,63
+398,180,2,"Count: 180
+
+Density: 2",end_turn,,,447,133,95
+400,42,2,"Count: 42
+Density: 2",end_turn,,,504,476,25
+401,96,2,"Count: 96
+Density: 2",end_turn,,,409,161,83
+402,146,2,"Count: 146
+
+Density: 2",end_turn,,,447,108,141
+403,350,2,"Count: 350
+
+Density: 2",end_turn,,,504,189,300
+409,131,2,"Count: 131
+Density: 2",end_turn,,,599,232,131
+410,34,1,"Count: 34
+Density: 1",end_turn,,,428,575,34
+412,350,2,"Count: 350
+Density: 2",end_turn,,,352,172,24
+416,19,2,"Count: 19
+Density: 2",end_turn,,,428,574,18
+417,13,1,"Count: 13
+Density: 1",end_turn,,,428,404,11
+419,52,2,"Count: 52
+Density: 2",end_turn,,,485,183,45
+420,38,2,"Count: 38
+Density: 2",end_turn,,,454,309,28
+421,190,2,"Count: 190
+Density: 2",end_turn,,,493,165,0
+426,28,2,"Count: 28
+
+Density: 2",end_turn,,,447,271,11
+427,91,2,"Count: 91
+
+Density: 2",end_turn,,,352,203,91
+431,68,2,"Count: 68
+Density: 2",end_turn,,,523,135,14
+433,70,2,"Count: 70
+Density: 2",end_turn,,,485,145,12
+434,108,2,"Count: 108
+Density: 2",end_turn,,,447,124,103
+435,56,2,"Count: 56
+Density: 2",end_turn,,,485,210,41
+438,95,2,"Count: 95
+
+Density: 2",end_turn,,,447,109,7
+441,162,2,"Count: 162
+Density: 2",end_turn,,,466,152,77
+443,42,2,"Count: 42
+
+Density: 2",end_turn,,,504,714,41
+447,72,2,"Count: 72
+
+Density: 2",end_turn,,,504,165,3
+449,14,1,"Count: 14
+Density: 1",end_turn,,,485,601,13
+453,84,2,"Count: 84
+Density: 2",end_turn,,,485,13,81
+455,23,2,"Count: 23
+Density: 2",end_turn,,,447,424,22
+458,42,2,"Count: 42
+
+Density: 2",end_turn,,,447,432,44
+459,16,1,"Count: 16
+Density: 1",end_turn,,,485,293,14
+463,412,2,"Count: 412
+
+Density: 2",end_turn,,,352,144,142
+464,260,2,"Count: 260
+
+Density: 2",end_turn,,,485,180,155
+466,97,2,"Count: 97
+Density: 2",end_turn,,,485,176,35
+469,150,2,"Count: 150
+Density: 2",end_turn,,,504,155,57
+470,340,2,"Count: 340
+Density: 2",end_turn,,,333,160,105
+471,95,2,"Count: 95
+Density: 2",end_turn,,,542,179,32
+473,91,2,"Count: 91
+
+Density: 2",end_turn,,,485,102,91
+479,412,2,"Count: 412
+Density: 2",end_turn,,,485,13,300
+483,35,2,"Count: 35
+Density: 2",end_turn,,,504,248,29
+492,118,2,"Count: 118
+Density: 2",end_turn,,,466,162,122
+493,231,2,"Count: 231
+
+Density: 2",end_turn,,,485,86,224
+494,110,2,"Count: 110
+Density: 2",end_turn,,,466,156,34
+495,52,2,"Count: 52
+Density: 2",end_turn,,,485,216,51
+503,28,2,"Count: 28
+Density: 2",end_turn,,,447,361,23
+504,412,2,"Count: 412
+
+Density: 2",end_turn,,,472,154,152
+505,13,1,"Count: 13
+
+Density: 1",end_turn,,,447,332,13
+510,84,2,"Count: 84
+
+Density: 2",end_turn,,,466,118,82
+511,186,2,"Count: 186
+
+Density: 2",end_turn,,,466,143,11
+515,3,0,"Count: 3
+Density: 0",end_turn,,,447,13,3
+516,22,2,"Count: 22
+Density: 2",end_turn,,,485,314,5
+519,118,2,"Count: 118
+Density: 2",end_turn,,,466,157,61
+520,148,2,"Count: 148
+
+Density: 2",end_turn,,,447,148,66
+527,412,2,"Count: 412
+
+Density: 2",end_turn,,,485,185,136
+529,185,2,"Count: 185
+Density: 2",end_turn,,,485,112,37
+533,170,2,"Count: 170
+Density: 2",end_turn,,,485,130,19
+535,17,2,"Count: 17
+Density: 2",end_turn,,,485,493,2
+538,25,2,"Count: 25
+Density: 2",end_turn,,,485,595,21
+540,180,2,"Count: 180
+
+Density: 2",end_turn,,,371,176,17
+542,41,2,"Count: 41
+
+Density: 2",end_turn,,,371,345,41
+544,34,2,"Count: 34
+Density: 2",end_turn,,,504,335,27
+547,20,2,"Count: 20
+Density: 2",end_turn,,,599,365,9
+549,50,2,"Count: 50
+Density: 2",end_turn,,,447,385,28
+550,130,2,"Count: 130
+
+Density: 2",end_turn,,,447,124,49
+552,64,2,"Count: 64
+
+Density: 2",end_turn,,,447,209,66
+555,27,1,"Count: 27
+Density: 1",end_turn,,,504,272,12
+561,63,2,"Count: 63
+Density: 2",end_turn,,,485,248,57
+563,26,2,"Count: 26
+
+Density: 2",end_turn,,,447,294,7
+565,212,2,"Count: 212
+Density: 2",end_turn,,,447,13,153
+567,20,1,"Count: 20
+Density: 1",end_turn,,,333,458,15
+568,340,2,"Count: 340
+Density: 2",end_turn,,,355,135,0
+569,97,2,"Count: 97
+Density: 2",end_turn,,,466,162,94
+571,318,2,"Count: 318
+
+Density: 2",end_turn,,,466,219,300
+574,900,2,"Count: 900
+Density: 2",end_turn,,,504,156,11
+576,22,2,"Count: 22
+
+Density: 2",end_turn,,,447,513,23
+577,12,1,"Count: 12
+Density: 1",end_turn,,,409,402,9
+581,170,2,"Count: 170
+Density: 2",end_turn,,,485,206,14
+582,15,1,"Count: 15
+
+Density: 1",end_turn,,,447,425,16
+584,17,1,"Count: 17
+Density: 1",end_turn,,,428,507,15
+586,112,2,"Count: 112
+
+Density: 2",end_turn,,,485,135,44
+587,125,2,"Count: 125
+
+Density: 2",end_turn,,,352,113,123
+588,850,2,"Count: 850
+
+Density: 2",end_turn,,,504,127,300
+589,185,2,"Count: 185
+
+Density: 2",end_turn,,,447,80,161
+590,29,1,"Count: 29
+
+Density: 1",end_turn,,,447,480,27
+591,6500,2,"Count: 6500
+
+Density: 2",end_turn,,,485,125,300
+592,260,2,"Count: 260
+Density: 2",end_turn,,,409,141,54
+593,105,2,"Count: 105
+Density: 2",end_turn,,,485,148,52
+595,15,1,"Count: 15
+
+Density: 1",end_turn,,,409,415,9
+597,6,1,"Count: 6
+Density: 1",end_turn,,,485,250,5
+600,123,2,"Count: 123
+
+Density: 2",end_turn,,,466,188,122
+601,33,2,"Count: 33
+Density: 2",end_turn,,,428,784,32
+602,263,2,"Count: 263
+Density: 2",end_turn,,,447,13,257
+603,171,2,"Count: 171
+
+Density: 2",end_turn,,,390,204,171
+604,175,2,"Count: 175
+
+Density: 2",end_turn,,,447,201,108
+605,78,2,"Count: 78
+Density: 2",end_turn,,,485,155,73
+608,2500,2,"Count: 2500
+
+Density: 2",end_turn,,,485,116,300
+609,240,2,"Count: 240
+
+Density: 2",end_turn,,,485,140,79
+614,88,2,"Count: 88
+
+Density: 2",end_turn,,,447,139,46
+615,5,0,"Count: 5
+Density: 0",end_turn,,,485,351,7
+617,103,2,"Count: 103
+
+Density: 2",end_turn,,,442,142,106
+618,36,2,"Count: 36
+Density: 2",end_turn,,,485,695,26
+619,52,2,"Count: 52
+Density: 2",end_turn,,,485,164,37
+622,16,2,"Count: 16
+Density: 2",end_turn,,,504,322,15
+626,97,2,"Count: 97
+Density: 2",end_turn,,,390,120,94
+627,72,2,"Count: 72
+
+Density: 2",end_turn,,,485,144,7
+641,178,2,"Count: 178
+
+Density: 2",end_turn,,,485,188,178
+642,46,2,"Count: 46
+
+Density: 2",end_turn,,,337,304,29
+644,12,1,"Count: 12
+Density: 1",end_turn,,,485,438,11
+645,29,2,"Count: 29
+
+Density: 2",end_turn,,,485,226,28
+646,160,2,"Count: 160
+Density: 2",end_turn,,,504,113,18
+648,290,2,"Count: 290
+
+Density: 2",end_turn,,,485,179,296
+650,190,2,"Count: 190
+
+Density: 2",end_turn,,,561,362,76
+651,55,2,"Count: 55
+Density: 2",end_turn,,,485,542,41
+654,110,2,"Count: 110
+Density: 2",end_turn,,,599,271,52
+657,165,2,"Count: 165
+Density: 2",end_turn,,,485,164,150
+658,420,2,"Count: 420
+
+Density: 2",end_turn,,,485,133,300
+660,317,2,"Count: 317
+
+Density: 2",end_turn,,,485,140,300
+666,14,1,"Count: 14
+Density: 1",end_turn,,,485,259,2
+669,23,2,"Count: 23
+Density: 2",end_turn,,,485,550,23
+673,42,2,"Count: 42
+Density: 2",end_turn,,,485,581,39
+674,22,2,"Count: 22
+Density: 2",end_turn,,,504,260,0
+676,42,2,"Count: 42
+Density: 2",end_turn,,,485,532,41
+678,300,2,"Count: 300
+
+Density: 2",end_turn,,,409,159,44
+679,40,2,"Count: 40
+
+Density: 2",end_turn,,,403,261,32
+686,138,2,"Count: 138
+Density: 2",end_turn,,,447,115,138
+687,42,2,"Count: 42
+Density: 2",end_turn,,,485,183,33
+689,130,2,"Count: 130
+
+Density: 2",end_turn,,,466,171,82
+690,720,2,"Count: 720
+Density: 2",end_turn,,,447,158,300
+693,3500,2,"Count: 3500
+
+Density: 2",end_turn,,,447,157,300
+696,24,1,"Count: 24
+Density: 1",end_turn,,,466,688,23
+699,30,1,"Count: 30
+Density: 1",end_turn,,,485,546,27
+700,320,2,"Count: 320
+
+Density: 2",end_turn,,,428,169,175
+701,98,2,"Count: 98
+
+Density: 2",end_turn,,,485,212,52
+704,44,1,"Count: 44
+
+Density: 1",end_turn,,,447,512,42
+705,310,2,"Count: 310
+Density: 2",end_turn,,,485,149,295
+707,350,2,"Count: 350
+
+Density: 2",end_turn,,,485,88,200
+709,380,2,"Count: 380
+
+Density: 2",end_turn,,,398,164,140
+712,104,2,"Count: 104
+
+Density: 2",end_turn,,,485,106,102
+713,11,1,"Count: 11
+Density: 1",end_turn,,,485,261,5
+718,92,2,"Count: 92
+
+Density: 2",end_turn,,,418,190,62
+720,420,2,"Count: 420
+
+Density: 2",end_turn,,,447,120,157
+722,62,2,"Count: 62
+
+Density: 2",end_turn,,,485,265,0
+723,212,2,"Count: 212
+
+Density: 2",end_turn,,,371,159,201
+727,150,2,"Count: 150
+
+Density: 2",end_turn,,,390,191,54
+728,132,2,"Count: 132
+Density: 2",end_turn,,,485,163,99
+731,58,1,"Count: 58
+
+Density: 1",end_turn,,,485,309,51
+733,15,2,"Count: 15
+Density: 2",end_turn,,,447,317,10
+736,39,2,"Count: 39
+Density: 2",end_turn,,,485,403,39
+741,300,2,"Count: 300
+Density: 2",end_turn,,,447,141,15
+743,85,2,"Count: 85
+
+Density: 2",end_turn,,,447,114,35
+749,24,1,"Count: 24
+Density: 1",end_turn,,,485,466,24
+753,22,2,"Count: 22
+Density: 2",end_turn,,,447,566,18
+754,2400,2,"Count: 2400
+Density: 2",end_turn,,,485,157,0
+755,180,2,"Count: 180
+
+Density: 2",end_turn,,,425,122,72
+758,98,2,"Count: 98
+Density: 2",end_turn,,,428,159,15
+759,650,2,"Count: 650
+
+Density: 2",end_turn,,,504,272,300
+760,204,2,"Count: 204
+
+Density: 2",end_turn,,,485,122,204
+762,13,1,"Count: 13
+Density: 1",end_turn,,,485,367,6
+768,3500,2,"Count: 3500
+
+Density: 2",end_turn,,,504,140,300
+770,16,1,"Count: 16
+
+Density: 1",end_turn,,,485,483,11
+773,195,2,"Count: 195
+
+Density: 2",end_turn,,,490,140,29
+774,78,2,"Count: 78
+
+Density: 2",end_turn,,,447,188,37
+775,38,2,"Count: 38
+Density: 2",end_turn,,,485,432,25
+777,312,2,"Count: 312
+
+Density: 2",end_turn,,,485,165,82
+779,49,1,"Count: 49
+
+Density: 1",end_turn,,,504,337,49
+782,112,2,"Count: 112
+
+Density: 2",end_turn,,,504,106,108
+785,58,2,"Count: 58
+Density: 2",end_turn,,,542,233,61
+786,340,2,"Count: 340
+
+Density: 2",end_turn,,,485,128,23
+792,850,2,"Count: 850
+
+Density: 2",end_turn,,,485,261,115
+797,45,2,"Count: 45
+Density: 2",end_turn,,,485,281,18
+798,243,2,"Count: 243
+
+Density: 2",end_turn,,,485,144,243
+800,29,2,"Count: 29
+Density: 2",end_turn,,,485,666,29
+803,20,1,"Count: 20
+
+Density: 1",end_turn,,,504,375,19
+805,180,2,"Count: 180
+
+Density: 2",end_turn,,,485,127,26
+806,17,2,"Count: 17
+Density: 2",end_turn,,,485,270,16
+813,243,2,"Count: 243
+Density: 2",end_turn,,,485,13,117
+814,16,2,"Count: 16
+
+Density: 2",end_turn,,,466,366,6
+817,146,2,"Count: 146
+Density: 2",end_turn,,,504,13,128
+819,127,2,"Count: 127
+Density: 2",end_turn,,,485,136,58
+821,24,2,"Count: 24
+Density: 2",end_turn,,,485,422,22
+822,6,0,"Count: 6
+
+Density: 0",end_turn,,,485,290,7
+823,280,2,"Count: 280
+
+Density: 2",end_turn,,,472,137,30
+825,10,1,"Count: 10
+
+Density: 1",end_turn,,,485,348,7
+826,64,2,"Count: 64
+Density: 2",end_turn,,,504,155,10
+829,140,2,"Count: 140
+Density: 2",end_turn,,,485,146,82
+830,13,1,"Count: 13
+Density: 1",end_turn,,,504,301,9
+832,365,2,"Count: 365
+
+Density: 2",end_turn,,,485,138,300
+833,10,1,"Count: 10
+Density: 1",end_turn,,,447,337,9
+835,35,2,"Count: 35
+Density: 2",end_turn,,,485,368,22
+837,325,2,"Count: 325
+
+Density: 2",end_turn,,,390,138,300
+839,21,2,"Count: 21
+Density: 2",end_turn,,,485,572,20
+844,12,1,"Count: 12
+Density: 1",end_turn,,,430,195,12
+849,211,2,"Count: 211
+Density: 2",end_turn,,,485,163,211
+850,96,2,"Count: 96
+
+Density: 2",end_turn,,,447,104,15
+852,74,2,"Count: 74
+Density: 2",end_turn,,,447,330,71
+855,8,1,"Count: 8
+Density: 1",end_turn,,,447,322,7
+857,312,2,"Count: 312
+Density: 2",end_turn,,,485,191,287
+859,59,2,"Count: 59
+
+Density: 2",end_turn,,,447,266,61
+867,10,1,"Count: 10
+Density: 1",end_turn,,,485,396,8
+868,11,1,"Count: 11
+Density: 1",end_turn,,,485,415,4
+871,45,2,"Count: 45
+
+Density: 2",end_turn,,,485,289,4
+872,11,1,"Count: 11
+Density: 1",end_turn,,,504,418,7
+873,500,2,"Count: 500
+
+Density: 2",end_turn,,,447,192,11
+875,48,1,"Count: 48
+
+Density: 1",end_turn,,,314,237,52
+878,10,1,"Count: 10
+Density: 1",end_turn,,,447,435,9
+879,24,2,"Count: 24
+Density: 2",end_turn,,,428,255,7
+880,97,2,"Count: 97
+Density: 2",end_turn,,,425,123,6
+881,135,2,"Count: 135
+Density: 2",end_turn,,,485,126,40
+882,271,2,"Count: 271
+
+Density: 2",end_turn,,,485,158,274
+884,262,2,"Count: 262
+Density: 2",end_turn,,,504,114,234
+887,21,1,"Count: 21
+Density: 1",end_turn,,,485,311,21
+889,30,1,"Count: 30
+
+Density: 1",end_turn,,,308,208,1
+890,27,2,"Count: 27
+
+Density: 2",end_turn,,,485,274,9
+891,236,2,"Count: 236
+
+Density: 2",end_turn,,,485,201,224
+895,2400,2,"Count: 2400
+Density: 2",end_turn,,,485,147,57
+897,38,1,"Count: 38
+Density: 1",end_turn,,,504,458,38
+900,135,2,"Count: 135
+
+Density: 2",end_turn,,,485,141,100
+906,350,2,"Count: 350
+
+Density: 2",end_turn,,,485,122,2
+907,46,2,"Count: 46
+
+Density: 2",end_turn,,,504,109,4
+911,170,2,"Count: 170
+Density: 2",end_turn,,,428,110,50
+915,176,2,"Count: 176
+Density: 2",end_turn,,,485,184,81
+916,60,2,"Count: 60
+Density: 2",end_turn,,,485,243,64
+919,118,2,"Count: 118
+Density: 2",end_turn,,,485,175,106
+925,58,2,"Count: 58
+
+Density: 2",end_turn,,,447,295,11
+926,20,2,"Count: 20
+
+Density: 2",end_turn,,,485,706,17
+927,58,2,"Count: 58
+Density: 2",end_turn,,,390,208,64
+928,320,2,"Count: 320
+Density: 2",end_turn,,,447,139,300
+931,130,2,"Count: 130
+
+Density: 2",end_turn,,,436,212,80
+934,180,2,"Count: 180
+Density: 2",end_turn,,,390,137,21
+935,128,2,"Count: 128
+Density: 2",end_turn,,,485,152,122
+936,172,2,"Count: 172
+
+Density: 2",end_turn,,,485,133,169
+940,203,2,"Count: 203
+
+Density: 2",end_turn,,,504,141,196
+941,92,2,"Count: 92
+
+Density: 2",end_turn,,,447,108,50
+944,131,2,"Count: 131
+Density: 2",end_turn,,,485,150,129
+946,16,1,"Count: 16
+
+Density: 1",end_turn,,,504,457,16
+949,1650,2,"Count: 1650
+
+Density: 2",end_turn,,,447,109,176
+952,900,2,"Count: 900
+Density: 2",end_turn,,,466,329,300
+957,120,2,"Count: 120
+Density: 2",end_turn,,,485,153,105
+958,26,1,"Count: 26
+Density: 1",end_turn,,,542,631,26
+965,215,2,"Count: 215
+Density: 2",end_turn,,,447,205,144
+968,240,2,"Count: 240
+
+Density: 2",end_turn,,,485,151,143
+970,4850,2,"Count: 4850
+Density: 2",end_turn,,,409,137,78
+975,52,2,"Count: 52
+
+Density: 2",end_turn,,,504,304,50
+978,112,2,"Count: 112
+Density: 2",end_turn,,,447,206,105
+985,52,2,"Count: 52
+
+Density: 2",end_turn,,,352,175,37
+990,36,2,"Count: 36
+Density: 2",end_turn,,,428,380,40
+991,1200,2,"Count: 1200
+Density: 2",end_turn,,,485,107,300
+992,190,2,"Count: 190
+
+Density: 2",end_turn,,,447,308,102
+993,95,2,"Count: 95
+
+Density: 2",end_turn,,,409,88,98
+997,60,2,"Count: 60
+Density: 2",end_turn,,,447,138,50
+999,17,2,"Count: 17
+Density: 2",end_turn,,,466,687,17
+1007,118,2,"Count: 118
+Density: 2",end_turn,,,447,13,125
+1009,17,1,"Count: 17
+Density: 1",end_turn,,,504,628,12
+1013,300,2,"Count: 300
+Density: 2",end_turn,,,485,145,300
+1016,24,2,"Count: 24
+Density: 2",end_turn,,,447,302,22
+1019,16,2,"Count: 16
+Density: 2",end_turn,,,485,357,15
+1022,11,1,"Count: 11
+Density: 1",end_turn,,,504,557,11
+1025,55,2,"Count: 55
+
+Density: 2",end_turn,,,504,311,29
+1026,42,2,"Count: 42
+Density: 2",end_turn,,,485,371,15
+1027,178,2,"Count: 178
+Density: 2",end_turn,,,485,127,178
+1029,34,2,"Count: 34
+Density: 2",end_turn,,,485,527,28
+1033,45,2,"Count: 45
+Density: 2",end_turn,,,466,273,30
+1034,152,2,"Count: 152
+
+Density: 2",end_turn,,,447,134,45
+1036,23,2,"Count: 23
+Density: 2",end_turn,,,409,452,24
+1043,42,2,"Count: 42
+
+Density: 2",end_turn,,,485,253,40
+1044,171,2,"Count: 171
+
+Density: 2",end_turn,,,504,158,174
+1045,130,2,"Count: 130
+
+Density: 2",end_turn,,,409,157,96
+1047,47,2,"Count: 47
+Density: 2",end_turn,,,447,904,49
+1049,8000,2,"Count: 8000
+
+Density: 2",end_turn,,,466,14,300
+1051,45,2,"Count: 45
+
+Density: 2",end_turn,,,378,178,8
+1052,284,2,"Count: 284
+
+Density: 2",end_turn,,,428,129,284
+1056,150,2,"Count: 150
+
+Density: 2",end_turn,,,447,155,110
+1058,1200,2,"Count: 1200
+Density: 2",end_turn,,,485,163,300
+1062,210,2,"Count: 210
+Density: 2",end_turn,,,466,130,125
+1065,136,2,"Count: 136
+Density: 2",end_turn,,,485,170,83
+1066,68,2,"Count: 68
+Density: 2",end_turn,,,485,143,28
+1068,320,2,"Count: 320
+Density: 2",end_turn,,,466,142,300
+1075,180,2,"Count: 180
+
+Density: 2",end_turn,,,425,109,24
+1077,6500,2,"Count: 6500
+
+Density: 2",end_turn,,,485,134,300
+1080,340,2,"Count: 340
+
+Density: 2",end_turn,,,447,215,300
+1083,230,2,"Count: 230
+Density: 2",end_turn,,,390,169,1
+1086,7,0,"Count: 7
+Density: 0",end_turn,,,466,261,4
+1088,80,2,"Count: 80
+
+Density: 2",end_turn,,,504,155,76
+1089,190,2,"Count: 190
+Density: 2",end_turn,,,485,189,77
+1090,130,2,"Count: 130
+Density: 2",end_turn,,,504,145,56
+1094,250,2,"Count: 250
+Density: 2",end_turn,,,485,107,12
+1101,47,1,"Count: 47
+Density: 1",end_turn,,,447,248,47
+1102,150,2,"Count: 150
+
+Density: 2",end_turn,,,371,177,138
+1104,112,2,"Count: 112
+
+Density: 2",end_turn,,,485,137,42
+1106,264,2,"Count: 264
+
+Density: 2",end_turn,,,485,179,238
+1109,210,2,"Count: 210
+
+Density: 2",end_turn,,,485,150,197
+1112,540,2,"Count: 540
+Density: 2",end_turn,,,409,193,300
+1118,900,2,"Count: 900
+
+Density: 2",end_turn,,,428,256,228
+1122,112,2,"Count: 112
+Density: 2",end_turn,,,447,13,81
+1123,260,2,"Count: 260
+Density: 2",end_turn,,,466,326,7
+1130,262,2,"Count: 262
+
+Density: 2",end_turn,,,485,182,135
+1131,238,2,"Count: 238
+Density: 2",end_turn,,,447,100,225
+1133,218,2,"Count: 218
+
+Density: 2",end_turn,,,504,126,213
+1136,218,2,"Count: 218
+Density: 2",end_turn,,,485,133,206
+1141,1500,2,"Count: 1500
+Density: 2",end_turn,,,485,157,36
+1149,70,2,"Count: 70
+Density: 2",end_turn,,,485,120,24
+1150,170,2,"Count: 170
+
+Density: 2",end_turn,,,504,113,23
+1152,85,2,"Count: 85
+Density: 2",end_turn,,,447,375,56
+1155,72,2,"Count: 72
+Density: 2",end_turn,,,447,13,68
+1162,82,2,"Count: 82
+
+Density: 2",end_turn,,,485,251,68
+1163,180,2,"Count: 180
+
+Density: 2",end_turn,,,428,126,9
+1165,62,2,"Count: 62
+Density: 2",end_turn,,,504,13,2
+1172,13,2,"Count: 13
+Density: 2",end_turn,,,504,516,7
+1185,40,1,"Count: 40
+Density: 1",end_turn,,,485,694,36
+1191,40,2,"Count: 40
+Density: 2",end_turn,,,485,514,32
+1195,2350,2,"Count: 2350
+
+Density: 2",end_turn,,,447,167,300
+1196,153,2,"Count: 153
+
+Density: 2",end_turn,,,447,163,153
+1198,11,1,"Count: 11
+Density: 1",end_turn,,,485,342,11
+1199,48,2,"Count: 48
+
+Density: 2",end_turn,,,485,286,31
+1200,17,1,"Count: 17
+
+Density: 1",end_turn,,,485,773,12
+1203,38,2,"Count: 38
+Density: 2",end_turn,,,504,385,25
+1210,252,2,"Count: 252
+
+Density: 2",end_turn,,,466,210,252
+1211,145,2,"Count: 145
+
+Density: 2",end_turn,,,352,294,72
+1216,118,2,"Count: 118
+Density: 2",end_turn,,,447,13,117
+1218,250,2,"Count: 250
+Density: 2",end_turn,,,355,129,54
+1222,412,2,"Count: 412
+
+Density: 2",end_turn,,,447,142,7
+1224,20,2,"Count: 20
+Density: 2",end_turn,,,485,339,18
+1231,180,2,"Count: 180
+
+Density: 2",end_turn,,,447,139,43
+1237,150,2,"Count: 150
+
+Density: 2",end_turn,,,428,158,71
+1239,96,2,"Count: 96
+
+Density: 2",end_turn,,,485,209,133
+1245,31,2,"Count: 31
+
+Density: 2",end_turn,,,485,297,31
+1246,40,2,"Count: 40
+Density: 2",end_turn,,,485,443,40
+1250,160,2,"Count: 160
+
+Density: 2",end_turn,,,333,174,135
+1251,58,2,"Count: 58
+
+Density: 2",end_turn,,,447,174,45
+1252,52,1,"Count: 52
+
+Density: 1",end_turn,,,485,216,57
+1254,123,2,"Count: 123
+
+Density: 2",end_turn,,,352,160,123
+1258,164,2,"Count: 164
+Density: 2",end_turn,,,485,13,159
+1259,5200,2,"Count: 5200
+Density: 2",end_turn,,,485,124,300
+1265,135,2,"Count: 135
+Density: 2",end_turn,,,485,130,131
+1266,5,0,"Count: 5
+Density: 0",end_turn,,,428,95,2
+1269,21,1,"Count: 21
+
+Density: 1",end_turn,,,504,362,13
+1271,350,2,"Count: 350
+
+Density: 2",end_turn,,,466,199,77
+1272,420,2,"Count: 420
+
+Density: 2",end_turn,,,485,153,166
+1273,82,2,"Count: 82
+Density: 2",end_turn,,,485,209,79
+1277,68,2,"Count: 68
+Density: 2",end_turn,,,447,149,16
+1284,3000,2,"Count: 3000
+Density: 2",end_turn,,,428,168,300
+1286,26,2,"Count: 26
+Density: 2",end_turn,,,485,393,26
+1291,10,1,"Count: 10
+Density: 1",end_turn,,,485,317,10
+1293,60,2,"Count: 60
+Density: 2",end_turn,,,454,228,55
+1295,63,2,"Count: 63
+
+Density: 2",end_turn,,,447,113,56
+1297,48,2,"Count: 48
+Density: 2",end_turn,,,466,204,46
+1301,20,2,"Count: 20
+
+Density: 2",end_turn,,,409,428,20
+1309,78,2,"Count: 78
+Density: 2",end_turn,,,428,318,44
+1314,20,1,"Count: 20
+Density: 1",end_turn,,,447,342,2
+1317,218,2,"Count: 218
+Density: 2",end_turn,,,447,156,204
+1322,215,2,"Count: 215
+
+Density: 2",end_turn,,,485,170,165
+1327,150,2,"Count: 150
+Density: 2",end_turn,,,485,196,21
+1329,150,2,"Count: 150
+
+Density: 2",end_turn,,,485,176,26
+1330,48,2,"Count: 48
+Density: 2",end_turn,,,447,141,15
+1332,214,2,"Count: 214
+
+Density: 2",end_turn,,,409,101,212
+1335,40,1,"Count: 40
+Density: 1",end_turn,,,485,368,39
+1336,640,2,"Count: 640
+Density: 2",end_turn,,,466,134,17
+1337,12,1,"Count: 12
+
+Density: 1",end_turn,,,485,322,11
+1338,45,2,"Count: 45
+Density: 2",end_turn,,,485,299,4
+1340,170,2,"Count: 170
+
+Density: 2",end_turn,,,447,140,69
+1343,4200,2,"Count: 4200
+Density: 2",end_turn,,,466,143,26
+1346,38,2,"Count: 38
+Density: 2",end_turn,,,485,242,8
+1347,62,2,"Count: 62
+Density: 2",end_turn,,,466,154,60
+1351,142,2,"Count: 142
+Density: 2",end_turn,,,447,135,61
+1354,45,2,"Count: 45
+Density: 2",end_turn,,,504,264,19
+1358,24,2,"Count: 24
+Density: 2",end_turn,,,428,400,15
+1359,127,2,"Count: 127
+Density: 2",end_turn,,,409,13,113
+1361,182,2,"Count: 182
+Density: 2",end_turn,,,504,102,10
+1365,160,2,"Count: 160
+
+Density: 2",end_turn,,,447,142,53
+1366,118,2,"Count: 118
+
+Density: 2",end_turn,,,447,339,118
+1371,44,2,"Count: 44
+Density: 2",end_turn,,,485,620,30
+1373,33,2,"Count: 33
+
+Density: 2",end_turn,,,485,268,35
+1379,320,2,"Count: 320
+
+Density: 2",end_turn,,,346,114,38
+1382,83,2,"Count: 83
+
+Density: 2",end_turn,,,485,190,87
+1383,72,2,"Count: 72
+Density: 2",end_turn,,,485,124,10
+1389,120,2,"Count: 120
+Density: 2",end_turn,,,485,13,55
+1390,351,2,"Count: 351
+
+Density: 2",end_turn,,,504,196,239
+1393,420,2,"Count: 420
+Density: 2",end_turn,,,466,137,18
+1394,370,2,"Count: 370
+Density: 2",end_turn,,,447,133,98
+1395,120,2,"Count: 120
+Density: 2",end_turn,,,504,94,6
+1399,125,2,"Count: 125
+Density: 2",end_turn,,,485,143,119
+1400,312,2,"Count: 312
+Density: 2",end_turn,,,340,226,103
+1402,24,1,"Count: 24
+Density: 1",end_turn,,,485,345,15
+1411,27,1,"Count: 27
+Density: 1",end_turn,,,447,379,26
+1415,300,2,"Count: 300
+
+Density: 2",end_turn,,,447,177,256
+1417,55,2,"Count: 55
+Density: 2",end_turn,,,523,172,19
+1418,45,1,"Count: 45
+Density: 1",end_turn,,,485,154,7
+1419,62,2,"Count: 62
+
+Density: 2",end_turn,,,447,278,55
+1421,1200,2,"Count: 1200
+
+Density: 2",end_turn,,,485,235,300
+1422,8,1,"Count: 8
+Density: 1",end_turn,,,447,313,2
+1428,27,1,"Count: 27
+Density: 1",end_turn,,,466,406,27
+1432,46,2,"Count: 46
+Density: 2",end_turn,,,447,273,46
+1438,160,2,"Count: 160
+
+Density: 2",end_turn,,,428,159,57
+1439,84,2,"Count: 84
+Density: 2",end_turn,,,447,238,78
+1442,25,1,"Count: 25
+
+Density: 1",end_turn,,,409,712,25
+1444,152,2,"Count: 152
+
+Density: 2",end_turn,,,485,145,147
+1446,412,2,"Count: 412
+
+Density: 2",end_turn,,,428,134,136
+1450,12,1,"Count: 12
+
+Density: 1",end_turn,,,485,466,8
+1451,65,2,"Count: 65
+Density: 2",end_turn,,,485,187,53
+1455,190,2,"Count: 190
+
+Density: 2",end_turn,,,485,113,28
+1456,36,2,"Count: 36
+Density: 2",end_turn,,,314,339,33
+1458,97,2,"Count: 97
+
+Density: 2",end_turn,,,485,171,97
+1465,112,2,"Count: 112
+
+Density: 2",end_turn,,,561,168,83
+1466,9,1,"Count: 9
+Density: 1",end_turn,,,447,255,4
+1470,60,2,"Count: 60
+Density: 2",end_turn,,,447,207,50
+1474,318,2,"Count: 318
+
+Density: 2",end_turn,,,485,250,241
+1476,151,2,"Count: 151
+Density: 2",end_turn,,,428,127,144
+1479,58,2,"Count: 58
+Density: 2",end_turn,,,447,226,50
+1480,14,1,"Count: 14
+Density: 1",end_turn,,,504,312,13
+1481,170,2,"Count: 170
+
+Density: 2",end_turn,,,428,136,127
+1483,30,1,"Count: 30
+Density: 1",end_turn,,,466,854,30
+1484,4,0,"Count: 4
+Density: 0",end_turn,,,459,136,1
+1485,13,1,"Count: 13
+Density: 1",end_turn,,,428,434,2
+1486,97,2,"Count: 97
+
+Density: 2",end_turn,,,428,156,97
+1488,45,1,"Count: 45
+Density: 1",end_turn,,,447,399,22
+1489,310,2,"Count: 310
+
+Density: 2",end_turn,,,447,145,292
+1490,60,2,"Count: 60
+Density: 2",end_turn,,,485,141,56
+1492,42,2,"Count: 42
+Density: 2",end_turn,,,352,245,10
+1493,26,2,"Count: 26
+
+Density: 2",end_turn,,,504,331,26
+1494,14,2,"Count: 14
+Density: 2",end_turn,,,485,212,5
+1496,24,1,"Count: 24
+Density: 1",end_turn,,,485,366,4
+1499,30,2,"Count: 30
+Density: 2",end_turn,,,485,414,35
+1502,412,2,"Count: 412
+Density: 2",end_turn,,,466,98,0
+1506,100,2,"Count: 100
+
+Density: 2",end_turn,,,371,301,100
+1507,420,2,"Count: 420
+
+Density: 2",end_turn,,,447,146,300
+1510,2500,2,"Count: 2500
+
+Density: 2",end_turn,,,409,307,41
+1512,36,1,"Count: 36
+Density: 1",end_turn,,,390,473,36
+1515,480,2,"Count: 480
+Density: 2",end_turn,,,447,13,250
+1517,36,2,"Count: 36
+
+Density: 2",end_turn,,,485,332,36
+1518,38,1,"Count: 38
+Density: 1",end_turn,,,466,271,8
+1519,6,1,"Count: 6
+Density: 1",end_turn,,,371,200,5
+1522,152,2,"Count: 152
+
+Density: 2",end_turn,,,352,134,80
+1523,84,2,"Count: 84
+Density: 2",end_turn,,,599,247,84
+1527,20,2,"Count: 20
+Density: 2",end_turn,,,504,437,9
+1529,28,2,"Count: 28
+
+Density: 2",end_turn,,,485,412,16
+1531,312,2,"Count: 312
+Density: 2",end_turn,,,485,13,286
+1534,172,2,"Count: 172
+
+Density: 2",end_turn,,,447,99,176
+1536,412,2,"Count: 412
+
+Density: 2",end_turn,,,466,172,285
+1537,103,2,"Count: 103
+Density: 2",end_turn,,,485,252,102
+1545,47,2,"Count: 47
+Density: 2",end_turn,,,485,426,44
+1547,6,0,"Count: 6
+Density: 0",end_turn,,,485,374,6
+1548,380,2,"Count: 380
+
+Density: 2",end_turn,,,352,137,74
+1550,14,1,"Count: 14
+Density: 1",end_turn,,,430,400,7
+1556,127,2,"Count: 127
+Density: 2",end_turn,,,485,101,129
+1558,68,2,"Count: 68
+Density: 2",end_turn,,,447,149,46
+1559,412,2,"Count: 412
+Density: 2",end_turn,,,447,13,300
+1563,112,2,"Count: 112
+
+Density: 2",end_turn,,,371,154,8
+1565,287,2,"Count: 287
+
+Density: 2",end_turn,,,447,116,300
+1567,55,2,"Count: 55
+Density: 2",end_turn,,,485,198,59
+1568,75,2,"Count: 75
+Density: 2",end_turn,,,390,131,26
+1572,172,2,"Count: 172
+Density: 2",end_turn,,,466,129,169
+1575,10,1,"Count: 10
+Density: 1",end_turn,,,447,563,9
+1577,245,2,"Count: 245
+Density: 2",end_turn,,,485,104,239
+1580,63,2,"Count: 63
+Density: 2",end_turn,,,485,238,51
+1583,48,2,"Count: 48
+Density: 2",end_turn,,,485,350,45
+1586,108,2,"Count: 108
+Density: 2",end_turn,,,447,173,82
+1589,22,1,"Count: 22
+Density: 1",end_turn,,,504,433,5
+1590,88,2,"Count: 88
+
+Density: 2",end_turn,,,390,156,76
+1591,102,2,"Count: 102
+Density: 2",end_turn,,,447,179,102
+1592,88,2,"Count: 88
+Density: 2",end_turn,,,390,146,90
+1594,14,1,"Count: 14
+
+Density: 1",end_turn,,,414,632,13
+1595,15,2,"Count: 15
+
+Density: 2",end_turn,,,447,190,4
+1600,90,2,"Count: 90
+Density: 2",end_turn,,,485,186,63
+1602,11,1,"Count: 11
+Density: 1",end_turn,,,436,403,9
+1605,52,1,"Count: 52
+
+Density: 1",end_turn,,,504,297,49
+1606,8,1,"Count: 8
+Density: 1",end_turn,,,485,406,4
+1615,50,2,"Count: 50
+Density: 2",end_turn,,,485,288,44
+1619,58,2,"Count: 58
+
+Density: 2",end_turn,,,403,184,52
+1621,9,1,"Count: 9
+
+Density: 1",end_turn,,,447,422,8
+1624,68,2,"Count: 68
+
+Density: 2",end_turn,,,454,188,21
+1625,412,2,"Count: 412
+Density: 2",end_turn,,,466,13,300
+1635,2000,2,"Count: 2000
+
+Density: 2",end_turn,,,485,241,92
+1638,54,2,"Count: 54
+
+Density: 2",end_turn,,,447,196,57
+1644,40,2,"Count: 40
+Density: 2",end_turn,,,485,315,26
+1648,14,2,"Count: 14
+
+Density: 2",end_turn,,,485,428,4
+1650,350,2,"Count: 350
+Density: 2",end_turn,,,504,165,52
+1651,158,2,"Count: 158
+
+Density: 2",end_turn,,,485,215,139
+1652,142,2,"Count: 142
+Density: 2",end_turn,,,447,131,37
+1656,384,2,"Count: 384
+
+Density: 2",end_turn,,,466,120,271
+1660,147,2,"Count: 147
+Density: 2",end_turn,,,466,128,24
+1661,1,0,"Count: 1
+Density: 0",end_turn,,,447,77,0
+1663,52,2,"Count: 52
+Density: 2",end_turn,,,472,171,48
+1666,285,2,"Count: 285
+
+Density: 2",end_turn,,,485,115,108
+1667,98,2,"Count: 98
+Density: 2",end_turn,,,504,184,52
+1670,640,2,"Count: 640
+Density: 2",end_turn,,,485,148,197
+1671,32,1,"Count: 32
+
+Density: 1",end_turn,,,447,472,31
+1674,45,1,"Count: 45
+Density: 1",end_turn,,,447,307,0
+1679,157,2,"Count: 157
+
+Density: 2",end_turn,,,485,132,151
+1680,64,2,"Count: 64
+
+Density: 2",end_turn,,,504,182,62
+1681,17,2,"Count: 17
+
+Density: 2",end_turn,,,485,638,14
+1684,32,1,"Count: 32
+Density: 1",end_turn,,,485,544,21
+1689,12,1,"Count: 12
+Density: 1",end_turn,,,523,418,12
+1690,210,2,"Count: 210
+Density: 2",end_turn,,,447,143,150
+1695,30,2,"Count: 30
+Density: 2",end_turn,,,428,757,25
+1696,36,2,"Count: 36
+
+Density: 2",end_turn,,,485,362,36
+1705,84,2,"Count: 84
+Density: 2",end_turn,,,523,119,76
+1706,67,2,"Count: 67
+
+Density: 2",end_turn,,,485,136,63
+1712,2847,2,"Count: 2847
+Density: 2",end_turn,,,504,147,46
+1714,12,1,"Count: 12
+
+Density: 1",end_turn,,,485,572,12
+1715,170,2,"Count: 170
+
+Density: 2",end_turn,,,485,114,36
+1716,312,2,"Count: 312
+
+Density: 2",end_turn,,,447,112,294
+1719,37,2,"Count: 37
+
+Density: 2",end_turn,,,485,306,36
+1720,1200,2,"Count: 1200
+
+Density: 2",end_turn,,,504,140,300
+1722,380,2,"Count: 380
+Density: 2",end_turn,,,472,255,9
+1725,31,1,"Count: 31
+Density: 1",end_turn,,,447,316,28
+1728,340,2,"Count: 340
+
+Density: 2",end_turn,,,485,152,126
+1730,120,1,"Count: 120
+Density: 1",end_turn,,,466,405,1
+1731,118,2,"Count: 118
+Density: 2",end_turn,,,504,155,97
+1733,8,1,"Count: 8
+Density: 1",end_turn,,,466,270,8
+1737,86,2,"Count: 86
+Density: 2",end_turn,,,485,148,88
+1738,38,2,"Count: 38
+
+Density: 2",end_turn,,,466,231,37
+1740,5000,2,"Count: 5000
+
+Density: 2",end_turn,,,485,171,51
+1742,4,0,"Count: 4
+Density: 0",end_turn,,,485,108,4
+1744,28,2,"Count: 28
+
+Density: 2",end_turn,,,485,309,15
+1746,66,2,"Count: 66
+Density: 2",end_turn,,,447,199,66
+1758,119,2,"Count: 119
+
+Density: 2",end_turn,,,428,140,119
+1762,650,2,"Count: 650
+Density: 2",end_turn,,,485,169,33
+1765,20,1,"Count: 20
+Density: 1",end_turn,,,447,346,5
+1769,11,1,"Count: 11
+Density: 1",end_turn,,,485,341,10
+1770,262,2,"Count: 262
+Density: 2",end_turn,,,447,165,233
+1771,9,1,"Count: 9
+Density: 1",end_turn,,,447,347,2
+1773,87,2,"Count: 87
+Density: 2",end_turn,,,485,138,50
+1775,65,2,"Count: 65
+Density: 2",end_turn,,,447,266,1
+1779,870,2,"Count: 870
+
+Density: 2",end_turn,,,485,124,300
+1780,31,2,"Count: 31
+Density: 2",end_turn,,,466,400,20
+1783,170,2,"Count: 170
+
+Density: 2",end_turn,,,409,155,139
+1784,400,2,"Count: 400
+
+Density: 2",end_turn,,,447,183,41
+1794,420,2,"Count: 420
+
+Density: 2",end_turn,,,447,165,4
+1795,2800,2,"Count: 2800
+
+Density: 2",end_turn,,,504,186,300
+1796,280,2,"Count: 280
+Density: 2",end_turn,,,391,119,38
+1801,85,2,"Count: 85
+Density: 2",end_turn,,,466,181,60
+1802,13,1,"Count: 13
+
+Density: 1",end_turn,,,485,401,9
+1810,79,2,"Count: 79
+
+Density: 2",end_turn,,,485,148,82
+1811,320,2,"Count: 320
+
+Density: 2",end_turn,,,485,152,38
+1814,150,2,"Count: 150
+Density: 2",end_turn,,,485,132,10
+1815,14,1,"Count: 14
+
+Density: 1",end_turn,,,485,565,12
+1818,340,2,"Count: 340
+Density: 2",end_turn,,,447,149,300
+1819,350,2,"Count: 350
+Density: 2",end_turn,,,485,221,25
+1826,265,2,"Count: 265
+
+Density: 2",end_turn,,,485,158,116
+1827,112,2,"Count: 112
+Density: 2",end_turn,,,447,171,82
+1828,368,2,"Count: 368
+
+Density: 2",end_turn,,,447,139,300
+1830,486,2,"Count: 486
+
+Density: 2",end_turn,,,447,271,246
+1831,240,2,"Count: 240
+
+Density: 2",end_turn,,,504,165,8
+1834,14,1,"Count: 14
+Density: 1",end_turn,,,314,191,12
+1835,65,2,"Count: 65
+
+Density: 2",end_turn,,,447,191,30
+1838,24,1,"Count: 24
+Density: 1",end_turn,,,466,251,7
+1841,15,1,"Count: 15
+Density: 1",end_turn,,,485,269,11
+1851,38,2,"Count: 38
+
+Density: 2",end_turn,,,447,240,25
+1852,125,2,"Count: 125
+
+Density: 2",end_turn,,,485,122,45
+1853,31,2,"Count: 31
+Density: 2",end_turn,,,504,403,24
+1856,180,2,"Count: 180
+
+Density: 2",end_turn,,,466,146,57
+1859,30,1,"Count: 30
+Density: 1",end_turn,,,485,413,31
+1861,27,2,"Count: 27
+Density: 2",end_turn,,,485,398,27
+1862,150,2,"Count: 150
+Density: 2",end_turn,,,485,139,40
+1867,163,2,"Count: 163
+Density: 2",end_turn,,,485,147,148
+1868,38,1,"Count: 38
+Density: 1",end_turn,,,447,547,35
+1869,16,1,"Count: 16
+
+Density: 1",end_turn,,,447,336,16
+1870,13,1,"Count: 13
+Density: 1",end_turn,,,447,357,3
+1872,20,1,"Count: 20
+
+Density: 1",end_turn,,,485,416,19
+1873,85,2,"Count: 85
+Density: 2",end_turn,,,466,222,33
+1882,30,2,"Count: 30
+
+Density: 2",end_turn,,,466,325,28
+1884,162,2,"Count: 162
+
+Density: 2",end_turn,,,485,154,149
+1892,180,2,"Count: 180
+Density: 2",end_turn,,,504,133,42
+1895,42,2,"Count: 42
+Density: 2",end_turn,,,409,511,29
+1897,36,2,"Count: 36
+Density: 2",end_turn,,,371,660,35
+1901,44,2,"Count: 44
+
+Density: 2",end_turn,,,504,283,44
+1903,4800,2,"Count: 4800
+
+Density: 2",end_turn,,,485,136,300
+1904,420,2,"Count: 420
+Density: 2",end_turn,,,428,160,300
+1906,107,2,"Count: 107
+
+Density: 2",end_turn,,,485,114,109
+1907,850,2,"Count: 850
+
+Density: 2",end_turn,,,485,176,300
+1911,75,1,"Count: 75
+Density: 1",end_turn,,,466,343,300
+1912,11,1,"Count: 11
+Density: 1",end_turn,,,447,299,5
+1914,3000,2,"Count: 3000
+
+Density: 2",end_turn,,,485,278,300
+1915,550,2,"Count: 550
+Density: 2",end_turn,,,340,128,3
+1922,2350,2,"Count: 2350
+Density: 2",end_turn,,,485,148,142
+1923,310,2,"Count: 310
+
+Density: 2",end_turn,,,504,116,300
+1926,34,1,"Count: 34
+
+Density: 1",end_turn,,,447,598,21
+1927,2000,2,"Count: 2000
+Density: 2",end_turn,,,447,244,300
+1930,16,1,"Count: 16
+Density: 1",end_turn,,,485,259,3
+1932,121,2,"Count: 121
+
+Density: 2",end_turn,,,504,136,121
+1937,320,2,"Count: 320
+Density: 2",end_turn,,,447,140,61
+1942,48,1,"Count: 48
+
+Density: 1",end_turn,,,485,709,46
+1943,2500,2,"Count: 2500
+Density: 2",end_turn,,,561,178,0
+1944,48,2,"Count: 48
+Density: 2",end_turn,,,485,318,32
+1945,105,2,"Count: 105
+Density: 2",end_turn,,,364,146,92
+1946,95,2,"Count: 95
+Density: 2",end_turn,,,447,125,18
+1949,19,1,"Count: 19
+Density: 1",end_turn,,,428,374,16
+1952,1800,2,"Count: 1800
+
+Density: 2",end_turn,,,466,150,300
+1960,85,2,"Count: 85
+Density: 2",end_turn,,,485,166,56
+1962,236,2,"Count: 236
+Density: 2",end_turn,,,409,13,201
+1965,160,2,"Count: 160
+
+Density: 2",end_turn,,,447,148,41
+1967,44,2,"Count: 44
+
+Density: 2",end_turn,,,333,202,44
+1973,145,2,"Count: 145
+
+Density: 2",end_turn,,,504,166,118
+1974,85,2,"Count: 85
+
+Density: 2",end_turn,,,485,125,33
+1979,150,2,"Count: 150
+
+Density: 2",end_turn,,,466,207,62
+1981,62,2,"Count: 62
+Density: 2",end_turn,,,466,134,23
+1982,412,2,"Count: 412
+
+Density: 2",end_turn,,,371,133,86
+1984,30,2,"Count: 30
+
+Density: 2",end_turn,,,485,520,25
+1985,130,2,"Count: 130
+Density: 2",end_turn,,,447,122,46
+1986,87,2,"Count: 87
+
+Density: 2",end_turn,,,428,134,84
+1990,16,1,"Count: 16
+Density: 1",end_turn,,,485,255,0
+1994,260,2,"Count: 260
+Density: 2",end_turn,,,504,149,53
+1996,1400,2,"Count: 1400
+Density: 2",end_turn,,,485,159,300
+2002,96,2,"Count: 96
+
+Density: 2",end_turn,,,504,124,96
+2010,162,2,"Count: 162
+
+Density: 2",end_turn,,,447,113,51
+2011,90,2,"Count: 90
+
+Density: 2",end_turn,,,485,159,85
+2013,95,2,"Count: 95
+
+Density: 2",end_turn,,,428,140,31
+2014,450,2,"Count: 450
+Density: 2",end_turn,,,485,116,100
+2015,78,2,"Count: 78
+Density: 2",end_turn,,,333,262,79
+2016,7,1,"Count: 7
+Density: 1",end_turn,,,485,285,5
+2018,380,2,"Count: 380
+
+Density: 2",end_turn,,,485,110,3
+2019,73,2,"Count: 73
+Density: 2",end_turn,,,447,123,71
+2021,42,2,"Count: 42
+
+Density: 2",end_turn,,,447,389,26
+2025,162,2,"Count: 162
+Density: 2",end_turn,,,504,129,162
+2032,2400,2,"Count: 2400
+
+Density: 2",end_turn,,,352,117,300
+2042,88,2,"Count: 88
+Density: 2",end_turn,,,490,132,55
+2047,180,2,"Count: 180
+Density: 2",end_turn,,,428,112,54
+2050,25,1,"Count: 25
+Density: 1",end_turn,,,447,389,24
+2052,66,2,"Count: 66
+Density: 2",end_turn,,,466,125,65
+2054,260,2,"Count: 260
+Density: 2",end_turn,,,504,162,158
+2056,650,2,"Count: 650
+
+Density: 2",end_turn,,,447,153,300
+2061,117,2,"Count: 117
+
+Density: 2",end_turn,,,485,133,66
+2069,78,2,"Count: 78
+Density: 2",end_turn,,,504,332,54
+2070,4200,2,"Count: 4200
+Density: 2",end_turn,,,466,197,9
+2071,78,2,"Count: 78
+
+Density: 2",end_turn,,,447,179,56
+2076,120,2,"Count: 120
+
+Density: 2",end_turn,,,504,243,23
+2077,250,2,"Count: 250
+Density: 2",end_turn,,,485,148,230
+2079,30,2,"Count: 30
+
+Density: 2",end_turn,,,447,547,30
+2082,6,1,"Count: 6
+Density: 1",end_turn,,,485,13,6
+2083,9,2,"Count: 9
+Density: 2",end_turn,,,504,569,6
+2084,70,2,"Count: 70
+Density: 2",end_turn,,,408,162,8
+2087,20,1,"Count: 20
+Density: 1",end_turn,,,485,306,19
+2089,20,2,"Count: 20
+
+Density: 2",end_turn,,,454,435,8
+2090,312,2,"Count: 312
+Density: 2",end_turn,,,390,13,280
+2091,430,2,"Count: 430
+
+Density: 2",end_turn,,,314,139,136
+2099,11,0,"Count: 11
+Density: 0",end_turn,,,447,593,12
+2100,870,2,"Count: 870
+
+Density: 2",end_turn,,,485,210,300
+2102,178,2,"Count: 178
+Density: 2",end_turn,,,504,147,66
+2103,52,1,"Count: 52
+Density: 1",end_turn,,,333,342,53
+2104,22,1,"Count: 22
+Density: 1",end_turn,,,436,529,5
+2105,41,2,"Count: 41
+Density: 2",end_turn,,,504,307,47
+2116,150,2,"Count: 150
+
+Density: 2",end_turn,,,523,165,118
+2117,10,1,"Count: 10
+Density: 1",end_turn,,,504,582,7
+2118,110,2,"Count: 110
+Density: 2",end_turn,,,409,214,27
+2125,412,2,"Count: 412
+
+Density: 2",end_turn,,,542,118,111
+2134,15,1,"Count: 15
+Density: 1",end_turn,,,447,508,14
+2138,152,2,"Count: 152
+
+Density: 2",end_turn,,,447,141,145
+2143,350,2,"Count: 350
+Density: 2",end_turn,,,390,164,192
+2145,26,2,"Count: 26
+Density: 2",end_turn,,,504,492,29
+2150,36,1,"Count: 36
+
+Density: 1",end_turn,,,504,372,27
+2152,112,2,"Count: 112
+
+Density: 2",end_turn,,,428,131,39
+2153,45,2,"Count: 45
+Density: 2",end_turn,,,485,259,23
+2154,520,2,"Count: 520
+
+Density: 2",end_turn,,,485,202,300
+2156,1500,2,"Count: 1500
+Density: 2",end_turn,,,466,182,300
+2159,240,2,"Count: 240
+Density: 2",end_turn,,,333,180,111
+2160,138,2,"Count: 138
+Density: 2",end_turn,,,466,13,142
+2162,85,2,"Count: 85
+Density: 2",end_turn,,,504,180,56
+2166,183,2,"Count: 183
+
+Density: 2",end_turn,,,466,155,183
+2167,180,2,"Count: 180
+Density: 2",end_turn,,,333,106,55
+2168,90,2,"Count: 90
+
+Density: 2",end_turn,,,447,151,23
+2171,13,1,"Count: 13
+Density: 1",end_turn,,,504,596,13
+2173,18,2,"Count: 18
+Density: 2",end_turn,,,447,217,18
+2174,185,2,"Count: 185
+
+Density: 2",end_turn,,,373,188,40
+2176,245,2,"Count: 245
+
+Density: 2",end_turn,,,447,160,212
+2180,19,0,"Count: 19
+
+Density: 0",end_turn,,,466,332,16
+2182,45,1,"Count: 45
+
+Density: 1",end_turn,,,447,473,14
+2187,18,1,"Count: 18
+Density: 1",end_turn,,,485,375,5
+2194,162,2,"Count: 162
+Density: 2",end_turn,,,447,149,156
+2196,7,1,"Count: 7
+Density: 1",end_turn,,,485,346,6
+2199,350,2,"Count: 350
+Density: 2",end_turn,,,466,167,72
+2203,2500,2,"Count: 2500
+
+Density: 2",end_turn,,,504,303,201
+2204,46,1,"Count: 46
+
+Density: 1",end_turn,,,371,202,47
+2205,34,2,"Count: 34
+Density: 2",end_turn,,,485,375,3
+2206,118,2,"Count: 118
+Density: 2",end_turn,,,485,155,25
+2208,74,2,"Count: 74
+Density: 2",end_turn,,,504,152,72
+2209,18,2,"Count: 18
+
+Density: 2",end_turn,,,447,380,14
+2211,20,1,"Count: 20
+Density: 1",end_turn,,,447,359,18
+2213,28,2,"Count: 28
+Density: 2",end_turn,,,504,458,35
+2217,75,1,"Count: 75
+
+Density: 1",end_turn,,,352,228,54
+2220,230,2,"Count: 230
+
+Density: 2",end_turn,,,485,133,7
+2223,236,2,"Count: 236
+Density: 2",end_turn,,,485,13,223
+2226,480,2,"Count: 480
+
+Density: 2",end_turn,,,428,138,300
+2227,0,0,"Count: 0
+Density: 0",end_turn,,,504,61,0
+2230,27,2,"Count: 27
+Density: 2",end_turn,,,485,360,27
+2231,165,2,"Count: 165
+Density: 2",end_turn,,,447,148,99
+2236,1400,2,"Count: 1400
+
+Density: 2",end_turn,,,485,150,300
+2246,14,1,"Count: 14
+
+Density: 1",end_turn,,,485,317,14
+2248,46,2,"Count: 46
+Density: 2",end_turn,,,485,386,42
+2249,64,2,"Count: 64
+Density: 2",end_turn,,,428,166,31
+2254,112,2,"Count: 112
+
+Density: 2",end_turn,,,466,137,48
+2255,137,2,"Count: 137
+Density: 2",end_turn,,,485,95,139
+2258,318,2,"Count: 318
+Density: 2",end_turn,,,447,147,43
+2260,105,2,"Count: 105
+Density: 2",end_turn,,,485,137,92
+2265,320,2,"Count: 320
+
+Density: 2",end_turn,,,409,141,74
+2269,6,1,"Count: 6
+Density: 1",end_turn,,,485,394,1
+2270,18,1,"Count: 18
+
+Density: 1",end_turn,,,485,508,4
+2272,1200,2,"Count: 1200
+Density: 2",end_turn,,,352,136,300
+2273,143,2,"Count: 143
+
+Density: 2",end_turn,,,352,163,22
+2285,35,2,"Count: 35
+Density: 2",end_turn,,,447,398,35
+2289,5,0,"Count: 5
+Density: 0",end_turn,,,485,397,4
+2298,140,2,"Count: 140
+Density: 2",end_turn,,,485,139,37
+2301,72,2,"Count: 72
+Density: 2",end_turn,,,466,182,12
+2302,45,1,"Count: 45
+Density: 1",end_turn,,,428,618,38
+2303,243,2,"Count: 243
+
+Density: 2",end_turn,,,428,137,196
+2304,320,2,"Count: 320
+Density: 2",end_turn,,,485,161,65
+2309,312,2,"Count: 312
+Density: 2",end_turn,,,504,13,300
+2312,6,0,"Count: 6
+Density: 0",end_turn,,,504,123,6
+2315,812,2,"Count: 812
+
+Density: 2",end_turn,,,428,173,210
+2317,80,2,"Count: 80
+Density: 2",end_turn,,,428,224,6
+2318,122,2,"Count: 122
+Density: 2",end_turn,,,447,156,124
+2322,2500,2,"Count: 2500
+
+Density: 2",end_turn,,,371,127,300
+2326,66,2,"Count: 66
+Density: 2",end_turn,,,485,104,66
+2329,340,2,"Count: 340
+
+Density: 2",end_turn,,,428,146,300
+2331,34,2,"Count: 34
+Density: 2",end_turn,,,485,352,37
+2332,85,2,"Count: 85
+
+Density: 2",end_turn,,,485,118,68
+2333,29,1,"Count: 29
+Density: 1",end_turn,,,485,292,29
+2338,165,2,"Count: 165
+Density: 2",end_turn,,,485,112,160
+2340,310,2,"Count: 310
+
+Density: 2",end_turn,,,466,149,300
+2345,480,2,"Count: 480
+Density: 2",end_turn,,,409,156,9
+2351,148,2,"Count: 148
+
+Density: 2",end_turn,,,409,188,62
+2353,76,2,"Count: 76
+Density: 2",end_turn,,,485,272,75
+2354,2400,2,"Count: 2400
+Density: 2",end_turn,,,504,153,0
+2355,310,2,"Count: 310
+
+Density: 2",end_turn,,,447,134,299
+2356,7,1,"Count: 7
+Density: 1",end_turn,,,504,205,0
+2358,312,2,"Count: 312
+
+Density: 2",end_turn,,,352,98,300
+2359,13,1,"Count: 13
+Density: 1",end_turn,,,447,438,11
+2360,274,2,"Count: 274
+
+Density: 2",end_turn,,,447,106,274
+2363,380,2,"Count: 380
+Density: 2",end_turn,,,485,186,300
+2365,85,2,"Count: 85
+Density: 2",end_turn,,,466,124,17
+2366,128,2,"Count: 128
+Density: 2",end_turn,,,485,162,135
+2367,236,2,"Count: 236
+
+Density: 2",end_turn,,,485,257,234
+2368,15,1,"Count: 15
+Density: 1",end_turn,,,485,474,8
+2372,40,1,"Count: 40
+
+Density: 1",end_turn,,,466,283,5
+2373,350,2,"Count: 350
+Density: 2",end_turn,,,485,163,50
+2374,42,2,"Count: 42
+Density: 2",end_turn,,,485,212,10
+2379,250,2,"Count: 250
+
+Density: 2",end_turn,,,485,172,90
+2389,118,2,"Count: 118
+
+Density: 2",end_turn,,,485,216,75
+2392,1,0,"Count: 1
+Density: 0",end_turn,,,466,13,1
+2395,118,2,"Count: 118
+Density: 2",end_turn,,,425,96,70
+2396,350,2,"Count: 350
+Density: 2",end_turn,,,523,185,125
+2399,55,2,"Count: 55
+Density: 2",end_turn,,,466,184,23
+2400,36,2,"Count: 36
+Density: 2",end_turn,,,447,377,36
+2401,65,2,"Count: 65
+
+Density: 2",end_turn,,,485,232,46
+2402,68,2,"Count: 68
+Density: 2",end_turn,,,599,147,9
+2404,179,2,"Count: 179
+
+Density: 2",end_turn,,,352,144,179
+2406,110,2,"Count: 110
+
+Density: 2",end_turn,,,485,132,6
+2408,412,2,"Count: 412
+Density: 2",end_turn,,,485,165,216
+2409,88,2,"Count: 88
+
+Density: 2",end_turn,,,352,193,88
+2413,231,2,"Count: 231
+
+Density: 2",end_turn,,,466,156,202
+2417,18,1,"Count: 18
+Density: 1",end_turn,,,485,393,12
+2420,380,2,"Count: 380
+Density: 2",end_turn,,,485,172,127
+2421,540,2,"Count: 540
+
+Density: 2",end_turn,,,504,127,252
+2423,12,1,"Count: 12
+Density: 1",end_turn,,,466,331,6
+2426,12,1,"Count: 12
+
+Density: 1",end_turn,,,485,371,7
+2429,96,2,"Count: 96
+Density: 2",end_turn,,,428,136,36
+2430,12,1,"Count: 12
+Density: 1",end_turn,,,485,388,8
+2431,105,2,"Count: 105
+Density: 2",end_turn,,,485,136,97
+2442,11,2,"Count: 11
+Density: 2",end_turn,,,447,433,10
+2447,42,2,"Count: 42
+Density: 2",end_turn,,,485,381,19
+2460,16,1,"Count: 16
+
+Density: 1",end_turn,,,428,239,16
+2461,193,2,"Count: 193
+
+Density: 2",end_turn,,,352,165,191
+2469,192,2,"Count: 192
+
+Density: 2",end_turn,,,466,203,186
+2470,318,2,"Count: 318
+
+Density: 2",end_turn,,,485,121,147
+2471,110,2,"Count: 110
+
+Density: 2",end_turn,,,428,192,55
+2475,50,2,"Count: 50
+Density: 2",end_turn,,,504,335,51
+2477,153,2,"Count: 153
+
+Density: 2",end_turn,,,371,131,153
+2478,52,2,"Count: 52
+Density: 2",end_turn,,,373,143,1
+2483,95,2,"Count: 95
+
+Density: 2",end_turn,,,428,302,2
+2488,15,1,"Count: 15
+Density: 1",end_turn,,,485,262,14
+2490,27,1,"Count: 27
+
+Density: 1",end_turn,,,504,447,32
+2493,250,2,"Count: 250
+
+Density: 2",end_turn,,,485,194,157
+2496,120,2,"Count: 120
+Density: 2",end_turn,,,485,165,75
+2497,240,2,"Count: 240
+
+Density: 2",end_turn,,,485,165,240
+2501,20,2,"Count: 20
+
+Density: 2",end_turn,,,504,460,19
+2502,150,2,"Count: 150
+Density: 2",end_turn,,,485,121,7
+2503,255,2,"Count: 255
+
+Density: 2",end_turn,,,504,212,223
+2510,265,2,"Count: 265
+
+Density: 2",end_turn,,,485,192,259
+2511,180,2,"Count: 180
+
+Density: 2",end_turn,,,485,138,43
+2513,110,2,"Count: 110
+Density: 2",end_turn,,,485,152,70
+2514,260,2,"Count: 260
+Density: 2",end_turn,,,409,155,225
+2516,118,2,"Count: 118
+
+Density: 2",end_turn,,,504,180,122
+2517,128,2,"Count: 128
+Density: 2",end_turn,,,485,284,96
+2518,470,2,"Count: 470
+
+Density: 2",end_turn,,,504,133,300
+2520,118,2,"Count: 118
+Density: 2",end_turn,,,466,116,115
+2521,450,2,"Count: 450
+
+Density: 2",end_turn,,,466,138,53
+2523,96,2,"Count: 96
+
+Density: 2",end_turn,,,447,219,66
+2527,218,2,"Count: 218
+Density: 2",end_turn,,,409,96,215
+2529,20,1,"Count: 20
+Density: 1",end_turn,,,504,367,20
+2533,62,2,"Count: 62
+Density: 2",end_turn,,,504,359,34
+2540,75,2,"Count: 75
+
+Density: 2",end_turn,,,447,172,33
+2542,4500,2,"Count: 4500
+
+Density: 2",end_turn,,,485,150,300
+2543,55,2,"Count: 55
+Density: 2",end_turn,,,599,246,12
+2544,31,1,"Count: 31
+Density: 1",end_turn,,,485,289,31
+2546,13,2,"Count: 13
+
+Density: 2",end_turn,,,485,497,3
+2547,42,2,"Count: 42
+Density: 2",end_turn,,,485,505,36
+2549,12,1,"Count: 12
+Density: 1",end_turn,,,485,610,11
+2553,850,2,"Count: 850
+Density: 2",end_turn,,,352,186,34
+2554,7,1,"Count: 7
+Density: 1",end_turn,,,504,13,7
+2558,152,2,"Count: 152
+Density: 2",end_turn,,,428,167,43
+2560,162,2,"Count: 162
+
+Density: 2",end_turn,,,466,103,156
+2561,19,1,"Count: 19
+Density: 1",end_turn,,,447,706,19
+2562,71,2,"Count: 71
+Density: 2",end_turn,,,409,260,71
+2563,31,2,"Count: 31
+Density: 2",end_turn,,,371,285,28
+2564,8,1,"Count: 8
+Density: 1",end_turn,,,485,255,5
+2565,420,2,"Count: 420
+Density: 2",end_turn,,,447,164,125
+2566,163,2,"Count: 163
+Density: 2",end_turn,,,447,13,163
+2567,120,2,"Count: 120
+Density: 2",end_turn,,,599,159,29
+2578,76,2,"Count: 76
+
+Density: 2",end_turn,,,485,141,76
+2579,141,2,"Count: 141
+
+Density: 2",end_turn,,,485,177,141
+2580,85,2,"Count: 85
+
+Density: 2",end_turn,,,504,331,72
+2584,40,2,"Count: 40
+Density: 2",end_turn,,,485,285,29
+2585,28,2,"Count: 28
+Density: 2",end_turn,,,485,364,28
+2586,22,2,"Count: 22
+Density: 2",end_turn,,,485,654,15
+2587,24,1,"Count: 24
+Density: 1",end_turn,,,485,932,20
+2590,118,2,"Count: 118
+Density: 2",end_turn,,,485,113,108
+2592,2500,2,"Count: 2500
+
+Density: 2",end_turn,,,428,135,300
+2593,17,1,"Count: 17
+
+Density: 1",end_turn,,,447,348,10
+2594,86,2,"Count: 86
+
+Density: 2",end_turn,,,485,174,86
+2602,176,2,"Count: 176
+
+Density: 2",end_turn,,,485,165,139
+2603,84,2,"Count: 84
+Density: 2",end_turn,,,485,168,86
+2604,4,0,"Count: 4
+
+Density: 0",end_turn,,,447,132,3
+2608,800,2,"Count: 800
+
+Density: 2",end_turn,,,447,222,205
+2611,56,2,"Count: 56
+
+Density: 2",end_turn,,,485,143,56
+2619,34,1,"Count: 34
+Density: 1",end_turn,,,504,544,34
+2621,28,2,"Count: 28
+
+Density: 2",end_turn,,,428,377,26
+2624,24,2,"Count: 24
+Density: 2",end_turn,,,485,325,3
+2628,260,2,"Count: 260
+
+Density: 2",end_turn,,,428,212,18
+2634,48,2,"Count: 48
+
+Density: 2",end_turn,,,504,263,24
+2636,290,2,"Count: 290
+
+Density: 2",end_turn,,,485,149,57
+2638,29,2,"Count: 29
+Density: 2",end_turn,,,504,483,29
+2639,148,2,"Count: 148
+
+Density: 2",end_turn,,,485,160,102
+2641,120,2,"Count: 120
+Density: 2",end_turn,,,447,164,43
+2642,71,2,"Count: 71
+Density: 2",end_turn,,,447,234,44
+2643,110,2,"Count: 110
+Density: 2",end_turn,,,447,159,94
+2644,172,2,"Count: 172
+
+Density: 2",end_turn,,,485,339,172
+2647,75,2,"Count: 75
+Density: 2",end_turn,,,485,156,54
+2648,118,2,"Count: 118
+Density: 2",end_turn,,,485,188,96
+2654,98,2,"Count: 98
+Density: 2",end_turn,,,428,225,24
+2658,18,1,"Count: 18
+Density: 1",end_turn,,,485,464,21
+2659,86,2,"Count: 86
+Density: 2",end_turn,,,466,199,83
+2666,2,0,"Count: 2
+Density: 0",end_turn,,,485,13,0
+2676,380,2,"Count: 380
+Density: 2",end_turn,,,447,220,0
+2684,88,2,"Count: 88
+
+Density: 2",end_turn,,,447,203,26
+2685,34,2,"Count: 34
+Density: 2",end_turn,,,447,427,34
+2692,160,2,"Count: 160
+
+Density: 2",end_turn,,,485,146,87
+2693,130,2,"Count: 130
+
+Density: 2",end_turn,,,447,108,39
+2695,45,2,"Count: 45
+
+Density: 2",end_turn,,,504,624,44
+2698,92,2,"Count: 92
+Density: 2",end_turn,,,485,136,17
+2703,4,0,"Count: 4
+Density: 0",end_turn,,,428,13,5
+2706,22,1,"Count: 22
+
+Density: 1",end_turn,,,352,329,22
+2707,850,2,"Count: 850
+
+Density: 2",end_turn,,,447,174,2
+2708,92,2,"Count: 92
+
+Density: 2",end_turn,,,504,232,74
+2710,11,1,"Count: 11
+Density: 1",end_turn,,,504,427,9
+2711,11,1,"Count: 11
+Density: 1",end_turn,,,485,504,11
+2714,2500,2,"Count: 2500
+Density: 2",end_turn,,,504,14,300
+2722,1650,2,"Count: 1650
+
+Density: 2",end_turn,,,504,163,300
+2723,115,2,"Count: 115
+
+Density: 2",end_turn,,,428,124,115
+2724,24,2,"Count: 24
+Density: 2",end_turn,,,485,528,23
+2725,152,2,"Count: 152
+
+Density: 2",end_turn,,,485,144,43
+2728,3500,2,"Count: 3500
+Density: 2",end_turn,,,485,180,300
+2731,118,2,"Count: 118
+Density: 2",end_turn,,,485,122,100
+2736,620,2,"Count: 620
+
+Density: 2",end_turn,,,466,181,285
+2739,1200,2,"Count: 1200
+
+Density: 2",end_turn,,,447,247,139
+2740,1200,2,"Count: 1200
+
+Density: 2",end_turn,,,466,330,49
+2742,8,1,"Count: 8
+Density: 1",end_turn,,,447,13,8
+2743,28,2,"Count: 28
+Density: 2",end_turn,,,504,736,28
+2746,121,2,"Count: 121
+Density: 2",end_turn,,,447,129,116
+2749,41,2,"Count: 41
+Density: 2",end_turn,,,447,439,41
+2753,117,2,"Count: 117
+
+Density: 2",end_turn,,,428,90,117
+2758,230,2,"Count: 230
+
+Density: 2",end_turn,,,352,281,117
+2761,58,2,"Count: 58
+Density: 2",end_turn,,,504,148,45
+2763,350,2,"Count: 350
+Density: 2",end_turn,,,447,190,29
+2764,29,2,"Count: 29
+Density: 2",end_turn,,,485,374,27
+2768,31,2,"Count: 31
+Density: 2",end_turn,,,447,333,31
+2772,112,2,"Count: 112
+Density: 2",end_turn,,,504,126,99
+2774,280,2,"Count: 280
+Density: 2",end_turn,,,447,158,100
+2779,550,2,"Count: 550
+
+Density: 2",end_turn,,,504,139,300
+2784,7,1,"Count: 7
+Density: 1",end_turn,,,485,308,6
+2788,24,2,"Count: 24
+Density: 2",end_turn,,,485,276,21
+2790,870,2,"Count: 870
+
+Density: 2",end_turn,,,428,135,300
+2792,110,2,"Count: 110
+Density: 2",end_turn,,,485,144,19
+2793,20,1,"Count: 20
+Density: 1",end_turn,,,485,485,17
+2794,55,2,"Count: 55
+Density: 2",end_turn,,,447,243,36
+2795,350,2,"Count: 350
+
+Density: 2",end_turn,,,447,146,1
+2797,42,2,"Count: 42
+Density: 2",end_turn,,,485,347,37
+2802,450,2,"Count: 450
+Density: 2",end_turn,,,485,153,300
+2803,180,2,"Count: 180
+Density: 2",end_turn,,,390,186,31
+2804,12,1,"Count: 12
+Density: 1",end_turn,,,447,441,9
+2812,54,2,"Count: 54
+
+Density: 2",end_turn,,,466,136,31
+2817,68,2,"Count: 68
+Density: 2",end_turn,,,504,151,23
+2819,27,2,"Count: 27
+
+Density: 2",end_turn,,,485,252,7
+2821,178,2,"Count: 178
+
+Density: 2",end_turn,,,485,123,114
+2822,24,1,"Count: 24
+Density: 1",end_turn,,,485,547,23
+2825,850,2,"Count: 850
+
+Density: 2",end_turn,,,466,256,3
+2828,2,0,"Count: 2
+Density: 0",end_turn,,,485,13,1
+2831,85,2,"Count: 85
+
+Density: 2",end_turn,,,485,126,44
+2833,34,2,"Count: 34
+Density: 2",end_turn,,,485,305,33
+2842,18,1,"Count: 18
+Density: 1",end_turn,,,485,477,15
+2847,5,0,"Count: 5
+Density: 0",end_turn,,,485,134,4
+2853,42,2,"Count: 42
+
+Density: 2",end_turn,,,406,180,36
+2856,98,2,"Count: 98
+
+Density: 2",end_turn,,,409,135,34
+2860,152,2,"Count: 152
+Density: 2",end_turn,,,447,13,145
+2862,320,2,"Count: 320
+Density: 2",end_turn,,,485,142,119
+2864,320,2,"Count: 320
+
+Density: 2",end_turn,,,485,110,67
+2866,6,0,"Count: 6
+Density: 0",end_turn,,,485,163,5
+2870,74,2,"Count: 74
+Density: 2",end_turn,,,463,177,70
+2873,287,2,"Count: 287
+Density: 2",end_turn,,,447,13,261
+2877,52,2,"Count: 52
+
+Density: 2",end_turn,,,447,153,2
+2879,18,1,"Count: 18
+
+Density: 1",end_turn,,,485,340,4
+2885,148,2,"Count: 148
+
+Density: 2",end_turn,,,447,172,101
+2888,20,2,"Count: 20
+Density: 2",end_turn,,,523,484,7
+2889,141,2,"Count: 141
+Density: 2",end_turn,,,333,147,136
+2890,32,2,"Count: 32
+Density: 2",end_turn,,,523,296,32
+2892,412,2,"Count: 412
+Density: 2",end_turn,,,409,13,300
+2893,35,2,"Count: 35
+
+Density: 2",end_turn,,,504,510,48
+2898,58,2,"Count: 58
+
+Density: 2",end_turn,,,428,232,54
+2904,33,1,"Count: 33
+Density: 1",end_turn,,,371,603,33
+2909,12,1,"Count: 12
+
+Density: 1",end_turn,,,504,611,12
+2910,44,1,"Count: 44
+
+Density: 1",end_turn,,,485,223,44
+2911,32,1,"Count: 32
+
+Density: 1",end_turn,,,485,370,37
+2913,26,2,"Count: 26
+Density: 2",end_turn,,,485,256,18
+2919,52,2,"Count: 52
+Density: 2",end_turn,,,485,176,24
+2921,2350,2,"Count: 2350
+
+Density: 2",end_turn,,,485,121,300
+2923,120,2,"Count: 120
+Density: 2",end_turn,,,409,116,78
+2924,90,2,"Count: 90
+
+Density: 2",end_turn,,,485,167,36
+2925,2500,2,"Count: 2500
+
+Density: 2",end_turn,,,504,138,300
+2927,250,2,"Count: 250
+
+Density: 2",end_turn,,,428,237,300
+2931,1000,2,"Count: 1000
+Density: 2",end_turn,,,504,215,300
+2935,160,2,"Count: 160
+Density: 2",end_turn,,,485,138,54
+2936,1500,2,"Count: 1500
+
+Density: 2",end_turn,,,504,145,94
+2939,400,2,"Count: 400
+Density: 2",end_turn,,,466,121,36
+2944,205,2,"Count: 205
+Density: 2",end_turn,,,447,149,198
+2945,45,2,"Count: 45
+Density: 2",end_turn,,,504,197,12
+2946,236,2,"Count: 236
+Density: 2",end_turn,,,466,105,222
+2947,163,2,"Count: 163
+Density: 2",end_turn,,,504,155,48
+2948,92,2,"Count: 92
+
+Density: 2",end_turn,,,485,156,61
+2953,88,2,"Count: 88
+Density: 2",end_turn,,,447,152,91
+2954,310,2,"Count: 310
+
+Density: 2",end_turn,,,504,125,300
+2959,304,2,"Count: 304
+
+Density: 2",end_turn,,,352,165,298
+2961,158,2,"Count: 158
+Density: 2",end_turn,,,485,13,151
+2962,175,2,"Count: 175
+Density: 2",end_turn,,,466,140,63
+2963,420,2,"Count: 420
+
+Density: 2",end_turn,,,485,165,300
+2965,350,2,"Count: 350
+Density: 2",end_turn,,,466,135,64
+2966,19,1,"Count: 19
+Density: 1",end_turn,,,485,280,4
+2967,520,2,"Count: 520
+
+Density: 2",end_turn,,,485,223,290
+2970,108,2,"Count: 108
+
+Density: 2",end_turn,,,485,154,108
+2971,26,1,"Count: 26
+Density: 1",end_turn,,,409,486,23
+2973,210,2,"Count: 210
+
+Density: 2",end_turn,,,485,241,109
+2975,340,2,"Count: 340
+
+Density: 2",end_turn,,,447,148,85
+2977,34,1,"Count: 34
+Density: 1",end_turn,,,504,561,34
+2978,85,2,"Count: 85
+Density: 2",end_turn,,,447,217,68
+2979,310,2,"Count: 310
+Density: 2",end_turn,,,447,13,295
+2983,55,2,"Count: 55
+Density: 2",end_turn,,,466,391,34
+2985,42,2,"Count: 42
+Density: 2",end_turn,,,485,642,34
+2989,25,2,"Count: 25
+Density: 2",end_turn,,,485,739,23
+2996,1500,2,"Count: 1500
+
+Density: 2",end_turn,,,447,473,2
+3000,12,1,"Count: 12
+
+Density: 1",end_turn,,,447,290,5
+3011,142,2,"Count: 142
+
+Density: 2",end_turn,,,409,209,38
+3015,15000,2,"Count: 15000
+Density: 2",end_turn,,,504,162,11
+3021,15,2,"Count: 15
+
+Density: 2",end_turn,,,485,459,14
+3023,44,2,"Count: 44
+
+Density: 2",end_turn,,,447,394,45
+3025,0,0,"Count: 0
+Density: 0",end_turn,,,371,195,0
+3026,10,1,"Count: 10
+Density: 1",end_turn,,,390,461,7
+3027,28,2,"Count: 28
+Density: 2",end_turn,,,599,626,26
+3031,15,1,"Count: 15
+Density: 1",end_turn,,,428,608,15
+3032,290,2,"Count: 290
+
+Density: 2",end_turn,,,485,185,163
+3033,142,2,"Count: 142
+Density: 2",end_turn,,,466,141,86
+3034,420,2,"Count: 420
+Density: 2",end_turn,,,428,141,300
+3035,36,2,"Count: 36
+Density: 2",end_turn,,,485,428,8
+3037,350,2,"Count: 350
+
+Density: 2",end_turn,,,485,156,205
+3044,11,0,"Count: 11
+Density: 0",end_turn,,,485,437,10
+3045,18,2,"Count: 18
+Density: 2",end_turn,,,504,267,18
+3048,19,1,"Count: 19
+Density: 1",end_turn,,,447,327,18
+3051,8,1,"Count: 8
+Density: 1",end_turn,,,485,202,8
+3063,138,2,"Count: 138
+Density: 2",end_turn,,,466,132,120
+3065,281,2,"Count: 281
+
+Density: 2",end_turn,,,599,120,87
+3071,79,2,"Count: 79
+Density: 2",end_turn,,,485,148,76
+3076,450,2,"Count: 450
+Density: 2",end_turn,,,504,124,105
+3079,28,1,"Count: 28
+Density: 1",end_turn,,,504,424,11
+3082,640,2,"Count: 640
+Density: 2",end_turn,,,485,180,190
+3088,40,2,"Count: 40
+
+Density: 2",end_turn,,,485,210,35
+3090,33,2,"Count: 33
+
+Density: 2",end_turn,,,352,346,28
+3092,84,2,"Count: 84
+Density: 2",end_turn,,,485,135,23
+3096,152,2,"Count: 152
+
+Density: 2",end_turn,,,504,195,152
+3099,340,2,"Count: 340
+
+Density: 2",end_turn,,,447,196,117
+3101,70,2,"Count: 70
+Density: 2",end_turn,,,504,136,22
+3102,62,2,"Count: 62
+Density: 2",end_turn,,,485,309,62
+3112,130,2,"Count: 130
+Density: 2",end_turn,,,504,164,65
+3113,11,1,"Count: 11
+Density: 1",end_turn,,,466,451,10
+3118,85,2,"Count: 85
+
+Density: 2",end_turn,,,485,162,53
+3120,1200,2,"Count: 1200
+Density: 2",end_turn,,,504,150,29
+3121,250,2,"Count: 250
+
+Density: 2",end_turn,,,352,175,55
+3122,78,2,"Count: 78
+Density: 2",end_turn,,,390,184,58
+3126,31,2,"Count: 31
+
+Density: 2",end_turn,,,428,358,31
+3128,650,2,"Count: 650
+Density: 2",end_turn,,,466,161,300
+3135,340,2,"Count: 340
+Density: 2",end_turn,,,333,148,300
+3137,86,2,"Count: 86
+
+Density: 2",end_turn,,,504,152,86
+3138,86,2,"Count: 86
+
+Density: 2",end_turn,,,447,156,84
+3139,0,0,"Count: 0
+Density: 0",end_turn,,,447,13,0
+3143,342,2,"Count: 342
+
+Density: 2",end_turn,,,466,227,25
+3147,260,2,"Count: 260
+Density: 2",end_turn,,,466,199,135
+3148,36,2,"Count: 36
+Density: 2",end_turn,,,408,435,36
+3151,52,2,"Count: 52
+
+Density: 2",end_turn,,,428,220,48
+3153,45,2,"Count: 45
+Density: 2",end_turn,,,447,158,3
+3158,900,2,"Count: 900
+Density: 2",end_turn,,,523,174,300
+3159,66,2,"Count: 66
+
+Density: 2",end_turn,,,485,152,67
+3163,1250,2,"Count: 1250
+
+Density: 2",end_turn,,,447,157,29
+3172,55,2,"Count: 55
+Density: 2",end_turn,,,447,276,47
+3173,13,1,"Count: 13
+Density: 1",end_turn,,,485,358,13
+3178,2000,2,"Count: 2000
+Density: 2",end_turn,,,447,474,9
+3179,187,2,"Count: 187
+Density: 2",end_turn,,,447,13,131
+3180,190,2,"Count: 190
+
+Density: 2",end_turn,,,485,157,59
+3182,30,2,"Count: 30
+Density: 2",end_turn,,,485,395,27
+3187,1450,2,"Count: 1450
+Density: 2",end_turn,,,485,166,300
+3193,19,1,"Count: 19
+Density: 1",end_turn,,,447,419,19
+3198,58,2,"Count: 58
+
+Density: 2",end_turn,,,428,189,30
+3201,287,2,"Count: 287
+Density: 2",end_turn,,,466,120,15
+3203,54,2,"Count: 54
+
+Density: 2",end_turn,,,485,345,54
+3205,196,2,"Count: 196
+
+Density: 2",end_turn,,,447,120,203
+3208,190,2,"Count: 190
+Density: 2",end_turn,,,485,144,43
+3210,180,2,"Count: 180
+Density: 2",end_turn,,,485,156,76
+3213,340,2,"Count: 340
+
+Density: 2",end_turn,,,485,195,89
+3214,260,2,"Count: 260
+Density: 2",end_turn,,,485,151,20
+3216,14,1,"Count: 14
+Density: 1",end_turn,,,466,490,13
+3219,9,1,"Count: 9
+
+Density: 1",end_turn,,,504,265,9
+3221,45,2,"Count: 45
+Density: 2",end_turn,,,485,513,31
+3227,3872,2,"Count: 3872
+
+Density: 2",end_turn,,,504,153,83
+3233,236,2,"Count: 236
+
+Density: 2",end_turn,,,447,178,242
+3236,45,1,"Count: 45
+Density: 1",end_turn,,,447,193,40
+3241,420,2,"Count: 420
+
+Density: 2",end_turn,,,352,130,180
+3249,58,2,"Count: 58
+Density: 2",end_turn,,,447,454,47
+3250,380,2,"Count: 380
+Density: 2",end_turn,,,485,150,106
+3252,70,2,"Count: 70
+Density: 2",end_turn,,,504,208,13
+3253,12,1,"Count: 12
+Density: 1",end_turn,,,485,301,7
+3255,87,2,"Count: 87
+
+Density: 2",end_turn,,,447,118,34
+3256,24,2,"Count: 24
+
+Density: 2",end_turn,,,454,238,17
+3258,12,1,"Count: 12
+Density: 1",end_turn,,,466,475,4
+3259,18,1,"Count: 18
+Density: 1",end_turn,,,447,213,0
+3260,262,2,"Count: 262
+Density: 2",end_turn,,,466,154,239
+3261,17,1,"Count: 17
+Density: 1",end_turn,,,504,805,17
+3264,240,2,"Count: 240
+
+Density: 2",end_turn,,,504,149,136
+3267,4,0,"Count: 4
+Density: 0",end_turn,,,504,143,2
+3269,1800,2,"Count: 1800
+
+Density: 2",end_turn,,,485,179,241
+3271,180,2,"Count: 180
+
+Density: 2",end_turn,,,428,140,135
+3274,137,2,"Count: 137
+Density: 2",end_turn,,,485,77,140
+3275,412,2,"Count: 412
+Density: 2",end_turn,,,447,149,300
+3276,35,2,"Count: 35
+Density: 2",end_turn,,,485,727,26
+3281,18000,2,"Count: 18000
+Density: 2",end_turn,,,504,525,5
+3283,45,2,"Count: 45
+Density: 2",end_turn,,,485,226,35
+3289,14,1,"Count: 14
+Density: 1",end_turn,,,485,294,1
+3298,296,2,"Count: 296
+
+Density: 2",end_turn,,,542,248,181
+3302,124,2,"Count: 124
+
+Density: 2",end_turn,,,485,128,121
+3303,150,2,"Count: 150
+
+Density: 2",end_turn,,,485,133,6
+3305,16,1,"Count: 16
+Density: 1",end_turn,,,447,338,10
+3311,88,2,"Count: 88
+
+Density: 2",end_turn,,,485,153,33
+3313,118,2,"Count: 118
+Density: 2",end_turn,,,485,146,56
+3316,127,2,"Count: 127
+Density: 2",end_turn,,,447,140,123
+3327,24,2,"Count: 24
+Density: 2",end_turn,,,485,573,24
+3328,105,2,"Count: 105
+Density: 2",end_turn,,,409,179,90
+3331,62,2,"Count: 62
+
+Density: 2",end_turn,,,409,161,52
+3332,110,2,"Count: 110
+Density: 2",end_turn,,,485,288,81
+3334,900,2,"Count: 900
+
+Density: 2",end_turn,,,485,235,107
+3336,165,2,"Count: 165
+
+Density: 2",end_turn,,,447,153,79
+3338,6,1,"Count: 6
+Density: 1",end_turn,,,447,374,4
+3340,55,2,"Count: 55
+Density: 2",end_turn,,,463,356,14
+3342,412,2,"Count: 412
+
+Density: 2",end_turn,,,352,243,300
+3344,86,2,"Count: 86
+Density: 2",end_turn,,,485,153,86
+3345,287,2,"Count: 287
+Density: 2",end_turn,,,409,151,295
+3346,210,2,"Count: 210
+Density: 2",end_turn,,,485,13,81
+3348,77,1,"Count: 77
+Density: 1",end_turn,,,485,358,77
+3351,35,2,"Count: 35
+Density: 2",end_turn,,,485,283,13
+3356,46,2,"Count: 46
+
+Density: 2",end_turn,,,447,247,46
+3357,4,0,"Count: 4
+Density: 0",end_turn,,,466,225,2
+3358,340,2,"Count: 340
+Density: 2",end_turn,,,466,215,124
+3359,162,2,"Count: 162
+Density: 2",end_turn,,,485,137,78
+3362,150,2,"Count: 150
+Density: 2",end_turn,,,523,190,53
+3363,265,2,"Count: 265
+Density: 2",end_turn,,,466,213,300
+3364,350,2,"Count: 350
+Density: 2",end_turn,,,485,189,146
+3365,34,1,"Count: 34
+Density: 1",end_turn,,,390,324,34
+3367,58,2,"Count: 58
+
+Density: 2",end_turn,,,485,291,43
+3368,18,2,"Count: 18
+Density: 2",end_turn,,,403,551,12
+3369,118,2,"Count: 118
+
+Density: 2",end_turn,,,447,112,7
+3370,24,1,"Count: 24
+Density: 1",end_turn,,,485,492,22
+3374,58,2,"Count: 58
+Density: 2",end_turn,,,485,260,55
+3378,20,1,"Count: 20
+Density: 1",end_turn,,,485,420,16
+3379,60,2,"Count: 60
+Density: 2",end_turn,,,436,329,10
+3380,350,2,"Count: 350
+Density: 2",end_turn,,,485,167,144
+3385,120,2,"Count: 120
+
+Density: 2",end_turn,,,447,129,15
+3389,2,0,"Count: 2
+Density: 0",end_turn,,,447,13,0
+3390,22,2,"Count: 22
+Density: 2",end_turn,,,485,298,10
+3393,96,2,"Count: 96
+
+Density: 2",end_turn,,,466,325,75
+3395,36,2,"Count: 36
+
+Density: 2",end_turn,,,472,678,33
+3396,412,2,"Count: 412
+Density: 2",end_turn,,,447,13,300
+3397,110,2,"Count: 110
+Density: 2",end_turn,,,428,140,89
+3407,5,1,"Count: 5
+Density: 1",end_turn,,,504,13,4
+3409,35,2,"Count: 35
+Density: 2",end_turn,,,504,250,35
+3411,118,2,"Count: 118
+
+Density: 2",end_turn,,,447,188,110
+3412,30,2,"Count: 30
+Density: 2",end_turn,,,485,234,19
+3418,21,1,"Count: 21
+
+Density: 1",end_turn,,,447,408,21
+3421,350,2,"Count: 350
+Density: 2",end_turn,,,504,147,84
+3427,215,2,"Count: 215
+
+Density: 2",end_turn,,,447,142,137
+3429,48,1,"Count: 48
+Density: 1",end_turn,,,485,294,16
+3431,260,2,"Count: 260
+
+Density: 2",end_turn,,,485,142,9
+3435,15,1,"Count: 15
+Density: 1",end_turn,,,485,249,11
+3436,137,2,"Count: 137
+
+Density: 2",end_turn,,,447,154,129
+3437,20,1,"Count: 20
+Density: 1",end_turn,,,485,548,13
+3441,78,2,"Count: 78
+
+Density: 2",end_turn,,,485,174,39
+3442,120,2,"Count: 120
+
+Density: 2",end_turn,,,447,145,22
+3447,52,2,"Count: 52
+Density: 2",end_turn,,,447,255,32
+3448,14,1,"Count: 14
+Density: 1",end_turn,,,447,335,5
+3450,1500,2,"Count: 1500
+
+Density: 2",end_turn,,,485,122,300
+3452,17,2,"Count: 17
+Density: 2",end_turn,,,485,260,17
+3454,720,2,"Count: 720
+
+Density: 2",end_turn,,,485,140,279
+3455,125,2,"Count: 125
+
+Density: 2",end_turn,,,333,161,118
+3456,75,2,"Count: 75
+
+Density: 2",end_turn,,,485,327,30
+3457,31,2,"Count: 31
+
+Density: 2",end_turn,,,447,483,31
+3458,218,2,"Count: 218
+
+Density: 2",end_turn,,,485,106,216
+3463,112,2,"Count: 112
+Density: 2",end_turn,,,485,13,100
+3466,58,2,"Count: 58
+Density: 2",end_turn,,,485,275,58
+3477,470,2,"Count: 470
+
+Density: 2",end_turn,,,466,119,300
+3478,54,2,"Count: 54
+Density: 2",end_turn,,,447,544,54
+3480,18,1,"Count: 18
+Density: 1",end_turn,,,485,338,12
+3486,28,2,"Count: 28
+Density: 2",end_turn,,,485,369,30
+3488,274,2,"Count: 274
+
+Density: 2",end_turn,,,447,170,221
+3489,135,2,"Count: 135
+
+Density: 2",end_turn,,,504,160,135
+3493,180,2,"Count: 180
+Density: 2",end_turn,,,447,122,98
+3498,120,2,"Count: 120
+Density: 2",end_turn,,,447,106,25
+3502,72,2,"Count: 72
+Density: 2",end_turn,,,466,143,71
+3505,352,2,"Count: 352
+Density: 2",end_turn,,,390,166,88
+3507,217,2,"Count: 217
+
+Density: 2",end_turn,,,466,234,216
+3508,58,1,"Count: 58
+Density: 1",end_turn,,,485,176,16
+3510,163,2,"Count: 163
+
+Density: 2",end_turn,,,485,147,151
+3515,92,2,"Count: 92
+Density: 2",end_turn,,,485,182,60
+3516,18,1,"Count: 18
+Density: 1",end_turn,,,504,430,18
+3517,148,2,"Count: 148
+
+Density: 2",end_turn,,,352,163,148
+3518,19,1,"Count: 19
+Density: 1",end_turn,,,485,631,15
+3522,180,2,"Count: 180
+Density: 2",end_turn,,,485,153,106
+3524,118,2,"Count: 118
+
+Density: 2",end_turn,,,447,171,47
+3527,280,2,"Count: 280
+
+Density: 2",end_turn,,,425,124,4
+3528,15,1,"Count: 15
+Density: 1",end_turn,,,447,437,17
+3529,780,2,"Count: 780
+
+Density: 2",end_turn,,,485,395,300
+3530,26,2,"Count: 26
+Density: 2",end_turn,,,466,236,25
+3531,180,2,"Count: 180
+Density: 2",end_turn,,,504,169,60
+3534,750,2,"Count: 750
+
+Density: 2",end_turn,,,447,262,300
+3536,19,2,"Count: 19
+Density: 2",end_turn,,,485,799,19
+3538,210,2,"Count: 210
+
+Density: 2",end_turn,,,485,144,0
+3539,4200,2,"Count: 4200
+
+Density: 2",end_turn,,,447,154,300
+3544,430,2,"Count: 430
+
+Density: 2",end_turn,,,447,140,300
+3547,62,2,"Count: 62
+Density: 2",end_turn,,,447,201,38
+3549,218,2,"Count: 218
+Density: 2",end_turn,,,504,132,216
+3550,2000,2,"Count: 2000
+
+Density: 2",end_turn,,,485,174,17
+3551,235,2,"Count: 235
+
+Density: 2",end_turn,,,447,110,220
+3552,1200,2,"Count: 1200
+Density: 2",end_turn,,,466,195,300
+3555,412,2,"Count: 412
+Density: 2",end_turn,,,447,13,300
+3560,650,2,"Count: 650
+
+Density: 2",end_turn,,,485,265,300
+3561,27,2,"Count: 27
+Density: 2",end_turn,,,485,732,24
+3565,712,2,"Count: 712
+
+Density: 2",end_turn,,,504,111,11
+3566,71,2,"Count: 71
+Density: 2",end_turn,,,447,175,71
+3576,267,2,"Count: 267
+
+Density: 2",end_turn,,,504,184,267
+3581,62,2,"Count: 62
+
+Density: 2",end_turn,,,390,163,57
+3582,12,2,"Count: 12
+Density: 2",end_turn,,,447,408,10
+3586,58,2,"Count: 58
+Density: 2",end_turn,,,447,179,56
+3588,62,2,"Count: 62
+Density: 2",end_turn,,,447,13,60
+3589,260,2,"Count: 260
+Density: 2",end_turn,,,485,224,154
+3591,42,1,"Count: 42
+Density: 1",end_turn,,,409,552,38
+3593,215,2,"Count: 215
+
+Density: 2",end_turn,,,447,111,150
+3594,280,2,"Count: 280
+
+Density: 2",end_turn,,,485,185,174
+3600,78,2,"Count: 78
+Density: 2",end_turn,,,485,217,61
+3601,146,2,"Count: 146
+
+Density: 2",end_turn,,,447,158,146
+3602,152,2,"Count: 152
+
+Density: 2",end_turn,,,447,136,156
+3603,16,1,"Count: 16
+Density: 1",end_turn,,,542,278,16
+3608,30,1,"Count: 30
+Density: 1",end_turn,,,428,613,1
+3610,1840,2,"Count: 1840
+Density: 2",end_turn,,,333,145,206
+3611,250,2,"Count: 250
+Density: 2",end_turn,,,485,142,9
+3612,17,1,"Count: 17
+Density: 1",end_turn,,,466,379,15
+3614,72,2,"Count: 72
+Density: 2",end_turn,,,388,135,23
+3616,24,1,"Count: 24
+Density: 1",end_turn,,,466,315,11
+3617,470,2,"Count: 470
+Density: 2",end_turn,,,504,167,300
+3621,212,2,"Count: 212
+Density: 2",end_turn,,,454,13,195
+3622,260,2,"Count: 260
+Density: 2",end_turn,,,485,182,171
+3623,25,2,"Count: 25
+
+Density: 2",end_turn,,,447,282,20
+3624,9,1,"Count: 9
+Density: 1",end_turn,,,409,420,9
+3627,24,2,"Count: 24
+Density: 2",end_turn,,,447,372,23
+3631,900,2,"Count: 900
+Density: 2",end_turn,,,466,272,300
+3637,84,2,"Count: 84
+Density: 2",end_turn,,,447,161,69
+3644,950,2,"Count: 950
+Density: 2",end_turn,,,504,179,300
+3651,120,2,"Count: 120
+
+Density: 2",end_turn,,,428,137,28
+3652,2500,2,"Count: 2500
+Density: 2",end_turn,,,485,122,300
+3654,2400,2,"Count: 2400
+
+Density: 2",end_turn,,,485,159,300
+3656,118,2,"Count: 118
+Density: 2",end_turn,,,485,207,55
+3657,320,2,"Count: 320
+
+Density: 2",end_turn,,,485,333,36
+3658,6000,2,"Count: 6000
+
+Density: 2",end_turn,,,447,165,300
+3663,21,2,"Count: 21
+Density: 2",end_turn,,,428,384,16
+3664,870,2,"Count: 870
+
+Density: 2",end_turn,,,447,232,198
+3668,380,2,"Count: 380
+
+Density: 2",end_turn,,,466,203,35
+3671,305,2,"Count: 305
+
+Density: 2",end_turn,,,409,115,300
+3673,24,2,"Count: 24
+Density: 2",end_turn,,,485,519,8
+3676,17,1,"Count: 17
+Density: 1",end_turn,,,485,925,15
+3677,30,1,"Count: 30
+Density: 1",end_turn,,,504,301,28
+3678,350,2,"Count: 350
+
+Density: 2",end_turn,,,447,115,51
+3680,480,2,"Count: 480
+
+Density: 2",end_turn,,,466,170,200
+3682,5,0,"Count: 5
+
+Density: 0",end_turn,,,447,160,2
+3683,22,2,"Count: 22
+Density: 2",end_turn,,,378,362,16
+3685,1100,2,"Count: 1100
+Density: 2",end_turn,,,485,373,225
+3686,30,1,"Count: 30
+Density: 1",end_turn,,,447,375,12
+3687,43,2,"Count: 43
+
+Density: 2",end_turn,,,409,374,43
+3690,2,0,"Count: 2
+Density: 0",end_turn,,,428,247,2
+3694,146,2,"Count: 146
+
+Density: 2",end_turn,,,447,154,144
+3697,104,2,"Count: 104
+Density: 2",end_turn,,,428,335,77
+3698,31,2,"Count: 31
+Density: 2",end_turn,,,504,726,32
+3699,360,2,"Count: 360
+Density: 2",end_turn,,,442,173,190
+3706,213,2,"Count: 213
+
+Density: 2",end_turn,,,485,137,107
+3707,68,2,"Count: 68
+Density: 2",end_turn,,,428,13,51
+3711,150,2,"Count: 150
+Density: 2",end_turn,,,485,157,49
+3713,18,2,"Count: 18
+Density: 2",end_turn,,,447,656,18
+3716,350,2,"Count: 350
+Density: 2",end_turn,,,504,172,161
+3719,11,1,"Count: 11
+Density: 1",end_turn,,,485,262,7
+3721,760,2,"Count: 760
+
+Density: 2",end_turn,,,352,261,238
+3722,28,2,"Count: 28
+Density: 2",end_turn,,,447,676,28
+3723,48,2,"Count: 48
+Density: 2",end_turn,,,428,522,2
+3726,1200,2,"Count: 1200
+
+Density: 2",end_turn,,,485,203,300
+3727,85,2,"Count: 85
+Density: 2",end_turn,,,485,147,52
+3728,152,2,"Count: 152
+Density: 2",end_turn,,,466,169,144
+3729,52,2,"Count: 52
+Density: 2",end_turn,,,485,255,10
+3734,880,2,"Count: 880
+
+Density: 2",end_turn,,,485,301,300
+3735,20,2,"Count: 20
+
+Density: 2",end_turn,,,485,375,20
+3743,185,2,"Count: 185
+Density: 2",end_turn,,,390,13,130
+3744,68,2,"Count: 68
+Density: 2",end_turn,,,409,252,65
+3754,145,2,"Count: 145
+
+Density: 2",end_turn,,,466,94,138
+3755,218,2,"Count: 218
+
+Density: 2",end_turn,,,466,101,225
+3756,20,1,"Count: 20
+Density: 1",end_turn,,,466,323,19
+3757,30,1,"Count: 30
+Density: 1",end_turn,,,485,596,21
+3758,420,2,"Count: 420
+
+Density: 2",end_turn,,,485,181,300
+3759,158,2,"Count: 158
+
+Density: 2",end_turn,,,447,141,155
+3760,45,2,"Count: 45
+
+Density: 2",end_turn,,,485,183,5
+3764,14,2,"Count: 14
+
+Density: 2",end_turn,,,485,248,4
+3765,12,1,"Count: 12
+Density: 1",end_turn,,,485,445,5
+3766,104,2,"Count: 104
+Density: 2",end_turn,,,466,286,89
+3768,262,2,"Count: 262
+
+Density: 2",end_turn,,,485,120,235
+3769,126,2,"Count: 126
+
+Density: 2",end_turn,,,447,109,126
+3770,212,2,"Count: 212
+Density: 2",end_turn,,,371,189,79
+3775,450,2,"Count: 450
+
+Density: 2",end_turn,,,447,116,300
+3779,55,2,"Count: 55
+Density: 2",end_turn,,,485,276,57
+3780,185,2,"Count: 185
+
+Density: 2",end_turn,,,504,109,197
+3781,20,2,"Count: 20
+
+Density: 2",end_turn,,,485,342,20
+3783,850,2,"Count: 850
+
+Density: 2",end_turn,,,485,147,300
+3786,66,2,"Count: 66
+Density: 2",end_turn,,,485,166,21
+3787,52,2,"Count: 52
+Density: 2",end_turn,,,447,196,43
+3788,110,2,"Count: 110
+Density: 2",end_turn,,,466,193,34
+3790,287,2,"Count: 287
+Density: 2",end_turn,,,485,13,220
+3792,32,2,"Count: 32
+
+Density: 2",end_turn,,,485,400,32
+3797,32,2,"Count: 32
+Density: 2",end_turn,,,485,357,37
+3798,12,1,"Count: 12
+Density: 1",end_turn,,,447,580,11
+3801,480,2,"Count: 480
+
+Density: 2",end_turn,,,485,151,163
+3803,230,2,"Count: 230
+Density: 2",end_turn,,,485,194,47
+3806,240,2,"Count: 240
+Density: 2",end_turn,,,466,183,236
+3811,16,1,"Count: 16
+Density: 1",end_turn,,,447,723,16
+3814,350,2,"Count: 350
+Density: 2",end_turn,,,409,136,125
+3819,245,2,"Count: 245
+
+Density: 2",end_turn,,,485,173,198
+3820,124,2,"Count: 124
+
+Density: 2",end_turn,,,485,129,118
+3821,40,2,"Count: 40
+Density: 2",end_turn,,,485,334,40
+3822,240,2,"Count: 240
+Density: 2",end_turn,,,425,167,43
+3829,23,2,"Count: 23
+Density: 2",end_turn,,,447,720,23
+3832,350,2,"Count: 350
+
+Density: 2",end_turn,,,485,113,90
+3834,62,2,"Count: 62
+
+Density: 2",end_turn,,,447,293,10
+3837,120,2,"Count: 120
+Density: 2",end_turn,,,466,207,73
+3841,14,2,"Count: 14
+Density: 2",end_turn,,,391,452,11
+3842,5,0,"Count: 5
+Density: 0",end_turn,,,485,401,2
+3849,78,2,"Count: 78
+
+Density: 2",end_turn,,,485,273,62
+3854,112,2,"Count: 112
+
+Density: 2",end_turn,,,414,157,2
+3855,33,2,"Count: 33
+
+Density: 2",end_turn,,,447,369,33
+3857,146,2,"Count: 146
+
+Density: 2",end_turn,,,504,164,28
+3858,97,2,"Count: 97
+
+Density: 2",end_turn,,,504,145,100
+3859,58,2,"Count: 58
+Density: 2",end_turn,,,504,152,32
+3862,52,1,"Count: 52
+Density: 1",end_turn,,,504,350,18
+3870,82,2,"Count: 82
+
+Density: 2",end_turn,,,485,421,52
+3871,96,2,"Count: 96
+
+Density: 2",end_turn,,,504,198,89
+3880,38,2,"Count: 38
+Density: 2",end_turn,,,428,255,2
+3881,34,1,"Count: 34
+Density: 1",end_turn,,,485,607,34
+3887,152,2,"Count: 152
+
+Density: 2",end_turn,,,485,153,57
+3888,12,1,"Count: 12
+Density: 1",end_turn,,,485,322,4
+3891,64,2,"Count: 64
+Density: 2",end_turn,,,447,156,50
+3895,26,1,"Count: 26
+
+Density: 1",end_turn,,,447,525,26
+3896,35,2,"Count: 35
+Density: 2",end_turn,,,485,483,17
+3897,28,2,"Count: 28
+Density: 2",end_turn,,,447,752,25
+3898,65,2,"Count: 65
+Density: 2",end_turn,,,485,120,14
+3899,75,2,"Count: 75
+Density: 2",end_turn,,,485,272,22
+3905,420,2,"Count: 420
+
+Density: 2",end_turn,,,447,153,155
+3907,7,0,"Count: 7
+Density: 0",end_turn,,,485,212,6
+3910,340,2,"Count: 340
+Density: 2",end_turn,,,390,166,300
+3911,10,1,"Count: 10
+Density: 1",end_turn,,,485,268,4
+3914,55,2,"Count: 55
+Density: 2",end_turn,,,485,244,29
+3916,380,2,"Count: 380
+Density: 2",end_turn,,,428,160,164
+3917,312,2,"Count: 312
+
+Density: 2",end_turn,,,447,152,2
+3921,68,2,"Count: 68
+
+Density: 2",end_turn,,,428,210,70
+3922,260,2,"Count: 260
+Density: 2",end_turn,,,466,128,41
+3923,90,2,"Count: 90
+
+Density: 2",end_turn,,,390,117,32
+3925,350,2,"Count: 350
+
+Density: 2",end_turn,,,504,185,300
+3927,24,2,"Count: 24
+Density: 2",end_turn,,,485,391,24
+3930,340,2,"Count: 340
+Density: 2",end_turn,,,485,141,300
+3933,200,2,"Count: 200
+Density: 2",end_turn,,,485,175,18
+3934,76,2,"Count: 76
+
+Density: 2",end_turn,,,485,132,76
+3938,82,2,"Count: 82
+
+Density: 2",end_turn,,,504,176,65
+3939,12,1,"Count: 12
+Density: 1",end_turn,,,485,228,9
+3941,58,2,"Count: 58
+Density: 2",end_turn,,,504,302,5
+3942,88,2,"Count: 88
+
+Density: 2",end_turn,,,428,111,85
+3944,40,2,"Count: 40
+
+Density: 2",end_turn,,,523,456,12
+3947,35,1,"Count: 35
+Density: 1",end_turn,,,466,758,35
+3951,8,1,"Count: 8
+Density: 1",end_turn,,,390,115,8
+3953,68,2,"Count: 68
+Density: 2",end_turn,,,428,201,56
+3955,68,2,"Count: 68
+Density: 2",end_turn,,,485,130,21
+3960,158,2,"Count: 158
+Density: 2",end_turn,,,485,132,140
+3962,50,2,"Count: 50
+Density: 2",end_turn,,,428,885,49
+3964,15,2,"Count: 15
+Density: 2",end_turn,,,599,435,15
+3968,1100,2,"Count: 1100
+
+Density: 2",end_turn,,,485,189,297
+3969,850,2,"Count: 850
+
+Density: 2",end_turn,,,447,173,300
+3971,163,2,"Count: 163
+Density: 2",end_turn,,,485,13,166
+3972,25,2,"Count: 25
+
+Density: 2",end_turn,,,447,297,25
+3975,14,2,"Count: 14
+
+Density: 2",end_turn,,,428,395,12
+3976,1200,2,"Count: 1200
+
+Density: 2",end_turn,,,447,187,128
+3982,40,2,"Count: 40
+Density: 2",end_turn,,,447,371,43
+3985,3500,2,"Count: 3500
+
+Density: 2",end_turn,,,371,170,203
+3987,96,2,"Count: 96
+
+Density: 2",end_turn,,,485,145,96
+3989,176,2,"Count: 176
+
+Density: 2",end_turn,,,485,151,8
+3991,136,2,"Count: 136
+Density: 2",end_turn,,,504,167,136
+3994,33,2,"Count: 33
+Density: 2",end_turn,,,371,779,34
+3998,141,2,"Count: 141
+
+Density: 2",end_turn,,,485,175,141
+4001,68,2,"Count: 68
+Density: 2",end_turn,,,428,347,72
+4002,8,1,"Count: 8
+
+Density: 1",end_turn,,,409,258,8
+4006,172,2,"Count: 172
+Density: 2",end_turn,,,485,123,177
+4009,1,0,"Count: 1
+Density: 0",end_turn,,,466,13,0
+4012,231,2,"Count: 231
+
+Density: 2",end_turn,,,485,151,231
+4014,50,2,"Count: 50
+Density: 2",end_turn,,,447,310,50
+4020,19,1,"Count: 19
+
+Density: 1",end_turn,,,447,462,19
+4022,12,2,"Count: 12
+
+Density: 2",end_turn,,,599,220,3
+4026,168,2,"Count: 168
+
+Density: 2",end_turn,,,485,137,168
+4030,8,1,"Count: 8
+Density: 1",end_turn,,,447,490,7
+4036,18,1,"Count: 18
+Density: 1",end_turn,,,504,485,18
+4037,56,2,"Count: 56
+
+Density: 2",end_turn,,,504,150,56
+4044,180,2,"Count: 180
+Density: 2",end_turn,,,447,147,5
+4046,310,2,"Count: 310
+Density: 2",end_turn,,,504,86,300
+4047,32,2,"Count: 32
+Density: 2",end_turn,,,485,143,8
+4048,420,2,"Count: 420
+Density: 2",end_turn,,,447,144,300
+4053,14,1,"Count: 14
+Density: 1",end_turn,,,485,510,2
+4054,97,2,"Count: 97
+
+Density: 2",end_turn,,,352,186,79
+4056,45000,2,"Count: 45000
+
+Density: 2",end_turn,,,485,160,10
+4058,32,2,"Count: 32
+Density: 2",end_turn,,,504,435,34
+4064,90,2,"Count: 90
+
+Density: 2",end_turn,,,485,164,50
+4065,121,2,"Count: 121
+
+Density: 2",end_turn,,,371,152,121
+4066,4000,2,"Count: 4000
+
+Density: 2",end_turn,,,390,157,24
+4070,350,2,"Count: 350
+Density: 2",end_turn,,,466,122,1
+4071,262,2,"Count: 262
+
+Density: 2",end_turn,,,485,124,169
+4074,232,2,"Count: 232
+Density: 2",end_turn,,,485,134,232
+4075,178,2,"Count: 178
+Density: 2",end_turn,,,504,13,174
+4076,114,2,"Count: 114
+Density: 2",end_turn,,,466,109,110
+4078,65,2,"Count: 65
+
+Density: 2",end_turn,,,447,117,15
+4079,30,2,"Count: 30
+Density: 2",end_turn,,,466,347,14
+4080,11,1,"Count: 11
+
+Density: 1",end_turn,,,447,418,11
+4083,380,2,"Count: 380
+Density: 2",end_turn,,,504,143,16
+4090,12,1,"Count: 12
+Density: 1",end_turn,,,447,561,16
+4092,412,2,"Count: 412
+
+Density: 2",end_turn,,,447,172,300
+4093,78,2,"Count: 78
+Density: 2",end_turn,,,447,13,75
+4094,20,2,"Count: 20
+Density: 2",end_turn,,,447,825,19
+4096,85,2,"Count: 85
+Density: 2",end_turn,,,485,150,54
+4098,32,2,"Count: 32
+Density: 2",end_turn,,,447,421,24
+4104,106,2,"Count: 106
+
+Density: 2",end_turn,,,390,92,106
+4106,3,0,"Count: 3
+
+Density: 0",end_turn,,,428,236,7
+4108,9,1,"Count: 9
+Density: 1",end_turn,,,485,370,9
+4111,58,2,"Count: 58
+Density: 2",end_turn,,,485,192,43
+4116,36,2,"Count: 36
+Density: 2",end_turn,,,485,538,34
+4118,412,2,"Count: 412
+
+Density: 2",end_turn,,,485,142,43
+4119,2500,2,"Count: 2500
+
+Density: 2",end_turn,,,561,132,300
+4122,42,2,"Count: 42
+Density: 2",end_turn,,,466,222,27
+4126,1150,2,"Count: 1150
+Density: 2",end_turn,,,485,137,300
+4127,1100,2,"Count: 1100
+
+Density: 2",end_turn,,,485,244,300
+4128,148,2,"Count: 148
+Density: 2",end_turn,,,447,13,113
+4132,33,2,"Count: 33
+Density: 2",end_turn,,,485,344,33
+4134,216,2,"Count: 216
+Density: 2",end_turn,,,447,128,216
+4135,58,2,"Count: 58
+
+Density: 2",end_turn,,,447,198,28
+4136,12,2,"Count: 12
+Density: 2",end_turn,,,447,354,5
+4138,10,1,"Count: 10
+Density: 1",end_turn,,,485,200,1
+4139,29,2,"Count: 29
+Density: 2",end_turn,,,485,810,29
+4140,137,2,"Count: 137
+
+Density: 2",end_turn,,,504,126,137
+4141,1500,2,"Count: 1500
+Density: 2",end_turn,,,485,221,300
+4143,38,2,"Count: 38
+
+Density: 2",end_turn,,,599,439,17
+4144,72,2,"Count: 72
+
+Density: 2",end_turn,,,485,141,48
+4145,108,2,"Count: 108
+
+Density: 2",end_turn,,,504,123,108
+4146,20,1,"Count: 20
+
+Density: 1",end_turn,,,504,814,17
+4148,275,2,"Count: 275
+Density: 2",end_turn,,,504,167,108
+4152,180,2,"Count: 180
+Density: 2",end_turn,,,428,170,75
+4154,294,2,"Count: 294
+
+Density: 2",end_turn,,,504,103,281
+4155,72,2,"Count: 72
+Density: 2",end_turn,,,485,346,24
+4159,21456,2,"Count: 21456
+
+Density: 2",end_turn,,,485,180,55
+4160,18,2,"Count: 18
+
+Density: 2",end_turn,,,485,484,18
+4163,196,2,"Count: 196
+
+Density: 2",end_turn,,,447,149,196
+4164,31,2,"Count: 31
+
+Density: 2",end_turn,,,447,692,30
+4167,380,2,"Count: 380
+Density: 2",end_turn,,,485,143,49
+4172,96,2,"Count: 96
+Density: 2",end_turn,,,447,187,67
+4174,72,2,"Count: 72
+Density: 2",end_turn,,,485,220,72
+4175,14,1,"Count: 14
+Density: 1",end_turn,,,485,556,11
+4176,85,2,"Count: 85
+
+Density: 2",end_turn,,,485,165,69
+4178,279,2,"Count: 279
+
+Density: 2",end_turn,,,485,120,283
+4180,340,2,"Count: 340
+
+Density: 2",end_turn,,,485,177,160
+4181,700,2,"Count: 700
+
+Density: 2",end_turn,,,485,176,26
+4182,24,2,"Count: 24
+
+Density: 2",end_turn,,,504,304,23
+4193,340,2,"Count: 340
+Density: 2",end_turn,,,485,189,300
+4195,1,0,"Count: 1
+Density: 0",end_turn,,,428,151,0
+4199,140,2,"Count: 140
+
+Density: 2",end_turn,,,428,195,132
+4201,320,2,"Count: 320
+Density: 2",end_turn,,,428,171,53
+4202,480,2,"Count: 480
+
+Density: 2",end_turn,,,447,190,300
+4204,236,2,"Count: 236
+
+Density: 2",end_turn,,,390,98,241
+4208,276,2,"Count: 276
+
+Density: 2",end_turn,,,447,161,111
+4210,36,2,"Count: 36
+
+Density: 2",end_turn,,,485,298,22
+4211,320,2,"Count: 320
+
+Density: 2",end_turn,,,447,102,300
+4214,24,1,"Count: 24
+
+Density: 1",end_turn,,,485,373,13
+4215,39,2,"Count: 39
+Density: 2",end_turn,,,485,899,39
+4217,138,2,"Count: 138
+Density: 2",end_turn,,,447,117,75
+4218,650,2,"Count: 650
+
+Density: 2",end_turn,,,580,158,0
+4220,8,1,"Count: 8
+Density: 1",end_turn,,,485,366,7
+4222,348,2,"Count: 348
+
+Density: 2",end_turn,,,504,135,154
+4227,1420,2,"Count: 1420
+Density: 2",end_turn,,,485,170,300
+4230,150,2,"Count: 150
+Density: 2",end_turn,,,428,458,68
+4236,37,2,"Count: 37
+Density: 2",end_turn,,,504,466,39
+4237,14,1,"Count: 14
+Density: 1",end_turn,,,504,335,12
+4240,240,2,"Count: 240
+
+Density: 2",end_turn,,,388,145,52
+4244,294,2,"Count: 294
+
+Density: 2",end_turn,,,447,189,294
+4254,17,1,"Count: 17
+Density: 1",end_turn,,,418,409,17
+4256,12,2,"Count: 12
+Density: 2",end_turn,,,409,201,10
+4260,175,2,"Count: 175
+Density: 2",end_turn,,,447,134,131
+4267,85,2,"Count: 85
+
+Density: 2",end_turn,,,466,175,70
+4268,12,1,"Count: 12
+Density: 1",end_turn,,,447,666,11
+4270,170,2,"Count: 170
+
+Density: 2",end_turn,,,447,150,66
+4271,35,2,"Count: 35
+Density: 2",end_turn,,,328,174,3
+4273,158,2,"Count: 158
+Density: 2",end_turn,,,485,109,151
+4276,145,2,"Count: 145
+
+Density: 2",end_turn,,,352,123,138
+4279,1200,2,"Count: 1200
+
+Density: 2",end_turn,,,504,245,25
+4281,115,2,"Count: 115
+Density: 2",end_turn,,,447,136,8
+4284,13,1,"Count: 13
+Density: 1",end_turn,,,447,647,11
+4286,68,2,"Count: 68
+
+Density: 2",end_turn,,,504,216,61
+4291,128,2,"Count: 128
+Density: 2",end_turn,,,485,181,110
+4293,178,2,"Count: 178
+Density: 2",end_turn,,,371,110,64
+4294,12,1,"Count: 12
+Density: 1",end_turn,,,485,401,11
+4295,176,2,"Count: 176
+
+Density: 2",end_turn,,,390,166,178
+4296,330,2,"Count: 330
+Density: 2",end_turn,,,485,134,300
+4297,193,2,"Count: 193
+
+Density: 2",end_turn,,,485,169,193
+4299,287,2,"Count: 287
+Density: 2",end_turn,,,466,195,84
+4301,102,2,"Count: 102
+Density: 2",end_turn,,,504,134,98
+4304,5200,2,"Count: 5200
+
+Density: 2",end_turn,,,542,115,0
+4309,260,2,"Count: 260
+
+Density: 2",end_turn,,,542,136,257
+4310,51,2,"Count: 51
+Density: 2",end_turn,,,466,246,51
+4311,180,2,"Count: 180
+
+Density: 2",end_turn,,,504,116,15
+4312,209,2,"Count: 209
+
+Density: 2",end_turn,,,447,162,209
+4314,55,2,"Count: 55
+Density: 2",end_turn,,,485,262,18
+4315,380,2,"Count: 380
+
+Density: 2",end_turn,,,485,129,21
+4316,35,2,"Count: 35
+Density: 2",end_turn,,,428,776,27
+4318,51,2,"Count: 51
+Density: 2",end_turn,,,485,280,51
+4322,2500,2,"Count: 2500
+
+Density: 2",end_turn,,,485,162,300
+4323,9,0,"Count: 9
+
+Density: 0",end_turn,,,447,357,9
+4324,450,2,"Count: 450
+Density: 2",end_turn,,,485,120,40
+4325,46,1,"Count: 46
+Density: 1",end_turn,,,485,273,17
+4327,2300,2,"Count: 2300
+Density: 2",end_turn,,,485,174,300
+4328,1200,2,"Count: 1200
+Density: 2",end_turn,,,352,162,300
+4333,75,2,"Count: 75
+Density: 2",end_turn,,,466,177,58
+4334,36,1,"Count: 36
+Density: 1",end_turn,,,485,507,36
+4336,1800,2,"Count: 1800
+Density: 2",end_turn,,,428,164,300
+4341,350,2,"Count: 350
+
+Density: 2",end_turn,,,485,124,104
+4342,24,1,"Count: 24
+Density: 1",end_turn,,,504,367,21
+4343,1350,2,"Count: 1350
+
+Density: 2",end_turn,,,371,196,217
+4346,240,2,"Count: 240
+
+Density: 2",end_turn,,,466,126,90
+4347,350,2,"Count: 350
+Density: 2",end_turn,,,504,153,162
+4352,15,1,"Count: 15
+Density: 1",end_turn,,,466,472,8
+4353,340,2,"Count: 340
+Density: 2",end_turn,,,504,154,81
+4355,15,1,"Count: 15
+Density: 1",end_turn,,,485,293,14
+4356,56,2,"Count: 56
+Density: 2",end_turn,,,485,189,56
+4362,90,2,"Count: 90
+
+Density: 2",end_turn,,,485,122,35
+4366,240,2,"Count: 240
+
+Density: 2",end_turn,,,504,200,176
+4367,52,1,"Count: 52
+Density: 1",end_turn,,,523,571,38
+4372,680,2,"Count: 680
+
+Density: 2",end_turn,,,485,134,114
+4374,275,2,"Count: 275
+
+Density: 2",end_turn,,,466,141,35
+4375,105,2,"Count: 105
+Density: 2",end_turn,,,371,137,75
+4376,62,2,"Count: 62
+Density: 2",end_turn,,,485,191,21
+4378,112,2,"Count: 112
+
+Density: 2",end_turn,,,504,186,86

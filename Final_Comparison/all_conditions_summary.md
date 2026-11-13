@@ -24,4 +24,16 @@
 | GPT-6.1 Terra | Zero-shot | B | 133.87 | 490.77 | 45.64 | 76.25 | 72.77 | 1600 |
 | GPT-6.1 Terra | Zero-shot + density definition | A | 169.95 | 607.96 | 55.27 | 78.88 | 76.68 | 1600 |
 | GPT-6.1 Terra | Zero-shot + density definition | B | 137.52 | 558.98 | 36.19 | 79.69 | 77.73 | 1600 |
+| Claude Haiku 5.5 | 5-shot | A | 341.74 | 2024.21 | 91.64 | 74.69 | 73.41 | 1600 |
+| Claude Haiku 5.5 | 5-shot | B | 220.92 | 1100.55 | 44.26 | 71.31 | 72.41 | 1600 |
+| Claude Haiku 5.5 | Zero-shot | A | 482.64 | 3396.90 | 69.81 | 71.62 | 67.09 | 1600 |
+| Claude Haiku 5.5 | Zero-shot | B | 237.11 | 1384.49 | 43.01 | 70.31 | 65.97 | 1600 |
+| Claude Haiku 5.5 | Zero-shot + density definition | A | 278.39 | 1845.96 | 49.19 | 76.38 | 74.62 | 1600 |
+| Claude Haiku 5.5 | Zero-shot + density definition | B | 207.00 | 1164.75 | 37.58 | 75.38 | 74.50 | 1600 |
+| Claude Sonnet 5.5 | 5-shot | A | 149.97 | 465.97 | 62.15 | 77.94 | 78.48 | 1600 |
+| Claude Sonnet 5.5 | 5-shot | B | 141.44 | 458.14 | 65.76 | 77.44 | 78.05 | 1600 |
+| Claude Sonnet 5.5 | Zero-shot | A | 252.51 | 1626.03 | 45.54 | 77.81 | 78.22 | 1600 |
+| Claude Sonnet 5.5 | Zero-shot | B | 207.56 | 1237.58 | 36.73 | 76.50 | 77.31 | 1600 |
+| Claude Sonnet 5.5 | Zero-shot + density definition | A | 232.80 | 1551.74 | 41.69 | 78.12 | 79.28 | 1600 |
+| Claude Sonnet 5.5 | Zero-shot + density definition | B | 182.59 | 970.49 | 34.87 | 77.81 | 79.23 | 1600 |
 | *YOLO baseline (count only)* | — | — | 241.87 | 737.65 | 50.64 | — | — | 1600 |

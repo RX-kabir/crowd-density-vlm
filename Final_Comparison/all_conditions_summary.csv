@@ -23,3 +23,15 @@ GPT-6.1 Terra,Zero-shot,A,no,gpt/Zero_Shot/gpt_experiment_A_zeroshot_evaluated.c
 GPT-6.1 Terra,Zero-shot,B,yes,gpt/Zero_Shot/gpt_experiment_B_zeroshot_evaluated.csv,False,1600,133.87,490.77,45.64,1600,76.25,75.62,76.25,72.77
 GPT-6.1 Terra,Zero-shot + density definition,A,no,gpt/Zero_Shot_Density/gpt_experiment_A_zeroshot_densitydef_evaluated.csv,False,1600,169.95,607.96,55.27,1600,78.88,80.49,78.88,76.68
 GPT-6.1 Terra,Zero-shot + density definition,B,yes,gpt/Zero_Shot_Density/gpt_experiment_B_zeroshot_densitydef_evaluated.csv,False,1600,137.52,558.98,36.19,1600,79.69,81.09,79.69,77.73
+Claude Haiku 5.5,5-shot,A,no,claude_haiku/Five_Shot/haiku_experiment_A_evaluated.csv,False,1600,341.74,2024.21,91.64,1600,74.69,75.87,74.69,73.41
+Claude Haiku 5.5,5-shot,B,yes,claude_haiku/Five_Shot/haiku_experiment_B_evaluated.csv,False,1600,220.92,1100.55,44.26,1600,71.31,76.33,71.31,72.41
+Claude Haiku 5.5,Zero-shot,A,no,claude_haiku/Zero_Shot/haiku_experiment_A_zeroshot_evaluated.csv,False,1600,482.64,3396.9,69.81,1600,71.62,71.33,71.62,67.09
+Claude Haiku 5.5,Zero-shot,B,yes,claude_haiku/Zero_Shot/haiku_experiment_B_zeroshot_evaluated.csv,False,1600,237.11,1384.49,43.01,1600,70.31,70.04,70.31,65.97
+Claude Haiku 5.5,Zero-shot + density definition,A,no,claude_haiku/Zero_Shot_Density/haiku_experiment_A_zeroshot_densitydef_evaluated.csv,False,1600,278.39,1845.96,49.19,1600,76.38,78.5,76.38,74.62
+Claude Haiku 5.5,Zero-shot + density definition,B,yes,claude_haiku/Zero_Shot_Density/haiku_experiment_B_zeroshot_densitydef_evaluated.csv,False,1600,207.0,1164.75,37.58,1600,75.38,78.55,75.38,74.5
+Claude Sonnet 5.5,5-shot,A,no,claude_sonnet/Five_Shot/sonnet_experiment_A_evaluated.csv,False,1600,149.97,465.97,62.15,1600,77.94,79.93,77.94,78.48
+Claude Sonnet 5.5,5-shot,B,yes,claude_sonnet/Five_Shot/sonnet_experiment_B_evaluated.csv,False,1600,141.44,458.14,65.76,1600,77.44,79.34,77.44,78.05
+Claude Sonnet 5.5,Zero-shot,A,no,claude_sonnet/Zero_Shot/sonnet_experiment_A_zeroshot_evaluated.csv,False,1600,252.51,1626.03,45.54,1600,77.81,84.43,77.81,78.22
+Claude Sonnet 5.5,Zero-shot,B,yes,claude_sonnet/Zero_Shot/sonnet_experiment_B_zeroshot_evaluated.csv,False,1600,207.56,1237.58,36.73,1600,76.5,83.85,76.5,77.31
+Claude Sonnet 5.5,Zero-shot + density definition,A,no,claude_sonnet/Zero_Shot_Density/sonnet_experiment_A_zeroshot_densitydef_evaluated.csv,False,1600,232.8,1551.74,41.69,1600,78.12,83.31,78.12,79.28
+Claude Sonnet 5.5,Zero-shot + density definition,B,yes,claude_sonnet/Zero_Shot_Density/sonnet_experiment_B_zeroshot_densitydef_evaluated.csv,False,1600,182.59,970.49,34.87,1600,77.81,83.36,77.81,79.23

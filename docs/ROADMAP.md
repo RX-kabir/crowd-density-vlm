@@ -7,7 +7,8 @@
 
 ## Next
 - [ ] **Update the cross-model reports with GPT-6.1 Terra** — `Final_Comparison` (12 → 16 conditions: chart, report `.md` / `.docx` / `.pdf`) and `DensityDef_CrossModel_Synthesis.md`. (The headline table in the README already includes GPT.)
-- [ ] **Claude Haiku 5.5** (medium effort) — the same six conditions, pilot first, then the batch API.
+- [x] **Claude Haiku 5.5** (medium effort) — all six conditions complete; findings, figures and CSVs in [`../claude_haiku/`](../claude_haiku/).
+- [x] **Claude Sonnet 5.5** (medium effort) — all six conditions complete; findings, figures and CSVs in [`../claude_sonnet/`](../claude_sonnet/).
 - [ ] **Gemini 3.8** — same design; variant to be decided.
 - [ ] **Fine-tune a VLM for density estimation** (model to be chosen) and evaluate it on the same 1,600 test images with the same prompt and metrics, to test whether a fine-tuned model beats the prompted ones. Keep the test images out of the fine-tuning data (the 5-shot support images already come from the training split).
 

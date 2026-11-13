@@ -25,7 +25,8 @@ Every model is tested under the same six conditions (3 prompting strategies × w
 | LLaVA-Interleave-0.5B | open-source, greedy decoding | all 6 conditions done |
 | Gemma 3 (4B) | open-source, greedy decoding | all 6 conditions done |
 | GPT-6.1 Terra | closed, OpenAI Batch API, medium reasoning effort (non-deterministic) | all 6 conditions done |
-| Claude Haiku 5.5 | closed | planned |
+| Claude Haiku 5.5 | closed, Anthropic Message Batches API, medium effort (non-deterministic) | notebooks in `claude_haiku/`; all six conditions done (5-shot, zero-shot, zero-shot + density definition, each A and B) |
+| Claude Sonnet 5.5 | closed, Anthropic Message Batches API, medium effort (non-deterministic) | notebooks in `claude_sonnet/`; all six conditions done (5-shot, zero-shot, zero-shot + density definition, each A and B) |
 | Gemini 3.8 | closed | planned |
 | Fine-tuned VLM | to be fine-tuned for density estimation | planned |
 
@@ -63,6 +64,18 @@ All numbers are recomputed from the saved CSVs by [`scripts/summarize_results.py
 | GPT-6.1 Terra | Zero-shot | B | 133.87 | 490.77 | 45.64 | 76.25 | 72.77 | 1600 |
 | GPT-6.1 Terra | Zero-shot + density definition | A | 169.95 | 607.96 | 55.27 | 78.88 | 76.68 | 1600 |
 | GPT-6.1 Terra | Zero-shot + density definition | B | 137.52 | 558.98 | 36.19 | 79.69 | 77.73 | 1600 |
+| Claude Haiku 5.5 | 5-shot | A | 341.74 | 2024.21 | 91.64 | 74.69 | 73.41 | 1600 |
+| Claude Haiku 5.5 | 5-shot | B | 220.92 | 1100.55 | 44.26 | 71.31 | 72.41 | 1600 |
+| Claude Haiku 5.5 | Zero-shot | A | 482.64 | 3396.90 | 69.81 | 71.62 | 67.09 | 1600 |
+| Claude Haiku 5.5 | Zero-shot | B | 237.11 | 1384.49 | 43.01 | 70.31 | 65.97 | 1600 |
+| Claude Haiku 5.5 | Zero-shot + density definition | A | 278.39 | 1845.96 | 49.19 | 76.38 | 74.62 | 1600 |
+| Claude Haiku 5.5 | Zero-shot + density definition | B | 207.00 | 1164.75 | 37.58 | 75.38 | 74.50 | 1600 |
+| Claude Sonnet 5.5 | 5-shot | A | 149.97 | 465.97 | 62.15 | 77.94 | 78.48 | 1600 |
+| Claude Sonnet 5.5 | 5-shot | B | 141.44 | 458.14 | 65.76 | 77.44 | 78.05 | 1600 |
+| Claude Sonnet 5.5 | Zero-shot | A | 252.51 | 1626.03 | 45.54 | 77.81 | 78.22 | 1600 |
+| Claude Sonnet 5.5 | Zero-shot | B | 207.56 | 1237.58 | 36.73 | 76.50 | 77.31 | 1600 |
+| Claude Sonnet 5.5 | Zero-shot + density definition | A | 232.80 | 1551.74 | 41.69 | 78.12 | 79.28 | 1600 |
+| Claude Sonnet 5.5 | Zero-shot + density definition | B | 182.59 | 970.49 | 34.87 | 77.81 | 79.23 | 1600 |
 | *YOLO baseline (count only)* | — | — | 241.87 | 737.65 | 50.64 | — | — | 1600 |
 
 Short reading of the table (details in the findings documents below):
@@ -85,7 +98,7 @@ crowd-density-vlm/
 ├── support_mapping/          support_mapping.csv: the five support examples used for every test image
 ├── yolo/                     YOLO baseline predictions / evaluation (+ README with a known issue)
 ├── pipeline/                 notebooks that produced the YOLO predictions and the support mapping
-├── qwen/  llava/  gemma/  gpt/
+├── qwen/  llava/  gemma/  gpt/  claude_haiku/  claude_sonnet/
 │   ├── Five_Shot/            notebooks, raw + evaluated CSVs, figures, findings (.md)
 │   ├── Zero_Shot/
 │   └── Zero_Shot_Density/
@@ -105,8 +118,10 @@ crowd-density-vlm/
 | LLaVA-Interleave-0.5B | [A](llava/Five_Shot/LLaVA_ExperimentA_Findings.md), [B](llava/Five_Shot/LLaVA_ExperimentB_Findings.md), [A vs B](llava/Five_Shot/LLaVA_A_vs_B_Comparison.md) | [A](llava/Zero_shot/) | [A](llava/Zero_Shot_Density/LLaVA_DensityDef_ZeroShotA_Findings.md), [B](llava/Zero_Shot_Density/LLaVA_DensityDef_ZeroShotB_Findings.md) |
 | Gemma 3 (4B) | [A](gemma/Five_Shot/Gemma_ExperimentA_Findings.md), [A vs B](gemma/Five_Shot/Gemma_A_vs_B_Comparison.md) | [A](gemma/Zero_Shot/Gemma_ZeroShot_A_Findings.md), [A vs B](gemma/Zero_Shot/Gemma_ZeroShot_A_vs_B_Comparison.md) | [A](gemma/Zero_Shot_Density/Gemma_DensityDef_ZeroShotA_Findings.md), [B](gemma/Zero_Shot_Density/Gemma_DensityDef_ZeroShotB_Findings.md) |
 | GPT-6.1 Terra | [A](gpt/Five_Shot/GPT_ExperimentA_Findings.md), [B](gpt/Five_Shot/GPT_ExperimentB_Findings.md), [A vs B](gpt/Five_Shot/GPT_A_vs_B_Comparison.md) | [A](gpt/Zero_Shot/GPT_ZeroShot_A_Findings.md), [B](gpt/Zero_Shot/GPT_ZeroShot_B_Findings.md), [A vs B](gpt/Zero_Shot/GPT_ZeroShot_A_vs_B_Comparison.md) | [A](gpt/Zero_Shot_Density/GPT_DensityDef_ZeroShotA_Findings.md), [B](gpt/Zero_Shot_Density/GPT_DensityDef_ZeroShotB_Findings.md) |
+| Claude Haiku 5.5 | [A](claude_haiku/Five_Shot/Haiku_ExperimentA_Findings.md), [B](claude_haiku/Five_Shot/Haiku_ExperimentB_Findings.md), [A vs B](claude_haiku/Five_Shot/Haiku_A_vs_B_Comparison.md) | [A](claude_haiku/Zero_Shot/Haiku_ZeroShot_A_Findings.md), [B](claude_haiku/Zero_Shot/Haiku_ZeroShot_B_Findings.md), [A vs B](claude_haiku/Zero_Shot/Haiku_ZeroShot_A_vs_B_Comparison.md) | [A](claude_haiku/Zero_Shot_Density/Haiku_DensityDef_ZeroShotA_Findings.md), [B](claude_haiku/Zero_Shot_Density/Haiku_DensityDef_ZeroShotB_Findings.md) |
+| Claude Sonnet 5.5 | [A](claude_sonnet/Five_Shot/Sonnet_ExperimentA_Findings.md), [B](claude_sonnet/Five_Shot/Sonnet_ExperimentB_Findings.md), [A vs B](claude_sonnet/Five_Shot/Sonnet_A_vs_B_Comparison.md) | [A](claude_sonnet/Zero_Shot/Sonnet_ZeroShot_A_Findings.md), [B](claude_sonnet/Zero_Shot/Sonnet_ZeroShot_B_Findings.md), [A vs B](claude_sonnet/Zero_Shot/Sonnet_ZeroShot_A_vs_B_Comparison.md) | [A](claude_sonnet/Zero_Shot_Density/Sonnet_DensityDef_ZeroShotA_Findings.md), [B](claude_sonnet/Zero_Shot_Density/Sonnet_DensityDef_ZeroShotB_Findings.md) |
 
-Cross-model reports: [Final_Comparison/Final_CrossModel_AllConditions_Findings.md](Final_Comparison/Final_CrossModel_AllConditions_Findings.md) (Qwen / LLaVA / Gemma, 12 conditions) and [Final_Comparison/DensityDef_CrossModel_Synthesis.md](Final_Comparison/DensityDef_CrossModel_Synthesis.md). **These two reports have not yet been updated to include GPT-6.1 Terra**; the table above already does.
+Cross-model reports: [Final_Comparison/Final_CrossModel_AllConditions_Findings.md](Final_Comparison/Final_CrossModel_AllConditions_Findings.md) (Qwen / LLaVA / Gemma, 12 conditions) and [Final_Comparison/DensityDef_CrossModel_Synthesis.md](Final_Comparison/DensityDef_CrossModel_Synthesis.md). **These two reports have not yet been updated to include GPT-6.1 Terra, Claude Haiku 5.5 and Claude Sonnet 5.5**; the table above already does.
 
 ---
 

@@ -21,12 +21,15 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 
 ROOT = Path(__file__).resolve().parents[1]
 
-MODELS = {            # display name -> folder
+MODELS = {            # display name -> folder (file prefix = folder name unless listed in PREFIX)
     "Qwen2.5-VL-3B": "qwen",
     "LLaVA-Interleave-0.5B": "llava",
     "Gemma 3 (4B)": "gemma",
     "GPT-6.1 Terra": "gpt",
+    "Claude Haiku 5.5": "claude_haiku",
+    "Claude Sonnet 5.5": "claude_sonnet",   # picked up automatically once its CSVs exist
 }
+PREFIX = {"claude_haiku": "haiku", "claude_sonnet": "sonnet"}
 CONDITIONS = [        # (label, folder candidates, A file, B file)
     ("5-shot", ["Five_Shot"], "{m}_experiment_{x}", "{m}_experiment_{x}"),
     ("Zero-shot", ["Zero_Shot", "Zero_shot"], "{m}_experiment_{x}_zeroshot", None),
@@ -78,7 +81,7 @@ def main():
     for model_name, model_dir in MODELS.items():
         for cond_label, folders, stem_tpl, _ in CONDITIONS:
             for exp in ("A", "B"):
-                stem = stem_tpl.format(m=model_dir, x=exp)
+                stem = stem_tpl.format(m=PREFIX.get(model_dir, model_dir), x=exp)
                 path, evaluated = find(folders, model_dir, stem)
                 if path is None and cond_label == "5-shot" and exp == "B" and model_dir == "qwen":
                     path, evaluated = ROOT / "qwen" / "Five_Shot" / "qwen_experiment_B_evaluated.csv", True
